@@ -1,11 +1,11 @@
 @extends('layouts.main')
-@section('title', 'Philanthropic Advisory | Private Banking | Vanward International')
+@section('title', 'Investment Advisory | Private Banking | Vanward International')
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.philanthropic advisory'),
-        'url' => 'careers/private-wealth-management',
-        'sub2' => __('public.private wealth management'),
+        'title' => __('public.US large cap equity'),
+        'url' => 'investment-management',
+        'sub2' => __('public.investment management'),
 
     ])
     @endcomponent
@@ -66,31 +66,24 @@
                 </div>
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="divider-l"></div>
-                        <p class="paragraph">
-                            @lang('public.philanthropic advisory paragraph 1')
+                        <p class="paragraph" >
+                            @lang('public.pe2')
                             <br><br>
-                            @lang('public.philanthropic advisory paragraph 2')
+                            <span class="font-bold"><strong>@lang('public.pe3')</strong></span>
+                            <br>
+                                @lang('public.pe4')
+                                @lang('public.pe5')
+                                @lang('public.pe6')
                             <br><br>
-                            @lang('public.philanthropic advisory paragraph 3')
+                            <span class="font-bold"><strong>@lang('public.pe7')</strong></span>
+                            <br>
+                            @lang('public.pe8')
+                            <br> <br>
+                            <span class="font-bold"><strong>@lang('public.pe9')</strong></span>
+                            <br>
+                            @lang('public.pe10')
                             <br><br>
-                            @lang('public.philanthropic advisory paragraph 4')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 5')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 6')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 7')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 8')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 9')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 10')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 11')
-                            <br><br>
-                            @lang('public.philanthropic advisory paragraph 12')
+                            @lang('public.pe11')
                         </p>
                     </div>
                 </div>

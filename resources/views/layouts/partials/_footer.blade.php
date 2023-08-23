@@ -1,4 +1,4 @@
-    <div class="container">
+    {{-- <div class="container">
         <div class="row">
             <div class="col-lg-4">
                 <h3>Execoore</h3>
@@ -28,7 +28,7 @@
                 </ul>
             </div>
         </div>
-    </div>
+    </div> --}}
     {{-- <div class="footer-bar"> --}}
         <div class="container">
             <p>@lang('public.home page 26')<br><br>

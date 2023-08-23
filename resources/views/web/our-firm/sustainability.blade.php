@@ -52,8 +52,20 @@
                 </div> --}}
                 <div class="row">
                     <div class="col-lg-8">
-                        <p>
+                        <p class="paragraph">
                             @lang('public.our firm 3')
+                            <br><br>
+                            <span class="font-bold"><strong>@lang('public.our firm 4')</strong></span>
+                            <br>
+                            @lang('public.our firm 5')
+                            <br><br>
+                            <span class="font-bold"><strong>@lang('public.our firm 6')</strong></span>
+                            <br>
+                            @lang('public.our firm 7')
+                            <br><br>
+                            <span class="font-bold"><strong>@lang('public.our firm 8')</strong></span>
+                            <br>
+                            @lang('public.our firm 9')
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

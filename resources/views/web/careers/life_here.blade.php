@@ -3,7 +3,7 @@
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.life here'),
+        'title' => __('public.life at vanward'),
         'url' => '/life-here',
         'sub2' => __('public.careers'),
 

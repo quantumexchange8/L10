@@ -70,15 +70,15 @@
                         <p class="paragraph">
                             @lang('public.our firm 10')
                             <br><br>
-                            <span class="font-bold">@lang('public.our firm 11')</span>
+                            <span class="font-bold"><strong>@lang('public.our firm 11')</strong></span>
                             <br>
                             @lang('public.our firm 12')
                             <br><br>
-                            <span class="font-bold">@lang('public.our firm 13')</span>
+                            <span class="font-bold"><strong>@lang('public.our firm 13')</strong></span>
                             <br>
                             @lang('public.our firm 14')
                             <br><br>
-                            <span class="font-bold">@lang('public.our firm 15')</span>
+                            <span class="font-bold"><strong>@lang('public.our firm 15')</strong></span>
                             <br>
                             @lang('public.our firm 16')
                         </p>

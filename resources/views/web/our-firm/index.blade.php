@@ -4,8 +4,8 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.our firm'),
-        'url' => '/our-firm',
-        'sub2' => __('public.our firm'),
+        // 'url' => '/our-firm',
+        // 'sub2' => __('public.our firm'),
 
     ])
     @endcomponent
@@ -59,7 +59,7 @@
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/the-partnership.jpg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.the partnership')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
@@ -72,12 +72,12 @@
                         </div>
                         <div class="maso-item cat-1">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/sustainability.jpg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.sustainability')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
                                     <p>
-                                        @lang('public.careers caption 3')
+                                        @lang('public.our firm caption 2')
                                     </p>
                                     <a href="{{ route('web.our-firm.sustainability') }}" class="btn-text">@lang('public.details')</a>
                                 </div>
@@ -85,12 +85,12 @@
                         </div>
                         <div class="maso-item cat-1">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/sustainability.jpg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.our mission & profile')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
                                     <p>
-                                        @lang('public.careers caption 2')
+                                        @lang('public.our firm caption 3')
                                     </p>
                                     <a href="{{ route('web.our-firm.our_mission_and_profile') }}" class="btn-text">@lang('public.details')</a>
                                 </div>
@@ -98,12 +98,12 @@
                         </div>
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/philanthropy.jpg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.careers')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
                                     <p>
-                                        @lang('public.careers 1')
+                                        @lang('public.our firm caption 4')
                                     </p>
                                     <a href="{{ route('web.our-firm.the_partnership') }}" class="btn-text">@lang('public.details')</a>
                                 </div>

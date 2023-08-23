@@ -59,7 +59,7 @@
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/what-we-look-for.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.what we look for')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
@@ -72,7 +72,7 @@
                         </div>
                         <div class="maso-item cat-1 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/rewarding-you.jpg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.rewarding you')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
@@ -85,7 +85,7 @@
                         </div>
                         <div class="maso-item cat-1">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/life-here.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.life at vanward')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}

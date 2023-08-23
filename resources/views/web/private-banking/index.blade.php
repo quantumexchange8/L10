@@ -59,7 +59,7 @@
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/private-wealth-management.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.private wealth management')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
@@ -72,9 +72,9 @@
                         </div>
                         <div class="maso-item cat-1 cat-3">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/corporate-advisory-and-banking.jpeg') }} alt="" /></a>
                                 <div class="caption">
-                                    <h2>@lang('public.corporate advisory')</h2>
+                                    <h2>@lang('public.corporate advisory & banking')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
                                     <p>
                                         @lang('public.private banking caption 2')
@@ -85,7 +85,7 @@
                         </div>
                         <div class="maso-item cat-1">
                             <div class="cnt-box cnt-box-top boxed">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('resource/private-equity.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.private equity')</h2>
                                     {{-- <div class="extra-field">Google</div> --}}
