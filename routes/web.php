@@ -22,7 +22,8 @@ Route::get('/home', function () {
     return view('home');
 });
 
-Route::get('lang/{locale}',[\App\Http\Controllers\LocalizationController::class, 'setLang']);
+Route::get('lang/{locale}', [\App\Http\Controllers\LocalizationController::class, 'setLang'])->name('setLang');
+
 
 Route::get('/our-firm', function () {
     return view('our-firm');
