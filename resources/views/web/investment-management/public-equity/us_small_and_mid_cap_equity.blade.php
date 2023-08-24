@@ -4,8 +4,8 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.US small & mid-cap equity'),
-        'url' => 'investment-management',
-        'sub2' => __('public.investment management'),
+        'url' => 'investment-management/public-equity',
+        'sub2' => __('public.public equity'),
 
     ])
     @endcomponent

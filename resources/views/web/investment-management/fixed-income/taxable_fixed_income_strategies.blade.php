@@ -4,8 +4,8 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.taxable fixed income strategies'),
-        'url' => 'investment-management',
-        'sub2' => __('public.investment management'),
+        'url' => 'investment-management/fixed-income',
+        'sub2' => __('public.fixed income'),
 
     ])
     @endcomponent

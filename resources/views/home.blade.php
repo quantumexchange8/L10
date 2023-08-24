@@ -2,6 +2,7 @@
 @section('title', 'Home | Vanward')
 
 @section('content')
+    <main>
         <section class="section-image section-home-one no-padding-y" style="background-image:url({{ asset('assets/img/hd-1.jpg') }})">
             <div class="container">
                 <div class="row">
@@ -12,20 +13,20 @@
                         </h3>
                         <ul class="slider" data-options="arrows:false,nav:false,autoplay:3000,controls:out">
                             <li>
-                                <h1 class="text-uppercase">Wealth Planning</h1>
+                                <h1 class="text-uppercase">@lang('public.wealth planning')</h1>
                             </li>
                             <li>
-                                <h1 class="text-uppercase">Trust Services</h1>
+                                <h1 class="text-uppercase">@lang('public.trust services')</h1>
                             </li>
                             <li>
-                                <h1 class="text-uppercase">Private Equity</h1>
+                                <h1 class="text-uppercase">@lang('public.private equity')</h1>
                             </li>
                         </ul>
                         <p>
-                            We provide customised financial solutions that safeguard, expand, and enhance our clients overall financial situation. Client satisfaction is our top priority, and we spare no effort to exceed their expectations in everything we do.
+                            {{-- We provide customised financial solutions that safeguard, expand, and enhance our clients overall financial situation. Client satisfaction is our top priority, and we spare no effort to exceed their expectations in everything we do. --}}
                         </p>
                         <hr class="space-sm" />
-                        <a href="#" class="btn btn-sm width-190 full-width-sm">Being a client</a>
+                        <a href="#" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
                         <hr class="space-lg" />
                         <hr class="space-lg" />
                     </div>
@@ -44,7 +45,7 @@
                             <div class="cnt-box cnt-box-top-icon boxed">
                                 <i class="im-monitor-phone"></i>
                                 <div class="caption">
-                                    <h3>Wealth Management</h3>
+                                    <h3>@lang('public.private wealth management')</h3>
                                     <p>
                                         Comprehensive private wealth management experience possible over the long term
                                     </p>
@@ -55,7 +56,7 @@
                             <div class="cnt-box cnt-box-top-icon boxed">
                                 <i class="im-bar-chart2"></i>
                                 <div class="caption">
-                                    <h3>Corporate Advisory</h3>
+                                    <h3>@lang('public.corporate advisory')</h3>
                                     <p>
                                         We have a comprehensive understanding of the challenges faced by private company
                                     </p>
@@ -66,7 +67,7 @@
                             <div class="cnt-box cnt-box-top-icon boxed">
                                 <i class=" im-medal"></i>
                                 <div class="caption">
-                                    <h3>Private Equity</h3>
+                                    <h3>@lang('public.private equity')</h3>
                                     <p>
                                         Collaborates with high-caliber management teams guiding businesses through crucial growth
                                     </p>
@@ -77,7 +78,7 @@
                             <div class="cnt-box cnt-box-top-icon boxed">
                                 <i class="im-optimization"></i>
                                 <div class="caption">
-                                    <h3>Fixed Income</h3>
+                                    <h3>@lang('public.fixed income')</h3>
                                     <p>
                                         Managed fixed income strategies for public and private institutions and wealthy families 
                                     </p>
@@ -88,84 +89,72 @@
                 </div>
                 <div class="row row-fit-lg" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
-                        <ul class="slider" data-options="arrows:true,nav:false">
-                            <li>
-                                <a class="img-box img-box-caption btn-video lightbox" href="https://www.youtube.com/watch?v=Lb4IcGF5iTQ" data-lightbox-anima="fade-top">
-                                    <img src="http://via.placeholder.com/800x500" alt="">
-                                    <span>Albert Patterson</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="img-box img-box-caption lightbox" href="http://via.placeholder.com/800x500" data-lightbox-anima="fade-top">
-                                    <img src="http://via.placeholder.com/800x500" alt="">
-                                    <span>Security team</span>
-                                </a>
-                            </li>
-                        </ul>
+                        <a class="img-box img-box-caption btn-video lightbox" href="https://www.youtube.com/watch?v=Lb4IcGF5iTQ" data-lightbox-anima="fade-top">
+                            <img src="{{ asset('assets/img/hd-2.jpg') }}" alt="">
+                        </a>
                     </div>
                     <div class="col-lg-6">
                         <div class="title">
-                            <h2>Our values and goals</h2>
-                            <p>About us</p>
+                            <h2>@lang('public.home page 2')</h2>
+                            {{-- <p>About us</p> --}}
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua.
-                            Utenim ad minim veniam quis nostrud exercitation ullamco laboris.
+                            @lang('public.home page 3')
                         </p>
-                        <div class="box-sign">
+                        {{-- <div class="box-sign">
                             <img alt="sign" src="{{ asset('assets/img/sign-dark.png') }}">
                             <b>Albert Patterson</b>
                             <span>Founder &amp; CEO</span>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
-        </section>
+        </section><br><br>
         <section class="section-base section-color">
             <div class="container">
                 <div class="row" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
                         <div class="title">
-                            <h2>Core Technology services</h2>
-                            <p>Our services</p>
+                            {{-- <h2>Core Technology services</h2> --}}
+                            <p>@lang('public.home page 7')</p>
                         </div>
                     </div>
-                    <div class="col-lg-6 align-right align-left-md">
+                    {{-- <div class="col-lg-6 align-right align-left-md">
                         <hr class="space-sm hidden-md" />
-                        <a href="#" class="btn-text active">All services</a>
-                    </div>
+                        <a href="#" class="btn-text active">@lang('public.details')</a>
+                    </div> --}}
                 </div>
                 <hr class="space" />
                 <div class="grid-list" data-columns="3" data-columns-md="2" data-columns-sm="1" data-anima="fade-bottom" data-time="1000">
                     <div class="grid-box">
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('resource/private-equity.jpeg') }} alt="" /></a>
                                 <div class="caption">
-                                    <h2>Security audit</h2>
-                                    <div class="cnt-info">
+                                    <h2>@lang('public.home page 8')</h2>
+                                    {{-- <div class="cnt-info">
                                         <div><span>Price</span><span>$50</span></div>
                                         <div><span>Type</span><span>Software</span></div>
                                         <div><span>Client</span><span>Private</span></div>
-                                    </div>
+                                    </div> --}}
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proidento in culpa qui officia deserunt mollit anim id est laborum.
+                                        @lang('public.home page 10')
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/corporate-advisory-and-banking.jpeg') }} alt="" /></a>
                                 <div class="caption">
-                                    <h2>Performance checks</h2>
-                                    <div class="cnt-info">
+                                    <h2>@lang('public.home page 12')</h2>
+                                    {{-- <div class="cnt-info">
                                         <div><span>Price</span><span>$80</span></div>
                                         <div><span>Type</span><span>App</span></div>
                                         <div><span>Client</span><span>Private</span></div>
-                                    </div>
+                                    </div> --}}
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proidento in culpa qui officia deserunt mollit anim id est laborum.
+                                        @lang('public.home page 13')
                                     </p>
                                 </div>
                             </div>
@@ -174,14 +163,14 @@
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
                                 <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Vulnerability report</h2>
-                                    <div class="cnt-info">
+                                    <h2>@lang('public.home page 16')</h2>
+                                    {{-- <div class="cnt-info">
                                         <div><span>Price</span><span>$50</span></div>
                                         <div><span>Type</span><span>App</span></div>
                                         <div><span>Client</span><span>Business</span></div>
-                                    </div>
+                                    </div> --}}
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proidento in culpa qui officia deserunt mollit anim id est laborum.
+                                        @lang('public.home page 17')
                                     </p>
                                 </div>
                             </div>
@@ -190,41 +179,41 @@
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
                                 <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Web development</h2>
-                                    <div class="cnt-info">
+                                    <h2>@lang('public.home page 18')</h2>
+                                    {{-- <div class="cnt-info">
                                         <div><span>Price</span><span>$30</span></div>
                                         <div><span>Type</span><span>Saas</span></div>
                                         <div><span>Client</span><span>Business</span></div>
-                                    </div>
+                                    </div> --}}
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proidento in culpa qui officia deserunt mollit anim id est laborum.
+                                        @lang('public.home page 19')
                                     </p>
                                 </div>
                             </div>
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <div class="extra-field">30% discount today</div>
+                                {{-- <div class="extra-field">30% discount today</div> --}}
                                 <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Legal contracts</h2>
-                                    <div class="cnt-info">
+                                    <h2>@lang('public.home page 21')</h2>
+                                    {{-- <div class="cnt-info">
                                         <div><span>Price</span><span>$100</span></div>
                                         <div><span>Type</span><span>Software</span></div>
                                         <div><span>Client</span><span>Business</span></div>
-                                    </div>
+                                    </div> --}}
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proidento in culpa qui officia deserunt mollit anim id est laborum.
+                                        @lang('public.home page 22')
                                     </p>
                                 </div>
                             </div>
                         </div>
-                        <div class="grid-item">
+                        {{-- <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
                                 <div class="extra-field">30% discount today</div>
                                 <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
                                 <div class="caption">
-                                    <h2>Strategic planning</h2>
+                                    <h2>@lang('public.home page 7')</h2>
                                     <div class="cnt-info">
                                         <div><span>Price</span><span>$100</span></div>
                                         <div><span>Type</span><span>Consulting</span></div>
@@ -235,12 +224,12 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
         </section>
-        <section class="section-base">
+        {{-- <section class="section-base">
             <div class="container">
                 <div class="row" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
@@ -280,38 +269,20 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src="http://via.placeholder.com/1920x1080">
-            <div class="container" data-anima="fade-bottom" data-time="1000">
-                <a href="https://www.youtube.com/watch?v=Lb4IcGF5iTQ" class="btn-video lightbox" data-lightbox-anima="fade-top"></a>
+        </section> --}}
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll">
+            <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
+                <a data-lightbox-anima="fade-top">
+                    <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
+                        <source src="{{ asset('stock-market6.mp4') }}" type="video/mp4">
+                    </video>
+                </a>
+                <h2 class="width-650" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+                    @lang('public.home page 4')
+                </h2>
                 <hr class="space" />
-                <h2 class="width-650">Find a <span class="text-line">evolved</span> and strong connection with software and hardware communication </h2>
-                <hr class="space" />
-                <table class="table table-grid table-border align-center table-logos table-10">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <img src="http://via.placeholder.com/374x103" alt="" />
-                            </td>
-                            <td>
-                                <img src="http://via.placeholder.com/374x103" alt="" />
-                            </td>
-                            <td>
-                                <img src="http://via.placeholder.com/374x103" alt="" />
-                            </td>
-                            <td>
-                                <img src="http://via.placeholder.com/374x103" alt="" />
-                            </td>
-                            <td>
-                                <img src="http://via.placeholder.com/374x103" alt="" />
-                            </td>
-                            <td>
-                                <img src="http://via.placeholder.com/374x103" alt="" />
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
             </div>
+            
         </section>
         <section class="section-base section-color">
             <div class="container">
@@ -541,7 +512,7 @@
                         </tr>
                     </tbody>
                 </table>
-                <div class="row" data-anima="fade-bottom" data-time="1000">
+                {{-- <div class="row" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-3">
                         <div class="title">
                             <h2>The big family</h2>
@@ -609,8 +580,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </section>
+    </main>
     <i class="scroll-top-btn scroll-top show"></i>
 @endsection

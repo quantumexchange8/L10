@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.center for family business'),
-        'url' => 'careers/corporate-advisory-and-banking',
+        'url' => 'private-banking/corporate-advisory-and-banking',
         'sub2' => __('public.corporate advisory & banking'),
 
     ])

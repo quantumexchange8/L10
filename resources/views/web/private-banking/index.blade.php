@@ -55,7 +55,7 @@
                         </ul>
                     </div> --}}
                     {{-- <h2>@lang('public.careers')</h2><br> --}}
-                    <h4>@lang('public.private wealth management 1')</h4><br>
+                    <h4>@lang('public.private banking 1')</h4><br>
                     <div class="maso-box">
                         <div class="maso-item cat-2 cat-3">
                             <div class="cnt-box cnt-box-top boxed">

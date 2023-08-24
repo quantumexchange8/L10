@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.ongoing learning'),
-        'url' => '/ongoing-learning',
+        'url' => '/careers/total-rewards',
         'sub2' => __('public.total rewards'),
 
     ])

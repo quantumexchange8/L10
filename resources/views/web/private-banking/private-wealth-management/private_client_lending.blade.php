@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.private client lending'),
-        'url' => 'careers/private-wealth-management',
+        'url' => 'private-banking/private-wealth-management',
         'sub2' => __('public.private wealth management'),
 
     ])

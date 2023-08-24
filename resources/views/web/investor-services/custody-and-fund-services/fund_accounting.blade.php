@@ -4,8 +4,8 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.fund accounting'),
-        'url' => 'investor-services',
-        'sub2' => __('public.investor services'),
+        'url' => 'investor-services/custody-and-fund-services',
+        'sub2' => __('public.custody & fund services'),
 
     ])
     @endcomponent

@@ -4,8 +4,8 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.infofx'),
-        'url' => 'investor-services/specialist-expertise',
-        'sub2' => __('public.specialist expertise'),
+        'url' => 'investor-services/markets',
+        'sub2' => __('public.markets'),
 
     ])
     @endcomponent

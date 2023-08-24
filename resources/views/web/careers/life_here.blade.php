@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.life at vanward'),
-        'url' => '/life-here',
+        'url' => '/careers',
         'sub2' => __('public.careers'),
 
     ])

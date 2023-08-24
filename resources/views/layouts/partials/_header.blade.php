@@ -162,25 +162,24 @@
                 </div>
                 <ul class="lan-menu">
                     <li class="dropdown">
-                        <a href="#"><img src="{{ asset('assets/img/lang/en.svg') }}" style="width:18px; height:12px;" alt="lang" />EN </a>
+                        <a href="{{ route('setLang', ['locale' => 'en']) }}"><img src="{{ asset('assets/img/lang/en.svg') }}" style="width:18px; height:12px;" alt="lang" />EN </a>
                         <ul>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/en.svg') }}" style="width:18px; height:12px;" alt="lang" />EN</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/ar.svg') }}" style="width:18px; height:12px;" alt="lang" />AR</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/zh.svg') }}" style="width:18px; height:12px;"alt="lang" />ZH</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/da.svg') }}" style="width:18px; height:12px;" alt="lang" />DA</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/nl.svg') }}" style="width:18px; height:12px;" alt="lang" />NL</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/et.svg') }}" style="width:18px; height:12px;"alt="lang" />ET</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/fi.svg') }}" style="width:18px; height:12px;" alt="lang" />FI</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/fr.svg') }}" style="width:18px; height:12px;" alt="lang" />FR</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/de.svg') }}" style="width:18px; height:12px;"alt="lang" />DE</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/it.svg') }}" style="width:18px; height:12px;" alt="lang" />IT</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/ja.svg') }}" style="width:18px; height:12px;"alt="lang" />JA</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/no.svg') }}" style="width:18px; height:12px;" alt="lang" />NO</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/pt.svg') }}" style="width:18px; height:12px;" alt="lang" />PT</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/es.svg') }}" style="width:18px; height:12px;" alt="lang" />ES</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/sv.svg') }}" style="width:18px; height:12px;"alt="lang" />SV</a></li>
-                            <li><a href="#"><img src="{{ asset('assets/img/lang/gsw.svg') }}" style="width:18px; height:12px;"alt="lang" />gsw</a></li>
-                            
+                            <li><a href="{{ route('setLang', ['locale' => 'en']) }}"><img src="{{ asset('assets/img/lang/en.svg') }}" style="width:18px; height:12px;" alt="lang" />EN</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'ar']) }}"><img src="{{ asset('assets/img/lang/ar.svg') }}" style="width:18px; height:12px;" alt="lang" />AR</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'zh']) }}"><img src="{{ asset('assets/img/lang/zh.svg') }}" style="width:18px; height:12px;"alt="lang" />ZH</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'da']) }}"><img src="{{ asset('assets/img/lang/da.svg') }}" style="width:18px; height:12px;" alt="lang" />DA</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'nl']) }}"><img src="{{ asset('assets/img/lang/nl.svg') }}" style="width:18px; height:12px;" alt="lang" />NL</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'et']) }}"><img src="{{ asset('assets/img/lang/et.svg') }}" style="width:18px; height:12px;"alt="lang" />ET</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'fi']) }}"><img src="{{ asset('assets/img/lang/fi.svg') }}" style="width:18px; height:12px;" alt="lang" />FI</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'fr']) }}"><img src="{{ asset('assets/img/lang/fr.svg') }}" style="width:18px; height:12px;" alt="lang" />FR</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'de']) }}"><img src="{{ asset('assets/img/lang/de.svg') }}" style="width:18px; height:12px;"alt="lang" />DE</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'it']) }}"><img src="{{ asset('assets/img/lang/it.svg') }}" style="width:18px; height:12px;" alt="lang" />IT</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'ja']) }}"><img src="{{ asset('assets/img/lang/ja.svg') }}" style="width:18px; height:12px;"alt="lang" />JA</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'no']) }}"><img src="{{ asset('assets/img/lang/no.svg') }}" style="width:18px; height:12px;" alt="lang" />NO</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'pt']) }}"><img src="{{ asset('assets/img/lang/pt.svg') }}" style="width:18px; height:12px;" alt="lang" />PT</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'es']) }}"><img src="{{ asset('assets/img/lang/es.svg') }}" style="width:18px; height:12px;" alt="lang" />ES</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'sv']) }}"><img src="{{ asset('assets/img/lang/sv.svg') }}" style="width:18px; height:12px;"alt="lang" />SV</a></li>
+                            <li><a href="{{ route('setLang', ['locale' => 'gsw']) }}"><img src="{{ asset('assets/img/lang/gsw.svg') }}" style="width:18px; height:12px;"alt="lang" />gsw</a></li>
                         </ul>
                     </li>
                 </ul>

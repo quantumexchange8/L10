@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.investment profile'),
-        'url' => 'careers/private-equity',
+        'url' => 'private-banking/private-equity',
         'sub2' => __('public.private equity'),
 
     ])

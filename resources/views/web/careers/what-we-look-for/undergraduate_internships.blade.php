@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.undergraduate internships'),
-        'url' => '/undergraduate-internships',
+        'url' => '/careers/what-we-look-for',
         'sub2' => __('public.what we look for'),
 
     ])

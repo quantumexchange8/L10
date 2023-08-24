@@ -11,3 +11,4 @@
 <link rel="stylesheet" href="{{ asset('assets/css/media-box.css') }}">
 <link rel="stylesheet" href="{{ asset('assets/skin.css') }}">
 <link rel="icon" href="{{ asset('assets/img/fav.png') }}">
+

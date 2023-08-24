@@ -3,8 +3,8 @@
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.center for women & wealth'),
-        'url' => 'careers/private-wealth-management',
+        'title' => __('public.investment advisory'),
+        'url' => 'private-banking/private-wealth-management',
         'sub2' => __('public.private wealth management'),
 
     ])

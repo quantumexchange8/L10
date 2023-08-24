@@ -3,8 +3,8 @@
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.benefits wellness compensation'),
-        'url' => '/benefits-wellness-compensation',
+        'title' => __('public.benefits, wellness and compensation'),
+        'url' => '/careers/total-rewards',
         'sub2' => __('public.total rewards'),
 
     ])

@@ -4,7 +4,7 @@
 @section('content')
     @component('components.page-header', [
         'title' => __('public.restart'),
-        'url' => '/restart',
+        'url' => '/careers/what-we-look-for',
         'sub2' => __('public.what we look for'),
 
     ])

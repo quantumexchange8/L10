@@ -3,8 +3,8 @@
 
 @section('content')
     @component('components.page-header', [
-        'title' => __('public.trust services'),
-        'url' => 'careers/trust-services',
+        'title' => __('public.wealth planning'),
+        'url' => 'private-banking/private-wealth-management',
         'sub2' => __('public.private wealth management'),
 
     ])
