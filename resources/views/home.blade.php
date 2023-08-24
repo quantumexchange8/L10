@@ -26,7 +26,7 @@
                             {{-- We provide customised financial solutions that safeguard, expand, and enhance our clients overall financial situation. Client satisfaction is our top priority, and we spare no effort to exceed their expectations in everything we do. --}}
                         </p>
                         <hr class="space-sm" />
-                        <a href="#" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
+                        <a href="https://app.vanwardintl.com/en/applications/create/" class="btn btn-sm width-190 full-width-sm">@lang('public.home page 1')</a>
                         <hr class="space-lg" />
                         <hr class="space-lg" />
                     </div>
@@ -110,13 +110,27 @@
                 </div>
             </div>
         </section><br><br>
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd-1.jpg') }}>
+            <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
+                <a data-lightbox-anima="fade-top">
+                    <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
+                        <source src="{{ asset('stock-market6.mp4') }}" type="video/mp4">
+                    </video>
+                </a>
+                <h2 class="width-650" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+                    @lang('public.home page 4')
+                </h2>
+                <hr class="space" />
+            </div>
+            
+        </section>
         <section class="section-base section-color">
             <div class="container">
                 <div class="row" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
                         <div class="title">
                             {{-- <h2>Core Technology services</h2> --}}
-                            <p>@lang('public.home page 7')</p>
+                            <h2>@lang('public.home page 7')</h2>
                         </div>
                     </div>
                     {{-- <div class="col-lg-6 align-right align-left-md">
@@ -161,7 +175,7 @@
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/private-wealth-management.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 16')</h2>
                                     {{-- <div class="cnt-info">
@@ -177,7 +191,7 @@
                         </div>
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/markets.jpeg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 18')</h2>
                                     {{-- <div class="cnt-info">
@@ -194,7 +208,7 @@
                         <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
                                 {{-- <div class="extra-field">30% discount today</div> --}}
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                <a href="#" class="img-box"><img src={{ url('/resource/the-partnership.jpg') }} alt="" /></a>
                                 <div class="caption">
                                     <h2>@lang('public.home page 21')</h2>
                                     {{-- <div class="cnt-info">
@@ -208,23 +222,23 @@
                                 </div>
                             </div>
                         </div>
-                        {{-- <div class="grid-item">
+                        <div class="grid-item">
                             <div class="cnt-box cnt-box-info boxed" data-href="#">
-                                <div class="extra-field">30% discount today</div>
-                                <a href="#" class="img-box"><img src="http://via.placeholder.com/800x500" alt="" /></a>
+                                {{-- <div class="extra-field">30% discount today</div> --}}
+                                <a href="#" class="img-box"><img src={{ url('/resource/fixed-income.jpeg') }} alt="" /></a>
                                 <div class="caption">
-                                    <h2>@lang('public.home page 7')</h2>
-                                    <div class="cnt-info">
+                                    <h2>@lang('public.private client lending')</h2>
+                                    {{-- <div class="cnt-info">
                                         <div><span>Price</span><span>$100</span></div>
                                         <div><span>Type</span><span>Consulting</span></div>
                                         <div><span>Client</span><span>Business</span></div>
-                                    </div>
+                                    </div> --}}
                                     <p>
-                                        Excepteur sint occaecat cupidatat non proidento in culpa qui officia deserunt mollit anim id est laborum.
+                                        @lang('public.private wealth management 6')
                                     </p>
                                 </div>
                             </div>
-                        </div> --}}
+                        </div>
                     </div>
                 </div>
             </div>
@@ -270,21 +284,7 @@
                 </div>
             </div>
         </section> --}}
-        <section class="section-image light align-center ken-burn-center" data-parallax="scroll">
-            <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
-                <a data-lightbox-anima="fade-top">
-                    <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
-                        <source src="{{ asset('stock-market6.mp4') }}" type="video/mp4">
-                    </video>
-                </a>
-                <h2 class="width-650" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-                    @lang('public.home page 4')
-                </h2>
-                <hr class="space" />
-            </div>
-            
-        </section>
-        <section class="section-base section-color">
+        {{-- <section class="section-base section-color">
             <div class="container">
                 <div class="row" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-12">
@@ -354,8 +354,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="section-base">
+        </section> --}}
+        {{-- <section class="section-base">
             <div class="container">
                 <div class="row align-items-center" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
@@ -407,8 +407,23 @@
                     </div>
                 </div>
             </div>
+        </section> --}}
+        {{-- section-base section-color --}}
+        <section class="section-image light align-center ken-burn-center" data-parallax="scroll" data-image-src={{ asset('assets/img/hd-1.jpg') }}>
+            <div class="container" data-anima="fade-bottom" data-time="1000" style="position: relative;">
+                <a data-lightbox-anima="fade-top">
+                    <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
+                        <source src="{{ asset('stock-market7.mp4') }}" type="video/mp4">
+                    </video>
+                </a>
+                <h2 class="width-650" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+                    @lang('public.home page 23')
+                </h2>
+                <hr class="space" />
+            </div>
+            
         </section>
-        <section class="section-base section-color">
+        {{-- <section class="section-base">
             <div class="container">
                 <div class="row align-items-center" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
@@ -455,8 +470,9 @@
                 <hr class="space" />
                 <hr class="space-xs" />
             </div>
-        </section>
-        <section class="section-base section-overflow-top">
+        </section> --}}
+        {{-- <section class="section-base section-overflow-top"> --}}
+        <section class="section-base">
             <div class="container">
                 <table class="table table-grid table-border align-left boxed-area table-6-md">
                     <tbody>
@@ -465,10 +481,10 @@
                                 <div class="counter counter-horizontal counter-icon">
                                     <i class="im-globe text-md"></i>
                                     <div>
-                                        <h3>Countries</h3>
+                                        <h3>@lang('public.home page 27')</h3>
                                         <div class="value">
-                                            <span class="text-md" data-to="47" data-speed="5000">47</span>
-                                            <span>+</span>
+                                            <span style="font-size:10px;">Unit 1112, The Metropolis Tower, <br> 10 Metroplis Drive, Hung Hom, Hong Kong</span>
+                                            {{-- <span>+</span> --}}
                                         </div>
                                     </div>
                                 </div>
@@ -477,27 +493,27 @@
                                 <div class="counter counter-horizontal counter-icon">
                                     <i class="im-business-man text-md"></i>
                                     <div>
-                                        <h3>Clients</h3>
+                                        <h3>@lang('public.home page 28')</h3>
                                         <div class="value">
-                                            <span class="text-md" data-to="110" data-speed="5000">110</span>
-                                            <span>+</span>
+                                            <span style="font-size:10px;">info@vanwardintl.com</span>
+                                            {{-- <span>+</span> --}}
                                         </div>
                                     </div>
                                 </div>
                             </td>
                             <td>
                                 <div class="counter counter-horizontal counter-icon">
-                                    <i class=" im-charger text-md"></i>
+                                    <i class="im-support text-md"></i>
                                     <div>
-                                        <h3>Projects</h3>
+                                        <h3>@lang('public.home page 29')</h3>
                                         <div class="value">
-                                            <span class="text-md" data-to="250" data-speed="5000">250</span>
-                                            <span>+</span>
+                                            <span style="font-size:10px;">+852 5808 8687</span>
+                                            {{-- <span>+</span> --}}
                                         </div>
                                     </div>
                                 </div>
                             </td>
-                            <td>
+                            {{-- <td>
                                 <div class="counter counter-horizontal counter-icon">
                                     <i class="im-support text-md"></i>
                                     <div>
@@ -508,7 +524,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </td>
+                            </td> --}}
                         </tr>
                     </tbody>
                 </table>

@@ -318,11 +318,11 @@
                           </a>
                           <div class="dropdown-menu">
                             <ul aria-labelledby="dropdownMenuLink">
-                              <li><a class="dropdown-item" href="http://vanward-is.com/home" id="myLink1">Australia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink2">China</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink3">Japan</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink4">New Zealand</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink5">United Arab Emirates</a></li>
+                              <li><a class="dropdown-item" href="http://vanward-is.com/lang/en" id="myLink1">Australia</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/zh" id="myLink2">China</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/ja" id="myLink3">Japan</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink4">New Zealand</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/ar" id="myLink5">United Arab Emirates</a></li>
                             </ul>
                           </div>
 
@@ -338,34 +338,34 @@
                           </a>
                           <div class="dropdown-menu">
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink6">Austria</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink7">Belgium</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink8">Czech Republic (Czechia)</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink9">Denmark</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink10">Estonia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink11">Finland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink12">France</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink13">Germany</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink6">Austria</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/nl" id="myLink7">Belgium</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink8">Czech Republic (Czechia)</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/da" id="myLink9">Denmark</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/et" id="myLink10">Estonia</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/fi" id="myLink11">Finland</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/fr" id="myLink12">France</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink13">Germany</a></li>
                             </ul>
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink14">Greece</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink15">Hungary</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink16">Iceland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink17">Italy</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink18">Liechtenstein</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink19">Luxembourg</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink20">Netherlands</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink21">Norway</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink14">Greece</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink15">Hungary</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink16">Iceland</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/it" id="myLink17">Italy</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink18">Liechtenstein</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/fr" id="myLink19">Luxembourg</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/nl" id="myLink20">Netherlands</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/no" id="myLink21">Norway</a></li>
                             </ul>
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink22">Poland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink23">Portugal</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink24">Slovakia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink25">Slovenia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink26">Spain</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink27">Sweden</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink28">Switzerland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink29">United Kingdom</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink22">Poland</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/pt" id="myLink23">Portugal</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink24">Slovakia</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink25">Slovenia</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/es" id="myLink26">Spain</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/sv" id="myLink27">Sweden</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink28">Switzerland</a></li>
+                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink29">United Kingdom</a></li>
                             </ul>
                           </div>
 
@@ -383,9 +383,9 @@
                         </a>
                         <div class="dropdown-menu">
                           <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink30">Brazil</a></li>
-                            <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink31">Canada</a></li>
-                            <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink32">United States of America</a></li>
+                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/pt" id="myLink30">Brazil</a></li>
+                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink31">Canada</a></li>
+                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink32">United States of America</a></li>
                           </ul>
                         </div>
 
@@ -401,7 +401,7 @@
                         </a>
                         <div class="dropdown-menu">
                           <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://vanward-is.com/home" id="myLink33">South Africa</a></li>
+                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink33">South Africa</a></li>
                           </ul>
                         </div>
 
