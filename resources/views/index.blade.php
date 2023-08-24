@@ -296,12 +296,14 @@
                           <option value="fi" @if (Session::get('locale') == 'fi') selected @endif>Finnish</option>
                           <option value="fr" @if (Session::get('locale') == 'fr') selected @endif>French</option>
                           <option value="de" @if (Session::get('locale') == 'de') selected @endif>German</option>
+                          <option value="de" @if (Session::get('locale') == 'it') selected @endif>Italian</option>
                           <option value="ja" @if (Session::get('locale') == 'ja') selected @endif>Japanese</option>
                           <option value="no" @if (Session::get('locale') == 'no') selected @endif>Norwegian</option>
+                          <option value="pt" @if (Session::get('locale') == 'pt') selected @endif>Portugese</option>
+                          <option value="es" @if (Session::get('locale') == 'es') selected @endif>Spanish</option>
                           <option value="sv" @if (Session::get('locale') == 'sv') selected @endif>Swedish</option>
                           <option value="gsw" @if (Session::get('locale') == 'gsw') selected @endif>Switzerland (Swiss German)</option>
                         </select>
-
                       <br><br>
                         <p style="color:#ffffff;">Please select your country :</p>
 
@@ -494,12 +496,21 @@
         } else if (selectLanguage === "de") {
           // alert('German');
           window.location.href = appUrl + "/lang/de/";
+        } else if (selectLanguage === "it") {
+          // alert('Italian');
+          window.location.href = appUrl + "/lang/it/";
         } else if (selectLanguage === "ja") {
           // alert('Japanese');
           window.location.href = appUrl + "/lang/ja/";
         } else if (selectLanguage === "no") {
           // alert('Norwegian');
           window.location.href = appUrl + "/lang/no/";
+        } else if (selectLanguage === "pt") {
+          // alert('Portugese');
+          window.location.href = appUrl + "/lang/pt/";
+        } else if (selectLanguage === "es") {
+          // alert('Spanish');
+          window.location.href = appUrl + "/lang/es/";
         } else if (selectLanguage === "sv") {
           // alert('Swedish');
           window.location.href = appUrl + "/lang/sv/";
