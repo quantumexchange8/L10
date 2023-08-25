@@ -1,14 +1,14 @@
 @extends('layouts.main')
 @section('title', 'Mobility | Total Rewards | Careers | Vanward International')
 
-@section('content')
+{{-- @section('content')
     @component('components.page-header', [
         'title' => __('public.mobility'),
         'url' => '/careers/total-rewards',
         'sub2' => __('public.total rewards'),
 
     ])
-    @endcomponent
+    @endcomponent --}}
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            {{-- @lang('public.entry level professionals') --}}
+                            <strong>@lang('public.mobility')</strong>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

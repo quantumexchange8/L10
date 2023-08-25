@@ -6,6 +6,7 @@
         'title' => __('public.menu 4'),
         'url' => '/our-firm',
         'sub2' => __('public.our firm'),
+        'headerImage' => url('assets/img/banner29.jpg'),
 
     ])
     @endcomponent

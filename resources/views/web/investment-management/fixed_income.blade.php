@@ -6,6 +6,7 @@
         'title' => __('public.fixed income'),
         'url' => '/investment-management',
         'sub2' => __('public.investment management'),
+        'headerImage' => url('assets/img/banner15.jpg'),
 
     ])
     @endcomponent

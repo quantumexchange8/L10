@@ -6,6 +6,7 @@
         'title' => __('public.private equity'),
         'url' => '/private-banking',
         'sub2' => __('public.private banking'),
+        'headerImage' => url('assets/img/banner11.jpg'),
 
     ])
     @endcomponent

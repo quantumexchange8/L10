@@ -2,13 +2,13 @@
 @section('title', 'Restart@ | What We Look For | Careers | Vanward International')
 
 @section('content')
-    @component('components.page-header', [
+    {{-- @component('components.page-header', [
         'title' => __('public.restart'),
         'url' => '/careers/what-we-look-for',
         'sub2' => __('public.what we look for'),
 
     ])
-    @endcomponent
+    @endcomponent --}}
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            {{-- @lang('public.restart')@ --}}
+                            <strong>@lang('public.restart')@</strong>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

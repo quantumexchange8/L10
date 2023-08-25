@@ -2,13 +2,14 @@
 @section('title', 'Transfer Agency | Custody & Fund Services | Investor Services | Vanward International')
 
 @section('content')
-    @component('components.page-header', [
+    {{-- @component('components.page-header', [
         'title' => __('public.transfer agency'),
         'url' => 'investor-services/custody-and-fund-services',
         'sub2' => __('public.custody & fund services'),
+        'headerImage' => url('assets/img/banner45.jpg'),
 
     ])
-    @endcomponent
+    @endcomponent --}}
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            {{-- @lang('public.entry level professionals') --}}
+                            <strong>@lang('public.transfer agency')</strong>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

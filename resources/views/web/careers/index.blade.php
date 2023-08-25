@@ -6,6 +6,7 @@
         'title' => __('public.careers'),
         'url' => '/our-firm',
         'sub2' => __('public.our firm'),
+        'headerImage' => url('assets/img/banner5.jpg'),
 
     ])
     @endcomponent

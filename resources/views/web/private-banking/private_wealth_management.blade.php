@@ -6,6 +6,7 @@
         'title' => __('public.private wealth management'),
         'url' => '/private-banking',
         'sub2' => __('public.private banking'),
+        'headerImage' => url('assets/img/banner12.jpg'),
 
     ])
     @endcomponent

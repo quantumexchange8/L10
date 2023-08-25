@@ -6,6 +6,7 @@
         'title' => __('public.what we look for'),
         'url' => '/careers',
         'sub2' => __('public.careers'),
+        'headerImage' => url('assets/img/banner6.jpg'),
 
     ])
     @endcomponent

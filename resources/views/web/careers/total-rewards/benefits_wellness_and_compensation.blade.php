@@ -2,13 +2,13 @@
 @section('title', 'Benefits, Wellness & Compensation | Total Rewards | Careers | Vanward International')
 
 @section('content')
-    @component('components.page-header', [
+    {{-- @component('components.page-header', [
         'title' => __('public.benefits, wellness and compensation'),
         'url' => '/careers/total-rewards',
         'sub2' => __('public.total rewards'),
 
     ])
-    @endcomponent
+    @endcomponent --}}
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            {{-- @lang('public.entry level professionals') --}}
+                            <strong>@lang('public.benefits wellness & compensation')</strong>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

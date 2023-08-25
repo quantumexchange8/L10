@@ -6,6 +6,7 @@
         'title' => __('public.total rewards'),
         'url' => '/careers',
         'sub2' => __('public.careers'),
+        'headerImage' => url('assets/img/banner7.jpg'),
 
     ])
     @endcomponent

@@ -6,7 +6,7 @@
         'title' => __('public.public equity'),
         'url' => '/investment-management',
         'sub2' => __('public.investment management'),
-
+        'headerImage' => url('assets/img/banner14.jpg'),
     ])
     @endcomponent
     <main>

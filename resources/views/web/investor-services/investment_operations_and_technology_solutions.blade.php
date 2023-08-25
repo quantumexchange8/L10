@@ -6,6 +6,7 @@
         'title' => __('public.investment operations & technology solutions'),
         'url' => '/investor-services',
         'sub2' => __('public.investor services'),
+        'headerImage' => url('assets/img/banner18.jpg'),
 
     ])
     @endcomponent

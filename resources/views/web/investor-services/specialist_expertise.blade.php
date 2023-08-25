@@ -6,6 +6,7 @@
         'title' => __('public.specialist expertise'),
         'url' => '/investor-services',
         'sub2' => __('public.investor services'),
+        'headerImage' => url('assets/img/banner20.jpg'),
 
     ])
     @endcomponent

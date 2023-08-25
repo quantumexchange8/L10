@@ -6,6 +6,7 @@
         'title' => __('public.custody & fund services'),
         'url' => '/investor-services',
         'sub2' => __('public.investor services'),
+        'headerImage' => url('assets/img/banner17.jpg'),
 
     ])
     @endcomponent

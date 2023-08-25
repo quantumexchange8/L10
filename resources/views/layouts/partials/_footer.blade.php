@@ -28,12 +28,12 @@
                 </ul>
             </div>
         </div>
-    </div> --}}
+    </div>  --}}
     {{-- <div class="footer-bar"> --}}
-        {{-- <div class="container">
+        <div class="container">
             <p>@lang('public.home page 26')<br><br>
                 @lang('public.home page 26b')</p>
             <span>© 2019 Vanward International</span>
-            <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span>
-        </div> --}}
+            {{-- <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span> --}}
+        </div>
     {{-- </div> --}}

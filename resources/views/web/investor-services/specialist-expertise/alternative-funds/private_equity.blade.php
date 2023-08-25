@@ -2,13 +2,14 @@
 @section('title', 'Hedge Funds | Alternative Funds | Specialist Expertise | Investor Services | Vanward International')
 
 @section('content')
-    @component('components.page-header', [
+    {{-- @component('components.page-header', [
         'title' => __('public.private equity'),
         'url' => 'investor-services/specialist-expertise/alternative-funds',
         'sub2' => __('public.alternative funds'),
+        'headerImage' => url('assets/img/banner30.jpg'),
 
     ])
-    @endcomponent
+    @endcomponent --}}
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            {{-- @lang('public.entry level professionals') --}}
+                            <strong>@lang('public.private equity')</strong>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

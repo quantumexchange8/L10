@@ -65,7 +65,7 @@
                                     Hung Hom<br>
                                     Hong Kong<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: info@vanwardintl.com">info@vanwardintl.com</a>
+                                        href="mailto: info@vanward-is.com">info@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -81,7 +81,7 @@
                                     Centre, Cork<br>
                                     T12 A3XN Ireland <br>
                                     Email : <a class="link-effect"
-                                        href="mailto: irl@vanwardintl.com">irl@vanwardintl.com</a>
+                                        href="mailto: irl@vanward-is.com">irl@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -96,7 +96,7 @@
                                     Marunouchi, Chiyoda City<br>
                                     Tokyo 100-6213 Japan<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: jpn@vanwardintl.com">jpn@vanwardintl.com</a>
+                                        href="mailto: jpn@vanward-is.com">jpn@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -110,7 +110,7 @@
                                     10 Collyer Quay<br>
                                     049315 Singapore <br>
                                     Email : <a class="link-effect"
-                                        href="mailto: sg@vanwardintl.com">sg@vanwardintl.com</a>
+                                        href="mailto: sg@vanward-is.com">sg@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -126,7 +126,7 @@
                                     Avenue J.F. Kennedy<br>
                                     L-1855 Luxembourg<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: lux@vanwardintl.com">lux@vanwardintl.com</a>
+                                        href="mailto: lux@vanward-is.com">lux@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -141,7 +141,7 @@
                                     Milano MI<br>
                                     Italy<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: it@vanwardintl.com">it@vanwardintl.com</a>
+                                        href="mailto: it@vanward-is.com">it@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>
@@ -155,7 +155,7 @@
                                     EC2R 8EJ<br>
                                     UNITED KINGDOM<br>
                                     Email : <a class="link-effect"
-                                        href="mailto: ldn@vanwardintl.com">ldn@vanwardintl.com</a>
+                                        href="mailto: ldn@vanward-is.com">ldn@vanward-is.com</a>
                                 </p>
                             </div>
                             <div class="divider-l visible-mobile-devices"></div>

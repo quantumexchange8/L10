@@ -2,21 +2,22 @@
 @section('title', 'Technology Services | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-@component('components.page-header', [
+{{-- @component('components.page-header', [
     'title' => __('public.technology services'),
     'url' => 'investor-services/investment-operations-and-technology-solutions',
     'sub2' => __('public.investment operations & technology'),
+    'headerImage' => url('assets/img/banner24.jpg'),
 
 ])
-@endcomponent
+@endcomponent --}}
     <main>
         <section class="section-base">
             <div class="container">
                 <div class="row row-fit-lg">
                     <div class="col-lg-4">
-                        {{-- <p class="paragraph">
-                            @lang('public.technology services 1')
-                        </p> --}}
+                        <p class="paragraph">
+                            <strong>@lang('public.technology services')</strong>
+                        </p>
                     </div>
                     <div class="col-lg-4">
                         {{-- <p>
