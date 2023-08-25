@@ -2,7 +2,7 @@ let stores = [{
         "id": "1",
         "branchName": "HONG KONG",
         "name": "HONG KONG",
-        "email": "info@vanwardintl.com",
+        "email": "info@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 22.309620,
@@ -16,7 +16,7 @@ let stores = [{
         "id": "2",
         "branchName": "IRELAND, CORK",
         "name": "IRELAND, CORK",
-        "email": "irl@vanwardintl.com",
+        "email": "irl@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 51.8969166,
@@ -30,7 +30,7 @@ let stores = [{
         "id": "3",
         "branchName": "JAPAN, TOKYO",
         "name": "JAPAN, TOKYO",
-        "email": "jpn@vanwardintl.com",
+        "email": "jpn@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 35.6760569,
@@ -44,7 +44,7 @@ let stores = [{
         "id": "4",
         "branchName": "SINGAPORE",
         "name": "SINGAPORE",
-        "email": "sg@vanwardintl.com",
+        "email": "sg@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 1.2832451,
@@ -58,7 +58,7 @@ let stores = [{
         "id": "5",
         "branchName": "LUXEMBOURG",
         "name": "LUXEMBOURG",
-        "email": "lux@vanwardintl.com",
+        "email": "lux@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 49.8510536,
@@ -72,7 +72,7 @@ let stores = [{
         "id": "6",
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
-        "email": "it@vanwardintl.com",
+        "email": "it@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 45.4818066,
@@ -86,7 +86,7 @@ let stores = [{
         "id": "7",
         "branchName": "UK, LONDON",
         "name": "UK, LONDON",
-        "email": "ldn@vanwardintl.com",
+        "email": "ldn@vanward-is.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 51.5133502,
