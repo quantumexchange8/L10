@@ -272,7 +272,15 @@ return [
    "investment management 8"           => "Erfahren Sie, wie unsere Bottom-up-Investmentstrategie Umwelt-, Sozial- und Governance-Aspekte (ESG) berücksichtigt.",
    "investment management caption 1"   => "Mit einem Schwerpunkt auf Kapitalerhalt zielen Vanwards Aktienstrategien für den öffentlichen Markt darauf ab, attraktive langfristige Anlageerträge über komplette Marktzyklen hinweg zu erzielen.",
    "investment management caption 2"   => "Wir bieten steuerpflichtige, steuerbefreite und inflationsindexierte Strategien an, die unsere einzigartige Anlagephilosophie und Bewertungsmethodik nutzen, um langfristige Erträge zu erzielen, die die unserer Mitbewerber übertreffen.",
-    // investor services
+   "investment management caption 3" => "Unsere Anlageprinzipien:",
+    "investment management caption 4" => "Konzentration auf Vermögenserhalt",
+    "investment management caption 5" => "Wertebasierte Strategie",
+    "investment management caption 6" => "Bottom-up-Primärforschung",
+    "investment management caption 7" => "Langfristige Perspektive",
+    "investment management caption 8" => "Disziplin und Toleranz",
+    "investment management caption 9" => "Erfahren Sie, wie unsere Bottom-up-Investmentstrategie integriert ",
+   
+   // investor services
     "investor services 1"           => "Vanward Investor Services widmet sich der Bereitstellung von Vermögensverwaltungsdienstleistungen und modernsten Technologielösungen für führende globale Vermögenssammler. Wir konzentrieren uns gezielt auf eine ausgewählte Gruppe von Kunden, die einen engagierten und proaktiven Partner suchen, um einen Wettbewerbsvorteil zu erlangen. Jeder Kunde erhält einen hochgradig maßgeschneiderten Service, ergänzt durch modernste Technologie.
                                         <br><br>
                                         Als privat gehaltenes Unternehmen, das nicht von externen Aktionären beeinflusst wird, können wir uns uneingeschränkt auf die Bedürfnisse unserer Kunden konzentrieren. Wir arbeiten eng mit ihnen an ihren wichtigsten Zielen zusammen und unterstützen sie dabei, ihr Geschäft zu differenzieren und ihre Wachstumsziele zu erreichen.
@@ -3224,6 +3232,11 @@ Für alle internetfähigen Geräte sollten Sie die Sicherheitsprotokolle Ihres G
 "home page 27" => "Die Adresse",
 "home page 28" => "Die E-Mail",
 "home page 29" => "Die Telefonnummer",
+"home page 30" => "Willkommen bei Vanward International",
+"home page 31" => "Umfassende Erfahrung in der langfristigen privaten Vermögensverwaltung",
+"home page 32" => "Wir haben ein umfassendes Verständnis für die Herausforderungen, denen private Unternehmen gegenüberstehen",
+"home page 33" => "Zusammenarbeit mit hochkarätigen Managementteams, die Unternehmen durch entscheidende Wachstumsphasen führen",
+"home page 34" => "Verwaltete festverzinsliche Strategien für öffentliche und private Institutionen sowie wohlhabende Familien",
 
 //public equity
 "pe1" => "U.S. Large Cap Equity",

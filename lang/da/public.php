@@ -278,6 +278,14 @@ return [
     "investment management 9"           => "miljømæssige, sociale og governance (ESG) overvejelser.",
     "investment management caption 1"   => "Med fokus på kapitalbevarelse sigter Vanwards offentlige aktiestrategier mod at generere attraktive langsigtede investeringsafkast på tværs af komplette markedscykler.",
     "investment management caption 2"   => "Vi tilbyder skattepligtige, skattefri og inflation-indexerede strategier, der anvender vores distinkte investeringsfilosofi og vurderingsmetode til at generere langsigtede afkast, der overgår vores konkurrenter.",
+    "investment management caption 3" => "Vores investeringsprincipper:",
+    "investment management caption 4" => "Fokus på formuebevarelse",
+    "investment management caption 5" => "Værdibaseret strategi",
+    "investment management caption 6" => "Grundig grundforskning",
+    "investment management caption 7" => "Langsigtet perspektiv",
+    "investment management caption 8" => "Disciplin og tolerance",
+    "investment management caption 9" => "Lær, hvordan vores grundlæggende investeringsstrategi integrerer ",
+    
     // investor services
     "investor services 1"           => "Vanward Investor Services er dedikeret til at tilbyde formueadministration og banebrydende teknologiske løsninger til førende globale formueopsamlingsselskaber. Vi fokuserer specifikt på en udvalgt gruppe af klienter, der søger en engageret og proaktiv partner for at opnå en konkurrencefordel. Hver klient modtager en meget tilpasset og skræddersyet service, der suppleres med state-of-the-art teknologi.
                                         <br><br>
@@ -3032,6 +3040,11 @@ I overensstemmelse med vores filantropiske mission prioriterer vi følgende omr�
 "home page 27" => "Adressen",
 "home page 28" => "Email",
 "home page 29" => "Telefon",
+"home page 30" => "Velkommen til Vanward International",
+"home page 31" => "Omfattende erfaring inden for langsigtet privat formueforvaltning",
+"home page 32" => "Vi har en omfattende forståelse for udfordringerne, som private virksomheder står overfor",
+"home page 33" => "Samarbejder med højt kvalificerede ledelsesteams, der guider virksomheder gennem afgørende vækstfaser",
+"home page 34" => "Administrerede faste indkomststrategier for offentlige og private institutioner samt velhavende familier",
 
 //public equity
 "pe1" => "U.S. Large Cap Aktier",

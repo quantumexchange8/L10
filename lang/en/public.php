@@ -278,6 +278,14 @@ return [
     "investment management 9"           => "environmental, social and governance (ESG) considerations.",
     "investment management caption 1"   => "With an emphasis on capital preservation, Vanward's public equity strategies aim to generate attractive long-term investment returns across complete market cycles.",
     "investment management caption 2"   => "We offer taxable, tax-exempt, and inflation-indexed strategies that employ our distinctive investment philosophy and valuation methodology to generate long-term returns that surpass those of our competitors.",
+    "investment management caption 3" => "Our investment principles:",
+    "investment management caption 4" => "concentrate on asset preservation",
+    "investment management caption 5" => "Value-based strategy",
+    "investment management caption 6" => "bottom-up primary research",
+    "investment management caption 7" => "view of the long haul",
+    "investment management caption 8" => "discipline and tolerance",
+    "investment management caption 9" => "Learn how our bottom-up investment strategy incorporates ",
+    
     // investor services
     "investor services 1"           => "Vanward Investor Services is dedicated to offering asset servicing and cutting-edge technology solutions
                                         to leading global asset gatherers. We specifically concentrate on a select group of clients who seek an
@@ -1273,7 +1281,7 @@ return [
     "inforecon 2" => "Technology",
     "inforecon 3" => "Flexible and proven data collection and normalization engine, Infomediary",
     "inforecon 4" => "Robust reconciliation software platform for data processing and exception management",
-    "inforecon 5" => "Comprehensive client reporting that can be accessed via vanwardintl.com or email delivery in a variety of formats (PDF, MS Excel, CSV)",
+    "inforecon 5" => "Comprehensive client reporting that can be accessed via vanward-is.com or email delivery in a variety of formats (PDF, MS Excel, CSV)",
     "inforecon 6" => "Industry Best Practices",
     "inforecon 7" => "Daily reconciliation at the transaction level",
     "inforecon 8" => "Vanward works with clients providers to increase STP in order to maximize efficiency and reduce the risk of errors and omissions",
@@ -2605,7 +2613,7 @@ return [
                             respect your privacy and are committed to protecting it.",
     "privacy policy 4" => "Websites and Services Covered by This Privacy Policy",
     "privacy policy 5" => "<p>This privacy policy applies to our privacy practices for handling information relating to
-                            your use of vanwardintl.com and other websites operated by us from which you are accessing this
+                            your use of vanward-is.com and other websites operated by us from which you are accessing this
                             privacy policy (collectively referred to as the “Sites”), as well as our online services on
                             the Sites and services related to our business products (the “Services”). We also describe
                             the rights you may have and how you can contact us about our privacy practices.</p>
@@ -3949,7 +3957,7 @@ return [
                                 <br><br>
                                 In today’s world, it is critical to be cautious when accessing and sharing your personal and confidential information online and in your daily interactions. The following are some important considerations to be mindful of while performing your daily business and personal routines:",
     "online security 6"     => "Vanward's website address is",
-    "online security 7"     => "All legitimate communications from Vanward will come from a vanwardintl.com domain. All others should be considered suspect. If you have any questions about Vanward's website or suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship Manager or contact Vanward at any of our main locations.
+    "online security 7"     => "All legitimate communications from Vanward will come from a vanward-is.com domain. All others should be considered suspect. If you have any questions about Vanward's website or suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship Manager or contact Vanward at any of our main locations.
                                 <br><br>
                                 Be cautious of any emails requesting personal or confidential information. Under no circumstances will Vanward ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide your logon credentials, electronic banking or other personal information.
                                 <br><br>
@@ -4037,7 +4045,7 @@ return [
                             set out in this Cookie Policy is provided in addition to and should be read alongside our
                             Privacy Policy, which can be found at',
     "cookie policy 4"    => "Websites covered by this Cookie Policy",
-    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on vanwardintl.com and other websites operated by
+    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on vanward-is.com and other websites operated by
                                 us from which you are accessing this Cookie Policy (collectively referred to as the
                                 “Sites”).</p>
                             <p>The policy may be amended from time to time. When it is amended, we will let you know by
@@ -4397,6 +4405,11 @@ return [
     "home page 27" => "The Address",
     "home page 28" => "The Email",
     "home page 29" => "The Phone",
+    "home page 30" => "Welcome to Vanward International",
+    "home page 31" => "Comprehensive private wealth management experience possible over the long term",
+    "home page 32" => "We have a comprehensive understanding of the challenges faced by private company",
+    "home page 33" => "Collaborates with high-caliber management teams guiding businesses through crucial growth",
+    "home page 34" => "Managed fixed income strategies for public and private institutions and wealthy families",
 
     //public equity
     "pe1" => "U.S. Large Cap Equity",

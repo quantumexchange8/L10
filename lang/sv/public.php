@@ -276,7 +276,13 @@ return [
     "investment management 9"           => "hänsyn till miljömässiga, sociala och styrelsemässiga (ESG) faktorer.",
     "investment management caption 1"   => "Med tonvikt på kapitalbevarande syftar Vanwards offentliga aktiestrategier till att generera attraktiva långsiktiga investeringsavkastningar över hela marknadscykler.",
     "investment management caption 2"   => "Vi erbjuder skattepliktiga, skattefria och inflationsskyddade strategier som använder vår unika investeringsfilosofi och värderingsmetodik för att generera långsiktig avkastning som överträffar våra konkurrenters.",
-
+    "investment management caption 3" => "Våra investeringsprinciper:",
+    "investment management caption 4" => "Fokusera på kapitalbevarande",
+    "investment management caption 5" => "Värdebaserad strategi",
+    "investment management caption 6" => "Botten-upp primär forskning",
+    "investment management caption 7" => "Långsiktig synvinkel",
+    "investment management caption 8" => "Disciplin och tolerans",
+    "investment management caption 9" => "Lär dig hur vår botten-upp investeringsstrategi ",
     // Investor Services
     "investor services 1"           => "Vanward Investor Services ägnar sig åt att erbjuda tillgångsadministration och banbrytande teknologilösningar till ledande globala tillgångssamlare. Vi fokuserar specifikt på en utvald grupp kunder som söker en engagerad och proaktiv partner för att få en konkurrensfördel. Varje kund får en högt anpassad och skräddarsydd service kompletterad med toppmodern teknologi.
                                         <br><br>
@@ -3665,10 +3671,14 @@ I enlighet med vår filantropiska mission prioriterar vi följande områden.",
 "home page 27" => "Adressen",
 "home page 28" => "E-post",
 "home page 29" => "Telefonen",
+"home page 30" => "Välkomna till Vanward International",
+"home page 31" => "Omfattande erfarenhet av heltäckande private förmögenhetsförvaltning på lång sikt",
+"home page 32" => "Vi har en omfattande förståelse för de utmaningar som privata företag står inför",
+"home page 33" => "Samarbetar med högkvalitativa ledningsteam som vägleder företag genom avgörande tillväxtfaser",
+"home page 34" => "Hanterade strategier för fast inkomst för offentliga och privata institutioner samt förmögna familjer",
 
-
-    //public equity
-    "pe1" => "U.S. Large Cap Equity",
+//public equity
+"pe1" => "U.S. Large Cap Equity",
 "pe2" => "Vanward Core Select, vår primära strategi för stora amerikanska aktier, använder en rabatt till intrinsiskt värde och en långsiktig ägandeapproach. Vårt mål är att erbjuda investerare långsiktig kapitaltillväxt. I varje investering strävar vi efter attraktiva absoluta avkastningar samtidigt som vi minimerar risken för permanent kapitalförlust. Vår investeringsprocess drivs av en grundlig, bottom-up-analys av företag.
 <br> <br>
 Vi siktar på att investera i etablerade företag som genererar kassaflöde och som är ledande leverantörer av väsentliga produkter och tjänster med starka ledningsteam, och att förvärva börsnoterade aktier i dessa företag med rabatt till deras intrinsiska värden*. Uppskattningar av intrinsiskt värde härleds från en analys av framtida fria kassaflöden och kapitalavkastning. Vi använder en metodisk investeringsurvalsprocess med fokus på företags-, lednings- och finansiella egenskaper.

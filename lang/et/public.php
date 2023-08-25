@@ -277,6 +277,14 @@ return [
     "investment management 9"           => "",
     "investment management caption 1"   => "Rõhuasetusega kapitali säilitamisele püüavad Vanwardi avalike aktsiate strateegiad genereerida atraktiivseid pikaajalisi investeerimistulusid kogu turutsükli vältel.",
     "investment management caption 2"   => "Pakume maksustatavaid, maksuvabu ja inflatsiooniindeksiga strateegiaid, mis kasutavad meie erilist investeerimisfilosoofiat ja hindamismetoodikat, et luua pikaajalisi tulusid, mis ületavad konkurentide omi.",
+    "investment management caption 3" => "Meie investeerimispõhimõtted:",
+    "investment management caption 4" => "Keskkonnale keskenduv strateegia",
+    "investment management caption 5" => "Väärtustel põhinev strateegia",
+    "investment management caption 6" => "Altpoolt üles suunatud esmane uurimus",
+    "investment management caption 7" => "Pikaajaline vaade"
+    "investment management caption 8" => "Distipliin ja tolerants",
+    "investment management caption 9" => "Tutvu, kuidas meie altpoolt üles suunatud investeerimisstrateegia ",
+    
     // investor services
     "investor services 1"           => "Vanwardi Investor Services on pühendunud pakkuma varahaldusteenuseid ja tipptasemel tehnoloogialahendusi juhtivatele ülemaailmsetele varakogujatele. Me keskendume konkreetsele kliendigrupile, kes otsib kaasatud ja proaktiivset partnerit, et saada konkurentsieelist. Iga klient saab kõrgelt kohandatud teenuse, mida täiendavad tipptasemel tehnoloogia.
                                         <br><br>
@@ -2979,6 +2987,11 @@ Kooskõlas meie heategevusliku missiooniga anname prioriteeti järgmistele valdk
 "home page 27" => "Aadress",
 "home page 28" => "E-post",
 "home page 29" => "Telefon",
+"home page 30" => "Tere tulemast Vanward International'i",
+"home page 31" => "Põhjalik eravara varahalduse kogemus pikaajaliseks perioodiks",
+"home page 32" => "Meil on põhjalik arusaam erakompaniidele esinevatest väljakutsetest",
+"home page 33" => "Koostöö kõrgkvaliteetsete juhtimismeeskondadega, kes juhivad ettevõtteid läbi otsustava kasvufaasi",
+"home page 34" => "Hallatud fikseeritud sissetulekustrateegiaid nii avalikele kui ka eraasutustele ning jõukatele peredele",
 
 //public equity
 "pe1" => "USA suured kapitaliseerimisega aktsiad",

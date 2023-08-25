@@ -278,6 +278,14 @@ return [
     "investment management 8"           => "Erfahren Sie, wie unsere Bottom-Up-Anlagestrategie Umwelt-, Sozial- und Governance-Aspekte (ESG) berücksichtigt.",
     "investment management caption 1"   => "Mit einem Schwerpunkt auf Kapitalerhalt streben Vanwards öffentliche Aktienstrategien attraktive langfristige Anlageerträge über vollständige Marktzyklen hinweg an.",
     "investment management caption 2"   => "Wir bieten steuerpflichtige, steuerbefreite und inflationsindexierte Strategien an, die unsere einzigartige Anlagephilosophie und Bewertungsmethodik nutzen, um langfristige Erträge zu erzielen, die die unserer Mitbewerber übertreffen.",
+    "investment management caption 3" => "Üsi Investitionsprinzipie:",
+    "investment management caption 4" => "Konzäntrieret uf Vermögenserhalt",
+    "investment management caption 5" => "Wärtbasierendi Strategie",
+    "investment management caption 6" => "Bottom-up Primärforschig",
+    "investment management caption 7" => "Langfrischtigi Siicht",
+    "investment management caption 8" => "Disziplin und Toleranz",
+    "investment management caption 9" => "Erfahr wie üsi bottom-up Investitionstrategie ",
+    
     // investor services
     "investor services 1"           => "Vanward Investor Services ist darauf spezialisiert, Asset Servicing und modernste Technologielösungen für führende globale Vermögenssammler 
                                         anzubieten. Wir konzentrieren uns gezielt auf eine ausgewählte Gruppe von Kunden, die einen engagierten und proaktiven Partner suchen, um sich einen 
@@ -3942,6 +3950,11 @@ Gemäß unserer philanthropischen Mission priorisieren wir die folgenden Bereich
 "home page 27" => "Die Adresse",
 "home page 28" => "Die E-Mail",
 "home page 29" => "Das Telefon",
+"home page 30" => "Willkomme bi Vanward International",
+"home page 31" => "Umfassendi Erfahrig in dr langfrischtige Verwaltung vu privatä Vermöge",
+"home page 32" => "Mir händ e umfassendi Verständnis vo de Härusforderige, wo privat Firme gegeüberstah",
+"home page 33" => "Arbetet mit hochkarätige Managemäntteams zäme, wo Firme dur kritische Wachstumsphasene führet",
+"home page 34" => "Het feschtverzinslichi Strategie für öffentlichi und privat Institutione sowie wohlhabendi Familiä verwaltet",
 
 //public equity
 "pe1" => "U.S. Large Cap Equity",

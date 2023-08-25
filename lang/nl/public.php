@@ -275,6 +275,13 @@ return [
     "investment management 9"           => "milieu-, sociale en governance (ESG) overwegingen omvat.",
     "investment management caption 1"   => "Met de nadruk op vermogensbehoud streven de openbare aandelenstrategieën van Vanward naar aantrekkelijke langetermijnrendementen over volledige marktcycli.",
     "investment management caption 2"   => "We bieden belastbare, belastingvrije en inflatie-geïndexeerde strategieën die gebruik maken van onze unieke beleggingsfilosofie en waarderingsmethodologie om langetermijnrendementen te genereren die die van onze concurrenten overtreffen.",
+    "investment management caption 3" => "Onze beleggingsprincipes:",
+    "investment management caption 4" => "Concentratie op vermogensbehoud",
+    "investment management caption 5" => "Waardegebaseerde strategie",
+    "investment management caption 6" => "Bottom-up primair onderzoek",
+    "investment management caption 7" => "Langetermijnvisie",
+    "investment management caption 8" => "Discipline en tolerantie",
+    "investment management caption 9" => "Ontdek hoe onze bottom-up beleggingsstrategie ",
     // investor services
     "investor services 1"           => "Vanward Investor Services is toegewijd aan het bieden van vermogensbeheerdiensten en geavanceerde technologieoplossingen aan toonaangevende wereldwijde vermogensverzamelaars. We richten ons specifiek op een selecte groep klanten die op zoek zijn naar een betrokken en proactieve partner om een concurrentievoordeel te behalen. Elke klant ontvangt een zeer gepersonaliseerde service aangevuld met state-of-the-art technologie.
                                         <br><br>
@@ -1090,7 +1097,7 @@ return [
     "inforecon 2" => "Technologie",
     "inforecon 3" => "Flexibele en bewezen gegevensverzamelings- en normalisatiemotor, Infomediary",
     "inforecon 4" => "Robuust reconciliatiesoftwareplatform voor gegevensverwerking en uitzonderingsbeheer",
-    "inforecon 5" => "Uitgebreide klantenrapportage die toegankelijk is via vanwardintl.com of per e-mail in verschillende formaten (PDF, MS Excel, CSV)",
+    "inforecon 5" => "Uitgebreide klantenrapportage die toegankelijk is via vanward-is.com of per e-mail in verschillende formaten (PDF, MS Excel, CSV)",
     "inforecon 6" => "Beste praktijken in de branche",
     "inforecon 7" => "Dagelijkse reconciliatie op transactieniveau",
     "inforecon 8" => "Vanward werkt samen met de dienstverleners van klanten om Straight Through Processing (STP) te verhogen om efficiëntie te maximaliseren en het risico op fouten en omissies te verminderen",
@@ -1753,7 +1760,7 @@ Of de handelspartner een Canadese lokale tegenpartij is.
     "privacy policy 2" => "Laatst bijgewerkt: 11 november 2022",
     "privacy policy 3" => "Vanward en alle andere gerelateerde dochterondernemingen en filialen (gezamenlijk 'Vanward', 'wij' of 'ons') respecteren uw privacy en zijn toegewijd aan de bescherming ervan.",
     "privacy policy 4" => "Websites en diensten gedekt door dit privacybeleid",
-    "privacy policy 5" => "<p>Dit privacybeleid is van toepassing op onze privacypraktijken voor het verwerken van informatie met betrekking tot uw gebruik van vanwardintl.com en andere websites die door ons worden beheerd en waarvan u toegang heeft tot dit privacybeleid (gezamenlijk aangeduid als de 'Websites'), evenals onze online diensten op de Websites en diensten die verband houden met onze zakelijke producten (de 'Diensten'). We beschrijven ook de rechten die u mogelijk heeft en hoe u contact met ons kunt opnemen over onze privacypraktijken.</p>
+    "privacy policy 5" => "<p>Dit privacybeleid is van toepassing op onze privacypraktijken voor het verwerken van informatie met betrekking tot uw gebruik van vanward-is.com en andere websites die door ons worden beheerd en waarvan u toegang heeft tot dit privacybeleid (gezamenlijk aangeduid als de 'Websites'), evenals onze online diensten op de Websites en diensten die verband houden met onze zakelijke producten (de 'Diensten'). We beschrijven ook de rechten die u mogelijk heeft en hoe u contact met ons kunt opnemen over onze privacypraktijken.</p>
                         <p>Dit privacybeleid is niet van toepassing op die websites of communicaties die hun eigen privacybeleid hebben of op websites van andere bedrijven of entiteiten die gekoppeld zijn aan deze website. Voor informatie over het privacybeleid van een gekoppelde site verwijzen wij u naar het privacybeleid van die site.</p>
                         <p>Vanward is de verwerkingsverantwoordelijke voor persoonlijke informatie die we verzamelen via de Websites. We zijn ook de verwerkingsverantwoordelijke voor persoonsgegevens die we verzamelen voor onze belangrijkste zakelijke contacten. Voor persoonsgegevens die worden verstrekt met betrekking tot onze zakelijke producten zijn er momenten waarop we optreden als verwerkingsverantwoordelijke. Als u vragen heeft over wanneer we optreden als verwerkingsverantwoordelijke of vragen heeft over onze verwerking van uw persoonsgegevens (of over de inhoud van dit beleid), vindt u onze contactgegevens, inclusief de contactgegevens van onze functionarissen voor gegevensbescherming, in de sectie 'Hoe kunt u contact met ons opnemen' aan het einde van dit beleid.</p>
                         <p>Lees dit beleid zorgvuldig door. Uw gebruik van de Websites en/of de Diensten, inclusief het verstrekken van persoonlijke informatie op de Websites en/of Diensten, is onderworpen aan en wordt beheerst door dit beleid.</p>",
@@ -2432,7 +2439,7 @@ Of de handelspartner een Canadese lokale tegenpartij is.
     <br><br>
     In de wereld van vandaag is het van cruciaal belang om voorzichtig te zijn bij het toegang krijgen tot en delen van je persoonlijke en vertrouwelijke informatie online en in je dagelijkse interacties. Hier volgen enkele belangrijke overwegingen waar je op moet letten tijdens het uitvoeren van je dagelijkse zakelijke en persoonlijke routines:",
     "online security 6" => "Het webadres van Vanward is",
-    "online security 7" => 'Alle legitieme communicatie van Vanward zal afkomstig zijn van een domein met vanwardintl.com. Alle andere communicatie moet als verdacht worden beschouwd. Als je vragen hebt over de website van Vanward of vermoedt dat je een verdachte link of e-mail van Vanward hebt ontvangen, kun je contact opnemen met je Vanward-relatiemanager of Vanward bereiken op een van onze hoofdlocaties."
+    "online security 7" => 'Alle legitieme communicatie van Vanward zal afkomstig zijn van een domein met vanward-is.com. Alle andere communicatie moet als verdacht worden beschouwd. Als je vragen hebt over de website van Vanward of vermoedt dat je een verdachte link of e-mail van Vanward hebt ontvangen, kun je contact opnemen met je Vanward-relatiemanager of Vanward bereiken op een van onze hoofdlocaties."
                                 <br><br>
                                 Wees voorzichtig met e-mails waarin wordt gevraagd om persoonlijke of vertrouwelijke informatie. Onder geen enkele omstandigheid zal Vanward ooit contact met u opnemen (per telefoon, e-mail of anderszins) en vragen om uw inloggegevens, elektronisch bankieren of andere persoonlijke informatie te verstrekken.
                                 <br><br>
@@ -2501,7 +2508,7 @@ Institutionele bankklanten moeten periodiek informatiebeveiligingsrisicobeoordel
     "cookie policy 2" => "Laatst bijgewerkt: 29 mei 2022",
     "cookie policy 3" => 'Vanward en alle andere gerelateerde dochterondernemingen en filialen (gezamenlijk "Vanward", "wij" of "ons") maken gebruik van cookies, web beacons en vergelijkbare technologieën ("Cookies") om informatie op te slaan, uw webbrowser-ervaring te verbeteren en de functionaliteit van onze websites te verbeteren. De informatie die in dit Cookiebeleid wordt verstrekt, wordt naast ons Privacybeleid verstrekt en moet samen met ons Privacybeleid worden gelezen. Het Privacybeleid is te vinden op',
     "cookie policy 4" => "Websites die onder dit Cookiebeleid vallen",
-    "cookie policy 5" => "<p>Dit Cookiebeleid legt uit hoe Cookies worden gebruikt op vanwardintl.com en andere websites die door ons worden beheerd en van waaruit u toegang heeft tot dit Cookiebeleid (gezamenlijk aangeduid als de 'Websites').</p><p>Het beleid kan van tijd tot tijd worden gewijzigd. Wanneer het wordt gewijzigd, laten we u dit weten door het herziene beleid op deze pagina te plaatsen met een nieuwe 'Laatst bijgewerkt'-datum. Als u geen Cookies van onze Websites wilt accepteren, schakel dan Cookies uit in uw webbrowser (raadpleeg onze pagina Cookies beheren) of maak geen gebruik van de Websites.</p><p>Dit Cookiebeleid is niet van toepassing op websites die hun eigen cookiebeleid hebben of op websites van andere bedrijven of entiteiten die zijn gekoppeld aan deze website. Raadpleeg voor het privacy- en cookiebeleid van een gekoppelde site het privacy- of cookiebeleid van die site.</p>",
+    "cookie policy 5" => "<p>Dit Cookiebeleid legt uit hoe Cookies worden gebruikt op vanward-is.com en andere websites die door ons worden beheerd en van waaruit u toegang heeft tot dit Cookiebeleid (gezamenlijk aangeduid als de 'Websites').</p><p>Het beleid kan van tijd tot tijd worden gewijzigd. Wanneer het wordt gewijzigd, laten we u dit weten door het herziene beleid op deze pagina te plaatsen met een nieuwe 'Laatst bijgewerkt'-datum. Als u geen Cookies van onze Websites wilt accepteren, schakel dan Cookies uit in uw webbrowser (raadpleeg onze pagina Cookies beheren) of maak geen gebruik van de Websites.</p><p>Dit Cookiebeleid is niet van toepassing op websites die hun eigen cookiebeleid hebben of op websites van andere bedrijven of entiteiten die zijn gekoppeld aan deze website. Raadpleeg voor het privacy- en cookiebeleid van een gekoppelde site het privacy- of cookiebeleid van die site.</p>",
     "cookie policy 6" => "Wat dit Cookiebeleid behandelt",
     "cookie policy 7" => "Dit Cookiebeleid behandelt:",
     "cookie policy 8" => "<li>Wat zijn Cookies en vergelijkbare technologieën;</li>
@@ -2755,6 +2762,11 @@ In lijn met onze filantropische missie geven we prioriteit aan de volgende gebie
 "home page 27" => "Het Adres",
 "home page 28" => "De E-mail",
 "home page 29" => "De Telefoon",
+"home page 30" => "Welkom bij Vanward International",
+"home page 31" => "Uitgebreide ervaring in uitgebreid particulier vermogensbeheer op de lange termijn",
+"home page 32" => "We hebben een uitgebreid begrip van de uitdagingen waarmee particuliere bedrijven worden geconfronteerd",
+"home page 33" => "Samenwerking met hooggekwalificeerde managementteams die bedrijven begeleiden tijdens cruciale groeifases",
+"home page 34" => "Beheerde vastrentende strategieën voor publieke en private instellingen en vermogende families",
 
 //public equity
 "pe1" => "U.S. Large Cap Equity",

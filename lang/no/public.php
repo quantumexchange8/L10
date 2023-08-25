@@ -275,6 +275,13 @@ return [
     "investment management 9"           => "hensyn til miljø, samfunn og styresett (ESG).",
     "investment management caption 1"   => "Med vekt på kapitalbevaring har Vanwards offentlige egenkapitalstrategier som mål å generere attraktiv avkastning på lang sikt gjennom hele markeds sykluser.",
     "investment management caption 2"   => "Vi tilbyr skattepliktige, skattefrie og inflasjonsindekserte strategier som bruker vår unike investeringsfilosofi og verdsettelsesmetodikk for å generere langsiktig avkastning som overgår konkurrentene våre.",
+    "investment management caption 3" => "Våre investeringsprinsipper:",
+    "investment management caption 4" => "Konsentrasjon om kapitalbevaring",
+    "investment management caption 5" => "Verdibasert strategi",
+    "investment management caption 6" => "Bunnen-opp primærforskning",
+    "investment management caption 7" => "Langsiktig perspektiv",
+    "investment management caption 8" => "Disiplin og toleranse",
+    "investment management caption 9" => "Lær hvordan vår bunnen-opp investeringsstrategi.",
     // investor services
     "investor services 1"           => "Vanward Investor Services er dedikert til å tilby eiendelsadministrering og banebrytende teknologiløsninger til ledende globale eiendelsamler. Vi fokuserer spesifikt på en utvalgt gruppe kunder som søker en engasjert og proaktiv partner for å oppnå en konkurransefordel. Hver klient mottar en høyt tilpasset og skreddersydd tjeneste supplert med toppmoderne teknologi.
                                         <br><br>
@@ -3354,6 +3361,11 @@ I tråd med vår filantropiske misjon prioriterer vi følgende områder.",
 "home page 27" => "Adressen",
 "home page 28" => "E-posten",
 "home page 29" => "Telefonen",
+"home page 30" => "Velkommen til Vanward International",
+"home page 31" => "Omfattende erfaring med omfattende privat formuesforvaltning på lang sikt",
+"home page 32" => "Vi har en omfattende forståelse for utfordringene private selskaper står overfor",
+"home page 33" => "Samarbeider med høyt kvalifiserte ledelsesteam som veileder bedrifter gjennom avgjørende vekstfaser",
+"home page 34" => "Forvaltet faste inntektsstrategier for offentlige og private institusjoner og velstående familier",
 
 //public equity
 "pe1" => "U.S. Large Cap Equity",

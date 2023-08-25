@@ -279,6 +279,14 @@ return [
     "investment management 9"           => "consideraciones ambientales, sociales y de gobierno (ESG).",
     "investment management caption 1"   => "Con énfasis en la preservación del capital, las estrategias de renta variable pública de Vanward buscan generar atractivos retornos de inversión a largo plazo en ciclos completos de mercado.",
     "investment management caption 2"   => "Ofrecemos estrategias imponibles, exentas de impuestos e indexadas a la inflación que emplean nuestra distintiva filosofía de inversión y metodología de valoración para generar retornos a largo plazo que superan a los de nuestros competidores.",
+    "investment management caption 3" => "Nuestros principios de inversión:",
+    "investment management caption 4" => "Concentrarse en la preservación de activos",
+    "investment management caption 5" => "Estrategia basada en valores",
+    "investment management caption 6" => "Investigación primaria bottom-up",
+    "investment management caption 7" => "Visión a largo plazo",
+    "investment management caption 8" => "Disciplina y tolerancia",
+    "investment management caption 9" => "Descubre cómo nuestra estrategia de inversión bottom-up incorpora ",
+    
     // investor services
     "investor services 1"           => "Vanward Investor Services se dedica a ofrecer servicios de administración de activos y soluciones tecnológicas de vanguardia a los principales 
                                         captadores de activos globales. Nos enfocamos específicamente en un grupo selecto de clientes que buscan un socio comprometido y proactivo para 
@@ -1232,7 +1240,7 @@ y otros desafíos operativos y tecnológicos.",
     "inforecon 2" => "Tecnología",
     "inforecon 3" => "Motor de recopilación y normalización de datos flexible y probado, Infomediary",
     "inforecon 4" => "Plataforma robusta de software de conciliación para el procesamiento de datos y la gestión de excepciones",
-    "inforecon 5" => "Informes completos para el cliente que se pueden acceder a través de vanwardintl.com o mediante entrega por correo electrónico en varios formatos (PDF, MS Excel, CSV)",
+    "inforecon 5" => "Informes completos para el cliente que se pueden acceder a través de vanward-is.com o mediante entrega por correo electrónico en varios formatos (PDF, MS Excel, CSV)",
     "inforecon 6" => "Mejores Prácticas de la Industria",
     "inforecon 7" => "Conciliación diaria a nivel de transacción",
     "inforecon 8" => "Vanward trabaja con los proveedores de los clientes para aumentar la eficiencia en el procesamiento directo de operaciones (STP) para maximizar la eficiencia y reducir el riesgo de errores y omisiones",
@@ -2376,7 +2384,7 @@ acceso, lo que en sí mismo presenta oportunidades para los gestores de activos 
                             respetan su privacidad y se comprometen a protegerla.",
     "privacy policy 4" => "Sitios web y servicios cubiertos por esta política de privacidad",
     "privacy policy 5" => "<p>Esta política de privacidad se aplica a nuestras prácticas de privacidad para el manejo de la información relacionada con
-                            su uso de vanwardintl.com y otros sitios web operados por nosotros desde los que está accediendo a esta
+                            su uso de vanward-is.com y otros sitios web operados por nosotros desde los que está accediendo a esta
                             política de privacidad (en conjunto, denominados los “Sitios”), así como a nuestros servicios en línea
                             en los Sitios y servicios relacionados con nuestros productos comerciales (los “Servicios”). También
                             describimos los derechos que puede tener y cómo puede comunicarse con nosotros sobre nuestras prácticas
@@ -3494,7 +3502,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                                 <br><br>
                                 En el mundo actual, es fundamental ser cauteloso al acceder y compartir su información personal y confidencial en línea y en sus interacciones diarias. A continuación, se presentan algunas consideraciones importantes a tener en cuenta mientras realiza sus actividades diarias tanto comerciales como personales:",
     "online security 6"     => "La dirección del sitio web de Vanward es",
-    "online security 7"     => "Todas las comunicaciones legítimas de Vanward provendrán de un dominio vanwardintl.com. Todos los demás deben considerarse sospechosos. Si tiene alguna pregunta sobre el sitio web de Vanward o sospecha que ha recibido un enlace o correo electrónico sospechoso de Vanward, puede llamar a su Gerente de Relaciones de Vanward o contactar a Vanward en cualquiera de nuestras principales ubicaciones.
+    "online security 7"     => "Todas las comunicaciones legítimas de Vanward provendrán de un dominio vanward-is.com. Todos los demás deben considerarse sospechosos. Si tiene alguna pregunta sobre el sitio web de Vanward o sospecha que ha recibido un enlace o correo electrónico sospechoso de Vanward, puede llamar a su Gerente de Relaciones de Vanward o contactar a Vanward en cualquiera de nuestras principales ubicaciones.
                                 <br><br>
                                 Tenga cuidado con cualquier correo electrónico que solicite información personal o confidencial. Bajo ninguna circunstancia Vanward se comunicará con usted de manera no solicitada (por teléfono, correo electrónico o de otro modo) y le solicitará que proporcione sus credenciales de inicio de sesión, banca electrónica u otra información personal.
                                 <br><br>
@@ -3567,7 +3575,7 @@ contactarnos” de nuestra Política de Privacidad principal.",
                             similares ("Cookies") para almacenar información, mejorar su experiencia de navegación web y mejorar la funcionalidad de nuestros sitios web. La información que 
                             se presenta en esta Política de Cookies se proporciona además de nuestra Política de Privacidad, que se puede encontrar en',
     "cookie policy 4"    => "Sitios web cubiertos por esta Política de Cookies",
-    "cookie policy 5"    => "<p>Esta Política de Cookies explica cómo se utilizan las Cookies en vanwardintl.com y otros sitios web operados por nosotros desde los cuales está accediendo a 
+    "cookie policy 5"    => "<p>Esta Política de Cookies explica cómo se utilizan las Cookies en vanward-is.com y otros sitios web operados por nosotros desde los cuales está accediendo a 
                                 esta Política de Cookies (en conjunto, los 'Sitios').</p>
                             <p>La política puede modificarse de vez en cuando. Cuando se realice una modificación, se lo informaremos publicando la política revisada en esta página con una 
                                 nueva fecha de 'Última actualización'. Si no desea aceptar Cookies de nuestros Sitios, desactive las Cookies en su navegador web (visite nuestra página de 
@@ -3886,6 +3894,11 @@ contactarnos” de nuestra Política de Privacidad principal.",
     "home page 27" => "La Dirección",
     "home page 28" => "El Correo Electrónico",
     "home page 29" => "El Teléfono",
+    "home page 30" => "Bienvenidos a Vanward International",
+    "home page 31" => "Experiencia integral en la gestión de patrimonios privados a largo plazo",
+    "home page 32" => "Tenemos una comprensión integral de los desafíos que enfrentan las empresas privadas",
+    "home page 33" => "Colabora con equipos directivos de alta calidad que guían a las empresas en etapas cruciales de crecimiento",
+    "home page 34" => "Estrategias de renta fija gestionadas para instituciones públicas y privadas y familias adineradas",
 
     //public equity
     "pe1" => "Renta Variable de EE. UU. de Gran Capitalización",

@@ -276,6 +276,15 @@ return [
     "investment management 8"           => "Scopri come la nostra strategia d'investimento bottom-up integra le considerazioni ambientali, sociali e di governance (ESG).",
     "investment management caption 1"   => "Con un'attenzione alla conservazione del capitale, le strategie di equity pubblico di Vanward mirano a generare ritorni d'investimento attraenti a lungo termine attraverso cicli di mercato completi.",
     "investment management caption 2"   => "Offriamo strategie tassabili, esenti da tasse e indicizzate all'inflazione che impiegano la nostra distintiva filosofia d'investimento e metodologia di valutazione per generare rendimenti a lungo termine che superano quelli dei nostri concorrenti.",
+    "investment management caption 3" => "I nostri principi di investimento:",
+    "investment management caption 4" => "Concentrazione sulla conservazione del capitale",
+    "investment management caption 5" => "Strategia basata sui valori",
+    "investment management caption 6" => "Ricerca primaria dal basso verso l'alto",
+    "investment management caption 7" => "Visione a lungo termine",
+    "investment management caption 8" => "Disciplina e tolleranza",
+    "investment management caption 9" => "Scopri come la nostra strategia di investimento dal basso verso l'alto incorpora ",
+
+
     // investor services
     "investor services 1"           => "I Servizi per gli Investitori di Vanward sono dedicati a offrire servizi di amministrazione patrimoniale e soluzioni tecnologiche all'avanguardia
                                         a importanti raccolte di asset globali. Ci concentriamo specificamente su un gruppo selezionato di clienti che cercano un
@@ -1168,7 +1177,7 @@ sfide operative e tecnologiche.",
     "inforecon 2" => "Tecnologia",
     "inforecon 3" => "Motore flessibile e comprovato per la raccolta e la normalizzazione dei dati, Infomediary",
     "inforecon 4" => "Piattaforma software di riconciliazione robusta per l'elaborazione dei dati e la gestione delle eccezioni",
-    "inforecon 5" => "Reporting completo per il cliente che può essere accessibile tramite vanwardintl.com o consegna via email in una varietà di formati (PDF, MS Excel, CSV)",
+    "inforecon 5" => "Reporting completo per il cliente che può essere accessibile tramite vanward-is.com o consegna via email in una varietà di formati (PDF, MS Excel, CSV)",
     "inforecon 6" => "Migliori Pratiche del Settore",
     "inforecon 7" => "Riconciliazione giornaliera a livello di transazione",
     "inforecon 8" => "Vanward collabora con i fornitori dei clienti per aumentare l'automazione della gestione delle eccezioni al fine di massimizzare l'efficienza e ridurre il rischio di errori ed omissioni",
@@ -2302,7 +2311,7 @@ sfide operative e tecnologiche.",
     "privacy policy 3" => "Vanward e tutte le sue affiliate e sussidiarie correlate (collettivamente \"Vanward\", \"noi\" o \"ci\") rispettano la tua privacy e si impegnano a 
                             proteggerla.",
     "privacy policy 4" => "Siti Web e Servizi Coperti da Questa Informativa sulla Privacy",
-    "privacy policy 5" => "<p>Questa informativa sulla privacy si applica alle nostre pratiche di privacy per la gestione delle informazioni relative all'uso di vanwardintl.com e di altri 
+    "privacy policy 5" => "<p>Questa informativa sulla privacy si applica alle nostre pratiche di privacy per la gestione delle informazioni relative all'uso di vanward-is.com e di altri 
                             siti web da noi gestiti dai quali stai accedendo a questa informativa sulla privacy (collettivamente definiti come i \"Siti\"), nonché ai nostri servizi online 
                             sui Siti e ai servizi correlati ai nostri prodotti aziendali (i \"Servizi\"). Descriviamo anche i diritti che potresti avere e come puoi contattarci riguardo 
                             alle nostre pratiche sulla privacy.</p>
@@ -3581,7 +3590,7 @@ sfide operative e tecnologiche.",
                                 <br><br>
                                 Nel mondo di oggi, è fondamentale essere cauti quando si accede e si condividono informazioni personali e confidenziali online e nelle interazioni quotidiane. Di seguito sono riportate alcune importanti considerazioni da tenere presenti durante le tue attività quotidiane, sia personali che professionali:",
     "online security 6"     => "L'indirizzo del sito web di Vanward è",
-    "online security 7"     => "Tutte le comunicazioni legittime da Vanward provengono dal dominio vanwardintl.com. Tutte le altre dovrebbero essere considerate sospette. Se hai domande sull'indirizzo del sito web di Vanward o sospetti di aver ricevuto un link sospetto o un'email sospetta da Vanward, puoi contattare il tuo Relationship Manager di Vanward o contattare Vanward presso una delle nostre sedi principali.
+    "online security 7"     => "Tutte le comunicazioni legittime da Vanward provengono dal dominio vanward-is.com. Tutte le altre dovrebbero essere considerate sospette. Se hai domande sull'indirizzo del sito web di Vanward o sospetti di aver ricevuto un link sospetto o un'email sospetta da Vanward, puoi contattare il tuo Relationship Manager di Vanward o contattare Vanward presso una delle nostre sedi principali.
                                 <br><br>
                                 Fai attenzione alle email che richiedono informazioni personali o confidenziali. In nessuna circostanza Vanward ti contatterà su base non richiesta (per telefono, email o altro) e chiederà di fornire le tue credenziali di accesso, informazioni bancarie elettroniche o altre informazioni personali.
                                 <br><br>
@@ -3663,7 +3672,7 @@ sfide operative e tecnologiche.",
                         riportate in questa Politica sui Cookie vengono fornite in aggiunta e dovrebbero essere lette insieme alla nostra
                         Informativa sulla Privacy, che puoi trovare su',
     "cookie policy 4"    => "Siti web coperti da questa Politica sui Cookie",
-    "cookie policy 5"    => "<p>Questa Politica sui Cookie spiega come vengono utilizzati i Cookie su vanwardintl.com e su altri siti web da noi
+    "cookie policy 5"    => "<p>Questa Politica sui Cookie spiega come vengono utilizzati i Cookie su vanward-is.com e su altri siti web da noi
                         gestiti dai quali stai accedendo a questa Politica sui Cookie (collettivamente definiti come i
                         “Siti”).</p>
                         <p>La politica potrebbe essere modificata di tanto in tanto. Quando viene modificata, ti informeremo mediante
@@ -4014,6 +4023,11 @@ sfide operative e tecnologiche.",
     "home page 27" => "L'Indirizzo",
     "home page 28" => "L'Email",
     "home page 29" => "Il Telefono",
+    "home page 30" => "Benvenuti in Vanward International",
+    "home page 31" => "Esperienza completa nella gestione olistica della ricchezza privata nel lungo termine",
+    "home page 32" => "Abbiamo una comprensione completa delle sfide affrontate dalle aziende private",
+    "home page 33" => "Collabora con team di gestione di alta qualità che guidano le imprese attraverso fasi cruciali di crescita",
+    "home page 34" => "Ha gestito strategie di reddito fisso per istituzioni pubbliche e private e famiglie facoltose",
 
     //public equity
     "pe1" => "Azioni di Grandi Capitalizzazioni USA",

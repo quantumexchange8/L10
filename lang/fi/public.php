@@ -285,6 +285,14 @@ return [
     "investor services caption 2" => "Tarjoamme erikoisasiantuntemusta palvellen rajat ylittäviä rahastoja, vaihtoehtoja, ETF:iä ja vakuutusyhtiöitä.",
     "investor services caption 3" => "Tarjoamme valuuttakaupan, valuuttahallinnan ja arvopapereiden lainausratkaisuja, jotka keskittyvät toteutuslaatuun ja johtaviin operatiivisen tehokkuuden, läpinäkyvyyden ja asiakaskontrollin tasoilla.",
     "investor services caption 4" => "Tärkeät osat teknologia-alustastamme ovat saatavilla asiakkaillemme SaaS-, IaaS- ja täysin ulkoistettuna.",
+    "investment management caption 3" => "Sijoitustoimintamme periaatteet:",
+    "investment management caption 4" => "Keskittyminen varallisuuden säilyttämiseen",
+    "investment management caption 5" => "Arvopohjainen strategia",
+    "investment management caption 6" => "Alhaalta ylöspäin suuntautuva perustutkimus",
+    "investment management caption 7" => "Pitkän aikavälin näkemys",
+    "investment management caption 8" => "Kuri ja suvaitsevaisuus",
+    "investment management caption 9" => "Opi, kuinka alhaalta ylöspäin suuntautuva sijoitusstrategiamme ",
+    
     // careers
     "careers 1" => "Vanwardilla arvostamme suuresti jokaisen työntekijän näkökulmia ja asiantuntemusta. Organisaatiorakenteemme on suunniteltu litteäksi, edistäen yhteistyöllistä kulttuuria, jossa jokaisen tiimin jäsenen panos on oleellinen menestyksellemme. Sitoudumme luomaan ympäristön, jossa jokainen idea on tervetullut ja jaettu, tunnistaen että jokaisella idealla on potentiaalia vaikuttaa merkittävästi toimintaamme ja saavutuksiimme.",
     "careers caption 1" => "Etsimme aktiivisesti henkilöitä, jotka tuovat monipuolisia näkökulmia ja kokemuksia organisaatioomme, sillä he ovat ratkaisevia menestyksellemme. Työntekijöillämme on yrittäjähenkinen asenne ja he osoittavat omistajuusajattelua organisaation jokaisella tasolla.",
@@ -3099,9 +3107,14 @@ Hyväntekeväisyysmissiomme mukaisesti asetamme etusijalle seuraavat alueet.",
 "home page 27" => "Osoite",
 "home page 28" => "Sähköposti",
 "home page 29" => "Puhelin",
+"home page 30" => "Tervetuloa Vanward Internationaliin",
+"home page 31" => "Kattava yksityisen varallisuuden hallinnan kokemus pitkällä aikavälillä",
+"home page 32" => "Meillä on kattava ymmärrys yksityisten yritysten kohtaamista haasteista",
+"home page 33" => "Yhteistyö korkealaatuisten johtoryhmien kanssa, jotka ohjaavat yrityksiä ratkaisevien kasvuvaiheiden läpi",
+"home page 34" => "Hallinnoi kiinteitä tulosstrategioita julkisille ja yksityisille instituutioille sekä varakkaille perheille",
 
-    //public equity
-    "pe1" => "Yhdysvaltain suuret pääomaosuudet",
+//public equity
+"pe1" => "Yhdysvaltain suuret pääomaosuudet",
 "pe2" => "Vanward Core Select, pääasiallinen Yhdysvaltain suurten pääomaosuuksien strategiamme, hyödyntää alennusta sisäiseen arvoon perustuvaa kehystä ja pitkäaikaista liiketoiminnan omistuslähestymistapaa. Tavoitteenamme on tarjota sijoittajille pitkän aikavälin pääoman kasvua. Jokaisessa sijoituksessa tavoittelemme houkuttelevaa absoluuttista tuottoa minimoimalla pysyvän pääoman menetyksen riskin. Sijoitusprosessimme perustuu yritysten perusteelliseen, alhaalta ylös suuntautuvaan analyysiin.
 <br> <br>
 Tavoitteenamme on sijoittaa vakiintuneisiin, kassavirtaa tuottaviin yrityksiin, jotka ovat johtavia välttämättömien tuotteiden ja palveluiden tarjoajia ja joilla on vahvat johtoryhmät, ja hankkia näiden yritysten julkisesti noteerattuja osakkeita alennuksella niiden sisäisestä arvosta*. Sisäisen arvon arviot johdetaan tulevien vapaavirtaavien käteisvirtojen ja pääoman tuottojen analyysistä. Käytämme metodista sijoitusvalintaprosessia, joka keskittyy liiketoiminnallisiin, johtamiseen liittyviin ja taloudellisiin ominaisuuksiin.
