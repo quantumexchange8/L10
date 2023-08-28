@@ -2,7 +2,7 @@
 @section('title', 'Home | Vanward')
 
 @section('content')
-<nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
+{{-- <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
             <a href="#">
@@ -190,7 +190,7 @@
             </div>
         </div>
     </div>
-</nav>
+</nav> --}}
     <main>
         <section class="section-image section-home-one no-padding-y" style="background-image:url({{ asset('assets/img/hd-1.jpg') }})">
             <div class="container">

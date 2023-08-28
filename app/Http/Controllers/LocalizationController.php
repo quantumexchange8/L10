@@ -20,8 +20,10 @@ class LocalizationController extends Controller
 
         // return back();
         App::setLocale($locale);
+        $currentLocale = App::getLocale();
         Session::put("locale", $locale);
         
-        return view('home');
+        return view('home', compact('currentLocale'));
     }
+
 }

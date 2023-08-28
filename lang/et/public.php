@@ -281,7 +281,7 @@ return [
     "investment management caption 4" => "Keskkonnale keskenduv strateegia",
     "investment management caption 5" => "Väärtustel põhinev strateegia",
     "investment management caption 6" => "Altpoolt üles suunatud esmane uurimus",
-    "investment management caption 7" => "Pikaajaline vaade"
+    "investment management caption 7" => "Pikaajaline vaade",
     "investment management caption 8" => "Distipliin ja tolerants",
     "investment management caption 9" => "Tutvu, kuidas meie altpoolt üles suunatud investeerimisstrateegia ",
     
