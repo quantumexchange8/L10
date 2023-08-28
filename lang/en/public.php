@@ -207,7 +207,7 @@ return [
     "undergraduate internships"         => "Undergraduate Internships",
     "entry level professionals"         => "Entry Level Professionals",
     "experienced professionals"         => "Experienced Professionals",
-    "restart"                           => "Restart",
+    "restart"                           => "Restart@",
     "total rewards"                     => "Total Rewards",
     "benefits, wellness and compensation" => "Benefits, Wellness and Compensation",
     "thrive physically"                 => "Thrive Physically",
