@@ -758,6 +758,7 @@ body > nav .menu-brand img {
 
 .menu-cnt {
     position: relative;
+    
 }
 
 .menu-cnt > ul, .menu-inner > ul {
@@ -786,6 +787,14 @@ body > nav .menu-brand img {
     font-weight: 500;
     text-decoration: none;
     text-align: left;
+}
+
+.menu-cnt > ul > li a.nav {
+    font-weight: 600;
+    text-decoration: none;
+    text-align: left;
+    font-size: 13px;
+    white-space: nowrap;
 }
 
 .menu-right > * {

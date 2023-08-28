@@ -34,10 +34,10 @@ $languages = [
         <div class="menu-cnt">
             <ul id="main-menu">
                 <li>
-                    <a href="{{ url('/') }}">@lang('public.home')</a>
+                    <a class="nav" href="{{ url('/') }}">@lang('public.home')</a>
                 </li>
                 <li class="dropdown">
-                    <a href="{{ route('web.our-firm.index') }}">@lang('public.our firm')</a>
+                    <a class="nav" href="{{ route('web.our-firm.index') }}">@lang('public.our firm')</a>
                     <ul>
                         <li>
                             <a href="{{ route('web.our-firm.the_partnership') }}">@lang('public.menu 1')</a>
@@ -62,7 +62,7 @@ $languages = [
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="{{ route('web.private-banking.index') }}">@lang('public.private banking')</a>
+                    <a class="nav" href="{{ route('web.private-banking.index') }}">@lang('public.private banking')</a>
                     <ul>
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.private-banking.private_wealth_management') }}">@lang('public.private wealth management')</a>
@@ -95,7 +95,7 @@ $languages = [
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="{{ route('web.investment-management.index') }}">@lang('public.investment management')</a>
+                    <a class="nav" href="{{ route('web.investment-management.index') }}">@lang('public.investment management')</a>
                     <ul>
                         <li class="dropdown-submenu">
                             <a class="header" href="{{ route('web.investment-management.public_equity') }}">@lang('public.public equity')</a>
@@ -119,7 +119,7 @@ $languages = [
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a href="{{ route('web.investor-services.index') }}">@lang('public.investor services')</a>
+                    <a class="nav" href="{{ route('web.investor-services.index') }}">@lang('public.investor services')</a>
                     <ul>
                         <li class="dropdown-submenu">
                             <a href="{{ route('web.investor-services.custody_and_fund_services') }}">@lang('public.custody & fund services')</a>
@@ -167,13 +167,16 @@ $languages = [
                     </ul>
                 </li>
                 <li>
-                    <a href="{{ url('/contact-us') }}">@lang('public.menu 51')</a>
+                    <a class="nav" href="{{ url('/contact-us') }}">@lang('public.menu 51')</a>
                 </li>
                 <li class="nav-label">
                     
                 </li>
-                <li class="nav-label">
+                {{-- <li class="nav-label">
                     <a class="main-menu" href="https://app.vanward-is.com/en/accounts/login/">@lang('public.client login')</a>
+                </li> --}}
+                <li>
+                    <a class="nav" href="https://app.vanward-is.com/en/accounts/login/">@lang('public.client login')</a>
                 </li>
             </ul>
             <div class="menu-right">
