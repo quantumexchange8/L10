@@ -2,14 +2,21 @@
 @section('title', 'The Partnership | Vanward')
 
 @section('content')
+<style>
+    .logo-default{
+        width: 50px;
+        height: auto;
+        transform: scale(2.3); 
+    }
+</style>
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
             <a href="#">
                 <img class="logo-default scroll-hide" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
                 <img class="logo-retina scroll-hide" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
-                <img class="logo-default scroll-show" src="{{ asset('assets/img/logo3.png') }}" alt="logo" />
-                <img class="logo-retina scroll-show" src="{{ asset('assets/img/logo4.png') }}" alt="logo" />
+                <img class="logo-default scroll-show" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
+                <img class="logo-retina scroll-show" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
             </a>
         </div>
         <i class="menu-btn"></i>
