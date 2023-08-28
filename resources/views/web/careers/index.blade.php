@@ -1,6 +1,12 @@
 @extends('layouts.main')
 @section('title', 'The Partnership | Vanward')
-
+<style>
+    .logo-default{
+        width: 50px;
+        height: auto;
+        transform: scale(2.3); 
+    }
+</style>
 @section('content')
     @component('components.page-header', [
         'title' => __('public.careers'),

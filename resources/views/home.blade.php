@@ -684,8 +684,10 @@
                                     <div>
                                         <h3>@lang('public.home page 28')</h3>
                                         <div class="value">
+                                            <a href="mailto:info@vanward.com">
                                             <span style="font-size:10px;">info@vanward-is.com</span>
                                             {{-- <span>+</span> --}}
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -696,9 +698,9 @@
                                     <div>
                                         <h3>@lang('public.home page 29')</h3>
                                         <div class="value">
-                                            <span style="font-size:10px;">+852 5808 8687</span>
-                                            {{-- <span>+</span> --}}
+                                            <a href="tel:+85258088687" style="font-size:10px;">+852 5808 8687</a>
                                         </div>
+                                        
                                     </div>
                                 </div>
                             </td>

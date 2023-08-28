@@ -1,6 +1,12 @@
 @extends('layouts.main')
 @section('title', 'Investor Services | Vanward International')
-
+<style>
+    .logo-default{
+        width: 50px;
+        height: auto;
+        transform: scale(2.0); 
+    }
+</style>
 @section('content')
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">

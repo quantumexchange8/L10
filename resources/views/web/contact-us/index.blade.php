@@ -5,7 +5,8 @@
 
 @component('components.page-header', [
     'imgurl' => url('private-equity.jpg'),
-    'title' => __('public.contact us')
+    'title' => __('public.contact us'),
+    'headerImage' => url('assets/img/banner23.jpg'),
 ])
 @endcomponent
 <!-- Paragraph/Description Section -->

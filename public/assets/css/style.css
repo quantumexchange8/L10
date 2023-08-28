@@ -760,6 +760,9 @@ body > nav .menu-brand img {
     position: relative;
     
 }
+.value a {
+    text-decoration: none;
+}
 
 .menu-cnt > ul, .menu-inner > ul {
     float: left;

@@ -6,7 +6,7 @@
         'title' => __('public.markets'),
         'url' => '/investor-services',
         'sub2' => __('public.investor services'),
-        'headerImage' => url('assets/img/banner19.jpg'),
+        'headerImage' => url('assets/img/banner40.jpeg'),
 
     ])
     @endcomponent
