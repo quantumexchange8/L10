@@ -2,21 +2,21 @@
 @section('title', 'Middle Office Outsourcing | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-{{-- @component('components.page-header', [
+@component('components.page-header', [
     'title' => __('public.middle office outsourcing'),
     'url' => 'investor-services/investment-operations-and-technology-solutions',
     'sub2' => __('public.investment operations & technology'),
-    'headerImage' => url('assets/img/banner20.jpg'),
+    'headerImage' => url('assets/img/banner64.jpg'),
 
 ])
-@endcomponent --}}
+@endcomponent
     <main>
         <section class="section-base">
             <div class="container">
                 <div class="row row-fit-lg">
                     <div class="col-lg-4">
                         <p class="paragraph">
-                            <strong>@lang('public.middle office outsourcing')</strong>
+                            {{-- <strong>@lang('public.middle office outsourcing')</strong> --}}
                         </p>
                     </div>
                     <div class="col-lg-4">

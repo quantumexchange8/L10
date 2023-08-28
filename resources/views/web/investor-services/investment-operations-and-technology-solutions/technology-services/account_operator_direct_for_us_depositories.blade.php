@@ -2,14 +2,14 @@
 @section('title', 'Account Operator Direct For Us Depositories | Technology Services | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-{{-- @component('components.page-header', [
+@component('components.page-header', [
     'title' => __('public.account operator direct for US depositories'),
     'url' => 'investor-services/investment-operations-and-technology-solutions/technology-services',
     'sub2' => __('public.technology services'),
-    'headerImage' => url('assets/img/banner41.jpg'),
+    'headerImage' => url('assets/img/banner80.jpg'),
 
 ])
-@endcomponent --}}
+@endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p class="paragraph">
-                            <strong>@lang('public.account operator direct for US depositories')</strong>
+                            {{-- <strong>@lang('public.account operator direct for US depositories')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

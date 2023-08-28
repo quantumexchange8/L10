@@ -2,22 +2,21 @@
 @section('title', 'Global Custody Direct | Technology Services | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-{{-- @component('components.page-header', [
+@component('components.page-header', [
     'title' => __('public.global custody direct'),
     'url' => 'investor-services/investment-operations-and-technology-solutions/technology-services',
     'sub2' => __('public.technology services'),
-    'headerImage' => url('assets/img/banner37.jpg'),
-    'headerImage' => url('assets/img/banner47.jpg'),
+    'headerImage' => url('assets/img/banner79.jpg'),
 
 ])
-@endcomponent --}}
+@endcomponent
     <main>
         <section class="section-base">
             <div class="container">
                 <div class="row row-fit-lg">
                     <div class="col-lg-4">
                         <p class="paragraph">
-                            <strong> @lang('public.global custody')</strong>
+                            {{-- <strong> @lang('public.global custody')</strong> --}}
                         </p>
                     </div>
                     <div class="col-lg-4">

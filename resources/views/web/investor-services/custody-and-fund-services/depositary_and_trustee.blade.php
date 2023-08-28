@@ -2,14 +2,14 @@
 @section('title', 'Depositary & Trustee | Custody & Fund Services | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.depositary & trustee'),
         'url' => 'investor-services/custody-and-fund-services',
         'sub2' => __('public.custody & fund services'),
-        'headerImage' => url('assets/img/banner40.jpg'),
+        'headerImage' => url('assets/img/banner43.jpeg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.depositary & trustee')</strong>
+                            {{-- <strong>@lang('public.depositary & trustee')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

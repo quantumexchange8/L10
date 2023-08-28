@@ -2,14 +2,14 @@
 @section('title', 'Currency Hedging | Markets | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.currency hedging'),
         'url' => 'investor-services/markets',
         'sub2' => __('public.markets'),
-        'headerImage' => url('assets/img/banner11.jpg'),
+        'headerImage' => url('assets/img/banner61.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong> @lang('public.currency hedging')</strong>
+                            {{-- <strong> @lang('public.currency hedging')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

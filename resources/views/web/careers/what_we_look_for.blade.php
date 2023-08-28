@@ -106,7 +106,7 @@
                         </div>
                         <div class="item">
                             <div class="item-wrapper">
-                                <h3 class="item-name"><a href="{{ route('web.careers.restart') }}" class="link-effect">@lang('public.restart')@</a></h3>
+                                <h3 class="item-name"><a href="{{ route('web.careers.restart') }}" class="link-effect">@lang('public.restart')</a></h3>
                                 <span class="item-divider"></span>
                                 <span class="item-price"></span>
                             </div>

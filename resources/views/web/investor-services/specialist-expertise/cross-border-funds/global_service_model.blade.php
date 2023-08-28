@@ -2,13 +2,14 @@
 @section('title', 'Global Service Model | Cross-Border Funds | Specialist Expertise | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.global service model'),
         'url' => 'investor-services/specialist-expertise/cross-border-funds',
         'sub2' => __('public.alternative funds'),
+        'headerImage' => url('assets/img/banner91.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">

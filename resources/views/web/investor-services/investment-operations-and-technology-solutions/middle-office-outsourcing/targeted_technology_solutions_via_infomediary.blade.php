@@ -2,14 +2,14 @@
 @section('title', 'Targeted Technology Solutions Via Infomediary | Middle Office Outsourcing | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-{{-- @component('components.page-header', [
+@component('components.page-header', [
     'title' => __('public.targeted technology solutions via infomediary'),
     'url' => 'investor-services/investment-operations-and-technology-solutions/middle-office-outsourcing',
     'sub2' => __('public.middle office outsourcing'),
-    'headerImage' => url('assets/img/banner57.jpg')
+    'headerImage' => url('assets/img/banner83.jpg')
 
 ])
-@endcomponent --}}
+@endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p class="paragraph">
-                            <strong>@lang('public.targeted technology solutions via infomediary')</strong>
+                            {{-- <strong>@lang('public.targeted technology solutions via infomediary')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

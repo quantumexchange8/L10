@@ -2,13 +2,13 @@
 @section('title', 'InfoRecon | Targeted Technology Solutions via Infomediary | Middle Office Outsourcing | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-{{-- @component('components.page-header', [
+@component('components.page-header', [
     'title' => __('public.inforecon'),
     'url' => 'investor-services/investment-operations-and-technology-solutions/middle-office-outsourcing/targeted-technology-solutions-via-infomediary',
     'sub2' => __('public.targeted technology solutions via infomediary'),
-    'headerImage' => url('assets/img/banner60.jpg'),
+    'headerImage' => url('assets/img/banner86.jpg'),
 ])
-@endcomponent --}}
+@endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +53,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p class="paragraph">
-                            <strong>@lang('public.inforecon')</strong>
+                            {{-- <strong>@lang('public.inforecon')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

@@ -1,14 +1,15 @@
 @extends('layouts.main')
 @section('title', 'Experienced Professionals | What We Look For | Careers | Vanward International')
 
-{{-- @section('content')
+@section('content')
     @component('components.page-header', [
         'title' => __('public.experienced professionals'),
         'url' => '/careers/what-we-look-for',
         'sub2' => __('public.what we look for'),
+        'headerImage' => url('assets/img/banner68.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.experienced professionals')</strong>
+                            {{-- <strong>@lang('public.experienced professionals')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

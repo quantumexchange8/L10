@@ -2,13 +2,14 @@
 @section('title', 'Entry Level Professionals | What We Look For | Careers | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.entry level professionals'),
         'url' => '/careers/what-we-look-for',
         'sub2' => __('public.what we look for'),
+        'headerImage' => url('assets/img/banner69.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -53,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.entry level professionals')</strong>
+                            {{-- <strong>@lang('public.entry level professionals')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

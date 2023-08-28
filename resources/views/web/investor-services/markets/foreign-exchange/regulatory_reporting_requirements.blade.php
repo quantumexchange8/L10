@@ -6,7 +6,7 @@
     'title' => __('public.regulatory reporting requirements'),
     'url' => 'investor-services/markets/foreign-exchange',
     'sub2' => __('public.foreign exchange'),
-    'headerImage' => url('assets/img/banner5.jpg'),
+    'headerImage' => url('assets/img/banner93.jpg'),
 
 ])
 @endcomponent

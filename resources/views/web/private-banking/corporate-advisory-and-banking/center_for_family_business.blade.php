@@ -2,14 +2,14 @@
 @section('title', 'Investment Advisory | Private Banking | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.center for family business'),
         'url' => 'private-banking/corporate-advisory-and-banking',
         'sub2' => __('public.corporate advisory & banking'),
-        'headerImage' => url('assets/img/banner28.jpg'),
+        'headerImage' => url('assets/img/banner31.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.center for family business')</strong>
+                            {{-- <strong>@lang('public.center for family business')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

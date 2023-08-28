@@ -2,13 +2,14 @@
 @section('title', 'Thrive Physically | Benefits, Wellness & Compensation | Total Rewards | Careers | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.thrive physically'),
-        'url' => 'careers/total-rewards',
-        'sub2' => __('public.total rewards'),
+        'url' => ('careers/total-rewards/benefits-wellness-and-compensation'),
+        'sub2' => __('public.benefits, wellness and compensation'),
+        'headerImage' => url('assets/img/banner73.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">

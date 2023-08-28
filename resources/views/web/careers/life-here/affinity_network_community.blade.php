@@ -6,6 +6,7 @@
         'title' => __('public.affinity network community'),
         'url' => 'careers/life-here',
         'sub2' => __('public.life here'),
+        'headerImage' => url('assets/img/banner77.jpg'),
 
     ])
     @endcomponent

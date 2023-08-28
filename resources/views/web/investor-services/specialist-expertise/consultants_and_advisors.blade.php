@@ -2,14 +2,14 @@
 @section('title', 'Consultants And Advisors | Specialist Expertise | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.consultants and advisors'),
         'url' => 'investor-services/specialist-expertise',
         'sub2' => __('public.specialist expertise'),
-        'headerImage' => url('assets/img/banner47.jpg'),
+        'headerImage' => url('assets/img/banner52.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.consultants and advisors')</strong>
+                            {{-- <strong>@lang('public.consultants and advisors')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

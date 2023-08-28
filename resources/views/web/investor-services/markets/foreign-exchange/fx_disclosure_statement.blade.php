@@ -6,7 +6,7 @@
     'title' => __('public.fx disclosure statement'),
     'url' => 'investor-services/markets/foreign-exchange',
     'sub2' => __('public.foreign exchange'),
-    'headerImage' => url('assets/img/banner3.jpg'),
+    'headerImage' => url('assets/img/banner92.jpg'),
 
 ])
 @endcomponent

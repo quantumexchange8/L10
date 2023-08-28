@@ -2,14 +2,14 @@
 @section('title', 'Investment Advisory | Private Banking | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.pe41'),
         'url' => 'investment-management/fixed-income',
         'sub2' => __('public.fixed income'),
-        'headerImage' => url('assets/img/banner37.jpg'),
+        'headerImage' => url('assets/img/banner41.jpeg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">

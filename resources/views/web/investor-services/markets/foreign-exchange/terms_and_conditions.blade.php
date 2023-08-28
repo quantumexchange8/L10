@@ -6,7 +6,7 @@
         'title' => __('public.terms and conditions'),
         'url' => 'investor-services/markets/foreign-exchange',
         'sub2' => __('public.foreign exchange'),
-        'headerImage' => url('assets/img/banner23.jpg'),
+        'headerImage' => url('assets/img/banner94.jpg'),
 
     ])
     @endcomponent

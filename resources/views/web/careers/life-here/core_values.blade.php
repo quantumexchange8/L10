@@ -6,6 +6,7 @@
         'title' => __('public.core values'),
         'url' => 'careers/life-here',
         'sub2' => __('public.life here'),
+        'headerImage' => url('assets/img/banner75.jpg'),
 
     ])
     @endcomponent

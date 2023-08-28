@@ -2,14 +2,14 @@
 @section('title', 'Active FX Execution | Markets | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.active fx execution'),
         'url' => 'investor-services/markets',
         'sub2' => __('public.markets'),
-        'headerImage' => url('assets/img/banner7.jpg'),
+        'headerImage' => url('assets/img/banner59.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong> @lang('public.active fx execution')</strong>
+                            {{-- <strong> @lang('public.active fx execution')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

@@ -2,14 +2,14 @@
 @section('title', 'Foreign Exchange | Specialist Expertise | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.foreign exchange'),
         'url' => 'investor-services/markets',
         'sub2' => __('public.markets'),
-        'headerImage' => url('assets/img/banner13.jpg'),
+        'headerImage' => url('assets/img/banner58.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.foreign exchange')</strong>
+                            {{-- <strong>@lang('public.foreign exchange')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

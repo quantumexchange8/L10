@@ -2,14 +2,14 @@
 @section('title', 'Fund Accouting | Custody & Fund Services | Investor Services | Vanward International')
 
 @section('content')
-    {{-- @component('components.page-header', [
+    @component('components.page-header', [
         'title' => __('public.fund accounting'),
         'url' => 'investor-services/custody-and-fund-services',
         'sub2' => __('public.custody & fund services'),
-        'headerImage' => url('assets/img/banner41.jpg'),
+        'headerImage' => url('assets/img/banner44.jpg'),
 
     ])
-    @endcomponent --}}
+    @endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.fund accounting')</strong>
+                            {{-- <strong>@lang('public.fund accounting')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

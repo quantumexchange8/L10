@@ -2,14 +2,14 @@
 @section('title', 'Data Connectivity & Applications via Infomediary | Technology Services | Investment Operations & Technology Solutions | Investor Services | Vanward International')
 
 @section('content')
-{{-- @component('components.page-header', [
+@component('components.page-header', [
     'title' => __('public.data connectivity & applications via infomediary'),
     'url' => 'investor-services/investment-operations-and-technology-solutions/technology-services',
     'sub2' => __('public.technology services'),
-    'headerImage' => url('assets/img/banner52.jpg'),
+    'headerImage' => url('assets/img/banner78.jpg'),
 
 ])
-@endcomponent --}}
+@endcomponent
     <main>
         <section class="section-base">
             <div class="container">
@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p class="paragraph">
-                            <strong>@lang('public.data connectivity & applications via infomediary')</strong>
+                            {{-- <strong>@lang('public.data connectivity & applications via infomediary')</strong> --}}
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">
