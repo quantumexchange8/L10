@@ -608,7 +608,7 @@
                         <source src="{{ asset('stock-market7.mp4') }}" type="video/mp4">
                     </video>
                 </a>
-                <h2 class="width-650" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+                <h2 class="width-600" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
                     @lang('public.home page 23')
                 </h2>
                 <hr class="space" />

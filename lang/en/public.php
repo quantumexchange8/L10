@@ -23,7 +23,7 @@ return [
     "or"                                   => "or",
     "our"                                   => "our",
     "we provide"                            => "We provide",
-    "administration"                        => "administration",
+    "administration"                        => "Administration",
     "as of december 2021"                   => "*as of December 2021.",
     "as of december 2019"                   => "*as of December 2019.",
     "short pride"                           => "Pride",

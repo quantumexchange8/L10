@@ -24,7 +24,7 @@ return [
     "or"                                   => "eller",
     "our"                                   => "vores",
     "we provide"                            => "Vi tilbyder",
-    "administration"                        => "administration",
+    "administration"                        => "Administration",
     "as of december 2021"                   => "*pr. december 2021.",
     "as of december 2019"                   => "*pr. december 2019.",
     "short pride"                           => "Stolthed",
