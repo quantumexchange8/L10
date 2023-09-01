@@ -14,9 +14,9 @@ use App\Http\Controllers\PageController;
 |
 */
 
-Route::get('/index', function () {
-    return view('index');
-});
+// Route::get('/index', function () {
+//     return view('index');
+// });
 
 Route::get('/home', function () {
     return view('home');
@@ -26,9 +26,9 @@ Route::get('/', function () {
     return view('index-2');
 });
 
-Route::get('/index-3', function () {
-    return view('index-3');
-});
+// Route::get('/index-3', function () {
+//     return view('index-3');
+// });
 
 Route::get('lang/{locale}', [\App\Http\Controllers\LocalizationController::class, 'setLang'])->name('setLang');
 
