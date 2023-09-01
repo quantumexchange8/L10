@@ -278,9 +278,12 @@
                 </div>
                 <div class="row row-fit-lg" data-anima="fade-bottom" data-time="1000">
                     <div class="col-lg-6">
-                        <a class="img-box img-box-caption btn-video lightbox" href="https://www.youtube.com/watch?v=Lb4IcGF5iTQ" data-lightbox-anima="fade-top">
+                        {{-- <a class="img-box img-box-caption btn-video lightbox" href="https://www.youtube.com/watch?v=Lb4IcGF5iTQ" data-lightbox-anima="fade-top">
                             <img src="{{ asset('assets/img/hd-2.jpg') }}" alt="">
-                        </a>
+                        </a> --}}
+                        <video playsinline autoplay muted loop style="max-width: 100%; height: auto;">
+                            <source src="{{ asset('stock-market3.mp4') }}" type="video/mp4">
+                        </video>
                     </div>
                     <div class="col-lg-6">
                         <div class="title">
