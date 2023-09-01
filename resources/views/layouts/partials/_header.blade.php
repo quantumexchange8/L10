@@ -199,11 +199,13 @@ $languages = [
                         </a>
                         <ul>
                             @foreach ($languages as $locale => $name)
-                                <li class="{{ $locale === $currentLocale ? 'active' : '' }}">
-                                    <a href="{{ route('setLang', ['locale' => $locale]) }}">
-                                        <img src="{{ asset('assets/img/lang/'.$locale.'.svg') }}" style="width:18px; height:12px;" alt="lang" />{{ $name }}
-                                    </a>
-                                </li>
+                                @if ($locale !== $currentLocale)
+                                    <li class="{{ $locale === $currentLocale ? 'active' : '' }}">
+                                        <a href="{{ route('setLang', ['locale' => $locale]) }}">
+                                            <img src="{{ asset('assets/img/lang/'.$locale.'.svg') }}" style="width:18px; height:12px;" alt="lang" />{{ $name }}
+                                        </a>
+                                    </li>
+                                @endif
                             @endforeach
                         </ul>
                     </li>
