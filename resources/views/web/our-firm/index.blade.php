@@ -12,12 +12,15 @@
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
-            <a href="#">
-                <img class="logo-default scroll-hide" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
-                <img class="logo-retina scroll-hide" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
-                <img class="logo-default scroll-show" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
-                <img class="logo-retina scroll-show" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
+            <a href="{{ url('/home') }}">
+                <img class="logo-default scroll-hide" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
+                <img class="logo-retina scroll-hide" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
+                {{-- <span class="logo-text scroll-hide">VANWARD <BR> INTERNATIONAL</span> --}}
+                <img class="logo-default scroll-show" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
+                <img class="logo-retina scroll-show" src="{{ asset('assets/img/logo new.png') }}" alt="logo" />
             </a>
+            
+            
         </div>
         <i class="menu-btn"></i>
         <div class="menu-cnt">

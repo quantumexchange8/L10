@@ -11,7 +11,7 @@
 <nav class="menu-top-logo menu-fixed" data-menu-anima="fade-in">
     <div class="container">
         <div class="menu-brand">
-            <a href="#">
+            <a href="{{ url('/home') }}">
                 <img class="logo-default scroll-hide" src="{{ asset('assets/img/logo1.png') }}" alt="logo" />
                 <img class="logo-retina scroll-hide" src="{{ asset('assets/img/logo2.png') }}" alt="logo" />
                 <img class="logo-default scroll-show" src="{{ asset('assets/img/logo3.png') }}" alt="logo" />
