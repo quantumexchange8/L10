@@ -697,6 +697,24 @@ body > nav > .container {
     display: none !important;
 }
 
+.logo-container {
+    display: inline-block;
+    position: relative;
+}
+
+.logo-text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 65px; 
+    margin-top: -75px;
+    font-size: 18px; 
+    color: #ffffff; 
+    font-weight: 800;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 20px;
+}
+
+
 @media (min-resolution: 192dpi) and (min-width: 994px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 994px) {
     .logo-retina:not(.hidden):not(.scroll-show), .logo-retina.scroll-show.showed {
         display: block !important;
@@ -725,6 +743,9 @@ body > nav .menu-brand > a {
 body > nav .menu-brand img {
     max-height: 100%;
     display: block;
+    width: 65px;
+    margin-top: 10px;
+    margin-left: 40px;
 }
 
 .menu-btn {
@@ -956,6 +977,14 @@ MINI MENU SECTION - NAVIGATION MENU
     position: relative;
     z-index: 999;
 }
+
+.menu-right .lan-menu li.dropdown ul {
+    max-height: 450px;
+    max-width: 100px;
+    overflow-y: auto;
+    overflow-x: hidden; 
+}
+
 
 .menu-mini .lan-menu li.dropdown > a {
     height: 35px;
@@ -5047,7 +5076,7 @@ Medium devices (tablets, less than 992px)
     .menu-right > .lan-menu {
         margin: 15px;
     }
-
+    
     .lan-menu a {
         text-align: left;
     }
