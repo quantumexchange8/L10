@@ -617,8 +617,7 @@
   
   // Set up zooming in on clicked continent
   continentSeries.mapPolygons.template.events.on("click", function (ev) {
-    var clickedDataItem = ev.target.dataItem;
-  continentSeries.zoomToDataItem(clickedDataItem, 2); // Adjust the zoom level (2 in this example)
+  continentSeries.zoomToDataItem(ev.target.dataItem); 
   continentSeries.hide();
   countrySeries.show();
   homeButton.show();
