@@ -4439,7 +4439,7 @@ return [
     "home page 29" => "The Phone",
     "home page 30" => "Welcome to Vanward International",
     "home page 31" => "Comprehensive private wealth management experience possible over the long term",
-    "home page 32" => "We have a comprehensive understanding of the challenges faced by private",
+    "home page 32" => "We have a comprehensive understanding of the challenges faced by private companies",
     "home page 33" => "Collaborates with high-caliber management teams guiding businesses through crucial growth",
     "home page 34" => "Managed fixed income strategies for public and private institutions and wealthy families",
 
