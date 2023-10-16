@@ -339,7 +339,7 @@ return [
 
     // LEVEL 2 - Private Banking
     // private_wealth_management
-    "private wealth management 1" => "Our mission at Vanward is straightforward: to preserve and grow your wealth*. Our approach distinguishes us in this regard. We combine a deeply rooted investment culture with insightful wealth planning and exemplary service to provide you with the most deliberate and comprehensive private wealth management experience possible over the long term. Our client relationships are supported by the partnership structure's stability, longevity, and alignment of interests.",
+    "private wealth management 1" => "Our mission at Vanward is straightforward: to preserve and grow your wealth. Our approach distinguishes us in this regard. We combine a deeply rooted investment culture with insightful wealth planning and exemplary service to provide you with the most deliberate and comprehensive private wealth management experience possible over the long term. Our client relationships are supported by the partnership structure's stability, longevity, and alignment of interests.",
     "private wealth management 2" => "We take a value-oriented, long-term approach to investing with the goal of preserving and growing your wealth.",
     "private wealth management 3" => "Our highly skilled wealth planners collaborate with you and your advisors on trust and estate, tax, and financial planning matters to assist you in achieving your personal and financial objectives.",
     "private wealth management 4" => "We assist our clients in addressing all aspects of their philanthropic plans and objectives in order to have a lasting, positive impact.",
