@@ -14,11 +14,11 @@
         <section class="section-base">
             <div class="container">
                 <div class="row row-fit-lg">
-                    <div class="col-lg-4">
-                        {{-- <p>
-                            @lang('public.our firm 2')
-                        </p> --}}
-                    </div>
+                    {{-- <div class="col-lg-4">
+                        <h3>
+                            @lang('public.our mission')
+                        </h3>
+                    </div> --}}
                     <div class="col-lg-4">
                         {{-- <p>
                             Escolo ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempore dolor in reprehenderite in voluptate.
@@ -53,8 +53,33 @@
                 </div> --}}
                 <div class="row">
                     <div class="col-lg-8">
+                        <h3>
+                            @lang('public.our mission')<br><br>
+                        </h3>
+                    </div>
+                    <div class="col-lg-8">
                         <p>
-                            @lang('public.our firm 2')
+                            @lang('public.our firm 2')<br><br>
+                        </p>
+                    </div>
+                    <div class="col-lg-8">
+                        <h3>
+                            @lang('public.our approach')<br><br>
+                        </h3>
+                    </div>
+                    <div class="col-lg-8">
+                        <p>
+                            @lang('public.our firm 2.1')<br><br>
+                        </p>
+                    </div>
+                    <div class="col-lg-8">
+                        <h3>
+                            @lang('public.our values')<br><br>
+                        </h3>
+                    </div>
+                    <div class="col-lg-8">
+                        <p>
+                            @lang('public.our firm 2.2')<br><br>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

@@ -54,7 +54,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <p>
-                            <strong>@lang('public.tax exempt fixed income strategy') </strong>
+                            <strong>@lang('public.tax-exempt fixed income strategy') </strong>
                         </p>
                     </div>
                     {{-- <div class="col-lg-4">

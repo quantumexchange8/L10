@@ -73,7 +73,7 @@
                             <br><br>
                             @lang('public.philanthropic advisory paragraph 2')
                             <br><br>
-                            @lang('public.philanthropic advisory paragraph 3')
+                            {{-- @lang('public.philanthropic advisory paragraph 3')
                             <br><br>
                             @lang('public.philanthropic advisory paragraph 4')
                             <br><br>
@@ -91,7 +91,7 @@
                             <br><br>
                             @lang('public.philanthropic advisory paragraph 11')
                             <br><br>
-                            @lang('public.philanthropic advisory paragraph 12')
+                            @lang('public.philanthropic advisory paragraph 12') --}}
                         </p>
                     </div>
                 </div>

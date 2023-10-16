@@ -237,6 +237,9 @@ return [
     // our firm sidebar
     "the partnership"                   => "The Partnership",
     "our mission & profile"             => "Our Mission & Profile",
+    "our mission"                       => "Our Mission",
+    "our approach"                      => "Our Approach",
+    "our values"                        => "Our Values",
     "philanthropy"                      => "Philanthropy",
     "policies & disclosures"            => "Policies & Disclosures",
     "important statements & disclosures"=> "Important Statements & Disclosures",
@@ -352,7 +355,8 @@ return [
     "corporate advisory & banking 5" => "The provision of consulting services and capital to family business proprietors in order to assist them in addressing their unique challenges.",
 
     // private_equity
-    "private equity 1" => "Since 1996, Vanward private equity has invested over $2.5 billion in growth capital in privately held companies across a variety of industries. Vanward collaborates with high-caliber management teams guiding businesses through crucial growth and strategic development phases. We emphasise partnering with management teams and proprietors who wish to capitalise on the relationships, experience, and resources of a more than 200-year-old institution.",
+    // "private equity 1" => "Since 1996, Vanward private equity has invested over $2.5 billion in growth capital in privately held companies across a variety of industries. Vanward collaborates with high-caliber management teams guiding businesses through crucial growth and strategic development phases. We emphasise partnering with management teams and proprietors who wish to capitalise on the relationships, experience, and resources of a more than 200-year-old institution.",
+    "private equity 1" => "As an Industry Agnostic investor, we provide our clients with unbiased access to global Markets & commodities, our team is fully equipped and available to provide any assistance regarding the navigation and implementation of your personalised investment strategies, our Personal Advisers collaborating closely with clientele to provide premium bespoke services that determine suitable investments for a wide range of financial circumstance. ",
     "private equity 2" => "Vanward has experience investing in companies with enterprise values ranging from $50 million to $400 million in the lower middle market. Vanward is able to operate as a controlling or non-controlling investor and to structure investments as a combination of equity and subordinated debt securities.",
     "private equity 3" => "A provider of development capital who offers highly customised capital solutions to businesses in the lower middle market.",
     "private equity 4" => "Investing in lower middle-market companies with strong business characteristics using a variety of transaction structures.",
@@ -414,10 +418,11 @@ return [
     "philanthropic advisory paragraph 12" => "Assistance with aligning your philanthropic mission with your direct involvement in charitable organizations.",
 
     // trust services
-    "trust services 1"  => "As experienced trustees and executors, we work with clients and their advisors to administer all types of trusts, from simple living trusts to complicated tax-driven estate planning vehicles. We also offer specialized retirement and charitable foundation services.
-                            <br><br>
-                            Our trust offices are located regionally in the U.S. and operated under a national charter, allowing for the local delivery of trust services. Vanward’s Delaware-headquartered trust company offers our clients access to a beneficiary friendly, tax-efficient jurisdiction for trust administration. The firm also maintains a trust company headquartered in the Cayman Islands, primarily to serve the needs of our non-U.S. clients.
-                            <br><br>",
+    // "trust services 1"  => "As experienced trustees and executors, we work with clients and their advisors to administer all types of trusts, from simple living trusts to complicated tax-driven estate planning vehicles. We also offer specialized retirement and charitable foundation services.
+    //                         <br><br>
+    //                         Our trust offices are located regionally in the U.S. and operated under a national charter, allowing for the local delivery of trust services. Vanward’s Delaware-headquartered trust company offers our clients access to a beneficiary friendly, tax-efficient jurisdiction for trust administration. The firm also maintains a trust company headquartered in the Cayman Islands, primarily to serve the needs of our non-U.S. clients.
+    //                         <br><br>",
+    "trust services 1"  => "Our seasoned trustees and executors collaborate with our clients and advisors to administer and manage all types of trust account from a straightforward living trust to more complicated vehicles such as retirement funds, charitable foundations and estate planning with expert precision and first-rate knowledge and experience. ",
     "trust services 2"  => "Providing Continuity for Your Family",
     "trust services 3"  => "By serving as trustee and/or executor, we provide our clients the continuity to help achieve their personal and financial goals over generations. Our comprehensive services include:",
     "trust services 4"  => "trust and estate administration",
@@ -431,7 +436,8 @@ return [
     "trust services 12" => "Vanward and its affiliates do not provide legal advice and do not provide tax advice unless Private Banking Private Client Tax Services is engaged for tax return preparation services. Clients should consult with their legal or tax advisor before taking any action relating to the subject matter of this communication.",
 
     // private client lending
-    "private client lending 1" => "We offer our customers flexible, secured lending in the form of personal loans and lines of credit. Typically, the proceeds are used to purchase real estate, invest in a business, acquire a valuable asset, or give gifts to family members. Our relationship teams collaborate with you and your family to implement financial strategies that will assist you in achieving your goals.",
+    // "private client lending 1" => "We offer our customers flexible, secured lending in the form of personal loans and lines of credit. Typically, the proceeds are used to purchase real estate, invest in a business, acquire a valuable asset, or give gifts to family members. Our relationship teams collaborate with you and your family to implement financial strategies that will assist you in achieving your goals.",
+    "private client lending 1" => "At Vanward international, we are dedicated to providing safe, flexible, collateralized credit options in the form of Personal/Business loans and private lines of credit.",
     "private client lending 2" => "Lending to Private Customers",
     "private client lending 3" => "Deposit Services",
     "private client lending 4" => "Currency exchange and currency reserve accounts",
@@ -545,10 +551,14 @@ return [
     "select portfolio companies 36" => "Microban International, Ltd., Inc. is a market leader in the development, engineering, testing, and promotion of highly engineered, branded antimicrobial ingredient solutions for consumer, industrial, and medical products.",
 
     // center for family business
-    "center for family business 1"  => "How can one successfully manage, expand, and transition a business while also caring for the family and its legacy? We have assisted a large number of family business clients in addressing this age-old question. Whether our clients are progenitors or next-generation owner-operators of family businesses, they will face a complex set of issues unique to both family and family business ownership, according to our experience.
-                                        <br><br>
-                                        The mission of the Centre for Family Business is to assist family businesses and their proprietors in achieving their goals and addressing issues at the intersection of family and business. We provide family businesses with advice, insights, and resources on a variety of topics pertaining to family business ownership, based on our years of developing profound subject matter expertise and stewarding an institution that began as a family business more than two centuries ago. Among our primary concerns are the following:
-                                        <br><br>",
+    // "center for family business 1"  => "How can one successfully manage, expand, and transition a business while also caring for the family and its legacy? We have assisted a large number of family business clients in addressing this age-old question. Whether our clients are progenitors or next-generation owner-operators of family businesses, they will face a complex set of issues unique to both family and family business ownership, according to our experience.
+    //                                     <br><br>
+    //                                     The mission of the Centre for Family Business is to assist family businesses and their proprietors in achieving their goals and addressing issues at the intersection of family and business. We provide family businesses with advice, insights, and resources on a variety of topics pertaining to family business ownership, based on our years of developing profound subject matter expertise and stewarding an institution that began as a family business more than two centuries ago. Among our primary concerns are the following:
+    //                                     <br><br>",
+    "center for family business 1"  => "One question we keep at the forefront of our decision-making processes is this; How can we successfully manage, expand and transition our client’s business whilst still maintaining care for their family legacy? With this question in mind, we have managed to assist a large number of family business clients. Whether that be with progenitors or the next-generation owner-operators, we are able to leverage our expertise to tackle complex sets of issues unique to both families and family business ownership.  
+    <br><br>
+    The mission of the centre for family business is more than just assisting family businesses, but helping those businesses and their proprietors in identifying and achieving goals and addressing issues that meet both the intersection of business as well as familial relationships.  We facilitate this through a number of different methods, be it establishing and maintaining a support network for transitionary periods, identifying and evaluating trusted advisory members, succession planning or Capital & Employment policy.  
+    <br><br>",
     "center for family business 2" => "Defining Legacy and the Future of the Business",
     "center for family business 3" => "Learn more about how we assist our clients in defining their visions, preserving their legacies, shaping the future of their enterprises, and developing their family goals.",
     "center for family business 4" => "Building a Support Team",
@@ -575,7 +585,8 @@ return [
     "corporate advisory 7" => "Provide guidance and thoughtful, independent counsel throughout a financing or M&A transaction process",
     "corporate advisory 8" => "Offer access to and support from the WAML network.",
     // corporate banking
-    "corporate banking 1" => "Vanward is committed to comprehending the businesses and industries of our clients so that we can provide sound, objective advice to help them expand. We are providers of capital with added value to substantial privately held U.S. companies with outstanding credit profiles. Vanward possesses extensive domain expertise and experience in a variety of industries, such as commodities and logistics, healthcare, manufacturing, and business services. Our principal credit offerings include:",
+    // "corporate banking 1" => "Vanward is committed to comprehending the businesses and industries of our clients so that we can provide sound, objective advice to help them expand. We are providers of capital with added value to substantial privately held U.S. companies with outstanding credit profiles. Vanward possesses extensive domain expertise and experience in a variety of industries, such as commodities and logistics, healthcare, manufacturing, and business services. Our principal credit offerings include:",
+    "corporate banking 1" => "Vanward International has been and continues to remain committed to comprehending the industry and business needs of our clients so that we can provide, solid, objective financial advice to assist with the growth and maintenance of your business’ financial requirements.  Our services do include, but are not limited to; Commercial financing, financial exemption from Tax, Industrial Revenue Bonds and Letters of Credit Issuance. ",
     "corporate banking 2" => "Commercial financing",
     "corporate banking 3" => "Finance exempt from taxation/industrial revenue bonds",
     "corporate banking 4" => "Commercial services such as commercial and contingency letters of credit",
@@ -669,21 +680,26 @@ return [
 
     // LEVEL 2 - Investment Management
     // esg approach
-    "esg approach 1"    => "Vanward's mission is to be the greatest at long-term capital preservation and growth for our clients.
-                            Vanward has conducted its own investment research with a concentration on the long-term
-                            preservation of capital and the prudent management of risk in relation to return. At the core of our
-                            investment process has always been the understanding that loss avoidance is the key to generating superior
-                            long-term investment returns.
-                            <br><br>
-                            We believe that incorporating environmental, social, and governance (ESG) criteria into our investment
-                            process improves our ability to manage risk and attain long-term goals. We believe that environmental,
-                            social, and governance (ESG) criteria are integral to our equity and fixed income investment processes.
-                            <br><br>
-                            Our investment strategy explicitly incorporates ESG criteria and is governed by a set of fundamental
-                            principles that are applied to the entirety of our investment portfolios. Together, they constitute a
-                            tried-and-true strategy that has established long-lasting client relationships and set us apart from our
-                            competitors.
-                            <br><br>",
+    // "esg approach 1"    => "Vanward's mission is to be the greatest at long-term capital preservation and growth for our clients.
+    //                         Vanward has conducted its own investment research with a concentration on the long-term
+    //                         preservation of capital and the prudent management of risk in relation to return. At the core of our
+    //                         investment process has always been the understanding that loss avoidance is the key to generating superior
+    //                         long-term investment returns.
+    //                         <br><br>
+    //                         We believe that incorporating environmental, social, and governance (ESG) criteria into our investment
+    //                         process improves our ability to manage risk and attain long-term goals. We believe that environmental,
+    //                         social, and governance (ESG) criteria are integral to our equity and fixed income investment processes.
+    //                         <br><br>
+    //                         Our investment strategy explicitly incorporates ESG criteria and is governed by a set of fundamental
+    //                         principles that are applied to the entirety of our investment portfolios. Together, they constitute a
+    //                         tried-and-true strategy that has established long-lasting client relationships and set us apart from our
+    //                         competitors.
+    //                         <br><br>",
+    "esg approach 1"    => "At Vanward International, we recognise the value of environmental and social governance (ESG) 
+                            factors as vital to sustainable business growth. We make sure to integrate ESG considerations into our investment processes 
+                            and work closely with our portfolio companies to ensure positive impact is driven and practices kept responsible. By making sure
+                            these ESG principles are prioritised, we aim to ensure and generate long-term value not only for investors, but also the 
+                            environments and communities in which Vanward operates.   ",
     "esg approach 2"    => "Our investment principles:",
     "esg approach 3"    => "concentrate on asset preservation",
     "esg approach 4"    => "conduct fundamental, bottom-up research",
@@ -734,7 +750,8 @@ return [
     // open account
     "open account 1"=> "Our mission at Vanward is straightforward: to preserve and grow your wealth*. Our approach distinguishes us in this regard. We combine a deeply rooted investment culture with insightful wealth planning and exemplary service to provide you with the most deliberate and comprehensive private wealth management experience possible over the long term. Our client relationships are supported by the partnership structure's stability, longevity, and alignment of interests.",
     // public equity
-    "public equity 1"   => "Vanward Investment Management employs what we consider to be a low-risk approach to equity investing, based on consistent, objective, and logical decision-making. Long-term attractive risk-adjusted returns are generated for our clients by applying a comprehensive set of investment criteria to our portfolio.",
+    // "public equity 1"   => "Vanward Investment Management employs what we consider to be a low-risk approach to equity investing, based on consistent, objective, and logical decision-making. Long-term attractive risk-adjusted returns are generated for our clients by applying a comprehensive set of investment criteria to our portfolio.",
+    "public equity 1"   => "Vanward Internationals investment and wealth management teams employ what we consider to be a low-risk approach to equity investing. We base this on consistent logical and objective decision making. Attractive risk-adjusted returns are generated for our clients by applying comprehensive sets of criteria to our portfolio.",
     "public equity 2"   => "Our guiding principles include:
                             <br>
                             •  Invest in well-established, cash-generating companies that are market leaders in the provision of essential goods and services.
@@ -963,15 +980,15 @@ return [
     // specialist expertise
     "specialist expertise 1"    => "Vanward focuses on providing specialist expertise to achieve deeper and long-lasting relationships with our
                                     clients, in areas where we feel we can add the most value.
-                                    <br><br>
+                                    <br>
                                     By focusing on providing asset servicing to a select number of leading global asset gatherers, we have
                                     become specialists in cross-border asset servicing, and supporting the most complex asset classes and
                                     investment strategies.
-                                    <br><br>
+                                    <br>
                                     Our experts add real value where it counts, whether it is better regulatory advice, quicker time to market
                                     for new products, operational solutions that lead to lower variable costs, or innovative technology
                                     solutions that lead to lower fixed costs.
-                                    <br><br>
+                                    <br>
                                     We work with clients on what matters most to help them differentiate and grow their businesses in an
                                     increasingly crowded marketplace.",
     "specialist expertise 2"    => "Working with global asset managers to further their global investment and cross-border growth objectives.",
@@ -1132,7 +1149,8 @@ return [
     "transfer agency 10" => "We provide a single Transfer Agency platform globally. When combined with Vanward",
     "transfer agency 11" => "this offers a unique connectivity solution for distributor communications.",
     "transfer agency 12" => "Focus on Investor OnBoarding",
-    "transfer agency 13" => "We focus on investor onboarding and ongoing servicing critical to an asset manager’s relationship with its underlying clients. We have a strong expertise in local business practices including AML/ KYC.",
+    "transfer agency 13" => "We focus on investor onboarding and ongoing servicing critical to an asset manager’s relationship with its underlying clients. We have a strong expertise in local business practices including 
+    Anti-Money Laundering (AML) and Know Your Customer (KYC).",
     // global tax
     "global tax 1"  => "Vanward Global Tax Services provides expertise and strategic solutions in the areas of tax research, tax
                         operations, fund administration tax, and European tax reporting for global asset gatherers and financial
@@ -1512,7 +1530,7 @@ return [
     at structuring securities lending programs that maximize our clients returns within specific risk
     tolerances.",
     "securities lending 4"  => "The Securities Lending Trading Dynamic",
-    "securities lending 5"  => "Un-encumbered by maintaining a large volume lending program, Vanward is uniquely positioned to execute
+    "securities lending 5"  => "Unencumbered by maintaining a large volume lending program, Vanward is uniquely positioned to execute
                                 value-driven strategies for our clients. By partnering with Vanward, asset managers can be certain they will be
                                 joining other like-minded lenders, in a program that has a unique structural advantage in negotiating fees
                                 for their highest value loans.
@@ -2032,11 +2050,12 @@ return [
                     quality reporting to both our clients and their investors",
     "us funds 8" => "Companies",
     // hedge funds
-    "hedge funds 1" => "Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under administration.
-                        <br><br>
-                        Supporting $22 billion* in hedge fund strategies, including traditional hedge funds and other liquid alternatives, we are adept in dealing with the structural and operational requirements typical to these types of funds.
-                        <br><br>
-                        We have dedicated expert hedge fund teams who leverage our core competencies to deliver the institutional standards and capacity of a global bank, combined with the service quality of a specialist administrator.",
+    // "hedge funds 1" => "Vanward is a leading global service provider for alternative funds, with over $275 billion* in assets under administration.
+    //                     <br><br>
+    //                     Supporting $22 billion* in hedge fund strategies, including traditional hedge funds and other liquid alternatives, we are adept in dealing with the structural and operational requirements typical to these types of funds.
+    //                     <br><br>
+    //                     We have dedicated expert hedge fund teams who leverage our core competencies to deliver the institutional standards and capacity of a global bank, combined with the service quality of a specialist administrator.",
+    "hedge funds 1" => " At Vanward International we offer a clientele unrivalled opportunity and access to global hedge funds. Our combined expertise of over 200 years enables us to assist in selecting the optimal hedge fund for the client, ensuring maximised success and profitability. ",
     "hedge funds 2" => "Our global service model",
     "hedge funds 3" => "allows us to adapt our servicing to the needs of the manager, locating teams in the different time zones and domiciles required.
                         <br><br>
@@ -4284,12 +4303,19 @@ return [
 
     
     //Our firm
-    "our firm 1"   => "Our partnership is distinguished by its horizontal structure, collaboration, and openness. It functions as an organisational structure that encourages innovation and flexibility, ensuring that the best ideas emerge swiftly.
+    // "our firm 1"   => "Our partnership is distinguished by its horizontal structure, collaboration, and openness. It functions as an organisational structure that encourages innovation and flexibility, ensuring that the best ideas emerge swiftly.
+    // <br><br>
+    // Through our partnership, we adopt a strategic, long-term approach to business and relationship management. With fewer stakeholders and no external shareholders to placate, our allegiances are unbroken.
+    // <br><br>
+    // Due to the fact that our Partners are accountable for the firm's obligations, we have developed a robust risk management culture. As a result, Vanward Partners are well-informed about the company's operations and participate actively in its daily management and decision-making processes.",
+    "our firm 1"   => "At Vanward Int'l we adopt strategic, long-term approaches to both the management of our business as well as our personal relationships. As a private firm, Vanward has no external shareholders to placate, meaning the inherent business focus is and will remain on the individual client. 
     <br><br>
-    Through our partnership, we adopt a strategic, long-term approach to business and relationship management. With fewer stakeholders and no external shareholders to placate, our allegiances are unbroken.
-    <br><br>
-    Due to the fact that our Partners are accountable for the firm's obligations, we have developed a robust risk management culture. As a result, Vanward Partners are well-informed about the company's operations and participate actively in its daily management and decision-making processes.",
-    "our firm 2"   => "At Vanward, our mission is crystal clear: to safeguard our clients' financial well-being and promote the long-term growth of their assets. We diligently organise our firm, teams, and businesses in a manner that places our clients at the forefront of our operations. We refuse to compromise on our principles, upholding unwavering integrity.",
+    This can be seen through our horizontal structuring and robust risk management culture that encourages and promotes innovation and flexibility, ensuring that the best ideas are presented and implemented swiftly.",
+    // "our firm 2"   => "At Vanward, our mission is crystal clear: to safeguard our clients' financial well-being and promote the long-term growth of their assets. We diligently organise our firm, teams, and businesses in a manner that places our clients at the forefront of our operations. We refuse to compromise on our principles, upholding unwavering integrity.",
+    "our firm 2"   => "At Vanward International, our mission is to identify promising investment opportunities and partner with dynamic businesses to fuel their successes. We strive to deliver exceptional returns for our investors while fostering sustainable growth and innovation within the companies and industries we support. Our team of seasoned professionals brings a wealth of experience and industry knowledge to guide our portfolio companies towards record profits and sustainable goal achievement.",
+    "our firm 2.1"   => "Here at Vanward International, we have taken a hands-on and collaborative approach to investment management. Our clients work closely with our management teams to identify growth opportunities, optimise operations and implement any strategic initiatives that may drive and foster value creation. We leverage our deep industry expertise alongside our global network to provide support, resources and valuable insight to our select portfolio companies. ",
+    "our firm 2.2"   => "Integrity, Sustainability and transparency are at the core of everything we do here at Vanward International. We believe in fostering long-standing trusted relationships with all of our stakeholders, including business partners, portfolio companies and investors. Our commitment to ethical practices and sustainable investing ensures that we align our interests with the values and long-term success
+    of the companies we invest in.",
     "our firm 3"   => "Sustainability, which entails a steadfast commitment to long-term value and prosperity, is central to our identity. We sincerely believe that sustainability is achieved by conducting our business in a responsible and ethical manner, while simultaneously making positive contributions to our clients, our employees, and our communities with an eye towards future generations.
     <br><br>
     It is imperative that we transcend short-term thinking in the present. Instead, we must uphold our values, act with honesty, and place our stakeholders' interests above all else.",
@@ -4299,9 +4325,10 @@ return [
     "our firm 7"   => "Our people, the exceptional Vanward team, are essential to fulfilling the needs of our clients. They persistently pursue the utmost levels of excellence and integrity. To foster innovation and achieve exceptional performance, we actively recruit and support a team with a wide variety of talents and perspectives. We are committed to fostering an environment that empowers team members to make meaningful contributions and flourish in their professional and personal lives. By adopting this strategy, we cultivate a dynamic workforce that fuels our success and provides superior customer service.",
     "our firm 8"   => "Our Communities",
     "our firm 9"   => "We acknowledge that our responsibilities extend well beyond the confines of our office, encompassing the larger communities in which we operate. It is our responsibility to actively contribute to the health of our planet by reducing the hazards to its wellbeing. In addition, we endeavour to make positive and substantial contributions to the communities in which we operate. By pursuing these endeavours, we hope to have a positive impact that extends beyond our immediate sphere of influence.",
-    "our firm 10"   => "At Vanward, it is beneficial to share your time and skills.  
+    "our firm 10"   => "At Vanward International, we believe in giving back to both the local and global communities and that is being reflected in our philanthropic endeavours. 
     <br><br>
-    As a result, we established Cares, our philanthropic programme devoted to providing education and essentials to those in need.  Through this programme, Vanward employees are able to contribute back to our communities, assist in transforming the lives of others, and instill a sense of citizenship and social responsibility.  
+    With our headquarters based in both Hong Kong & Singapore, major cities involved in the C40 Cities Climate Leaders group and a large number of our satellite offices in OECD affiliated countries (UK, Spain, Switzerland etc.) we have made significant donations and adjustments to our business model to 
+    make our Company and culture more sustainably viable for future generations. 
     <br><br>
     In accordance with our philanthropic mission, we prioritise the following areas.",
     "our firm 11"   => "Providing residents in our local communities with the essentials to enhance their quality of life, including:",
@@ -4319,7 +4346,11 @@ return [
     <br>- assisting with resume writing",
     "our firm 15"   => "Vanward Employee Relief Fund - Workers Aiding Workers",
     "our firm 16"   => "The Vanward Employee Relief Fund is a charitable organisation supported predominantly by contributions from Vanward employees and business partners. Its primary mission is to provide financial assistance to eligible Vanward employees and their immediate families in the event of unanticipated emergencies and basic living expenses caused by catastrophic events. The purpose of the fund is to provide relief by assisting to alleviate a portion of the financial burden caused by such difficult circumstances. The assistance is provided as soon as administratively practicable in an effort to provide support and defray a portion of the associated expenses.",
-    
+    "our firm 17"   => "Helping Hands programme",
+    "our firm 18"   => "Helping less fortunate, providing the skills, tools and confidence needed to re-enter the workplace in the Food/Customer service sector.  ",
+    "our firm 19"   => "Vanward Future ",
+    "our firm 20"   => "Providing mentorship, scholarship and Work placement for students who could potentially become the future of Vanward International.",
+
      //menu
      "menu 1" => "The Partnership",
      "menu 2" => "Our Mission & Profile",
@@ -4377,7 +4408,8 @@ return [
     //home page
     "home page 1" => "Become a client",
     "home page 2" => "About Us",
-    "home page 3" => "At Vanward International, we take a unique approach to investing, providing customised strategies based on the goals of each client and our extensive knowledge of global markets and economies. Through our expert interpretation of multiple data sources, we identify suitable solutions for you, solutions that will strengthen your position.",
+    "home page 3" => "We are Vanward International, a leading private equity firm based primarily in Hong Kong & Singapore.
+    We specialise in providing strategic investments and financial expertise to unlock the full potential of various businesses across multiple industries. We are dedicated to providing long term value and driving growth for our clients and we have the client-centric approach and strong track record to back it.",
     "home page 4" => "Build lasting expansion",
     "home page 5" => "Collaboration with us",
     "home page 6" => "Dependable and responsive service and support",

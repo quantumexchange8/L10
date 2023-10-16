@@ -86,8 +86,8 @@
                             @lang('public.investment profile 8')
                             <br><br>
                             @lang('public.investment profile 9')
-                            <br><br>
-                            @lang('public.investment profile 10')
+                            {{-- <br><br>
+                            @lang('public.investment profile 10') --}}
                             <br><br>
                             @lang('public.investment profile 11')
                             <br><br>

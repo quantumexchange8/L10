@@ -70,26 +70,26 @@
                         <div class="divider-s"></div>
                         <p class="paragraph">
                             @lang('public.trust services 1')
-                                <br><br>
-                                @lang('public.trust services 2')
-                                <br><br>
+                                <br>
+                                <h3>@lang('public.trust services 2')</h3>
+                                <br>
                                 @lang('public.trust services 3')
                                 <br><br>
-                                @lang('public.trust services 4')
-                                <br><br>
-                                @lang('public.trust services 5')
-                                <br><br>
-                                @lang('public.trust services 6')
-                                <br><br>
-                                @lang('public.trust services 7')
-                                <br><br>
-                                @lang('public.trust services 8')
-                                <br><br>
-                                @lang('public.trust services 9')
-                                <br><br>
-                                @lang('public.trust services 10')
-                                <br><br>
-                                @lang('public.trust services 11')
+                                &bull; @lang('public.trust services 4')
+                                <br>
+                                &bull; @lang('public.trust services 5')
+                                <br>
+                                &bull; @lang('public.trust services 6')
+                                <br>
+                                &bull; @lang('public.trust services 7')
+                                <br>
+                                &bull; @lang('public.trust services 8')
+                                <br>
+                                &bull; @lang('public.trust services 9')
+                                <br>
+                                &bull; @lang('public.trust services 10')
+                                <br>
+                                &bull; @lang('public.trust services 11')
                                 <br><br>
                                 @lang('public.trust services 12')
                             </p>

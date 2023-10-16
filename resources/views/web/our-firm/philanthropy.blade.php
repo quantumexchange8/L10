@@ -82,6 +82,14 @@
                             <span class="font-bold"><strong>@lang('public.our firm 15')</strong></span>
                             <br>
                             @lang('public.our firm 16')
+                            <br><br>
+                            <span class="font-bold"><strong>@lang('public.our firm 17')</strong></span>
+                            <br>
+                            @lang('public.our firm 18')
+                            <br><br>
+                            <span class="font-bold"><strong>@lang('public.our firm 19')</strong></span>
+                            <br>
+                            @lang('public.our firm 20')
                         </p>
                     </div>
                 </div>

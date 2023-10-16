@@ -52,7 +52,7 @@
                     <p>What we do</p>
                 </div> --}}
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-13">
                         <p class="paragraph">
                             @lang('public.technology services 1')
                         </p>
@@ -71,7 +71,7 @@
                         {{-- <div class="owl-nav owl-nav-custom-menu"></div> --}}
                         {{-- <div class="divider-l"></div> --}}
                         <div class="menu menu-visible" id="menu-1">
-                            <div class="item">
+                            {{-- <div class="item">
                                 <div class="item-wrapper">
                                     <h3 class="item-name"><a href="{{ route('web.investor-services.data_connectivity_and_applications_via_infomediary') }}" class="link-effect">@lang('public.data & connectivity solutions')</a></h3>
                                     <span class="item-divider"></span>
@@ -81,7 +81,7 @@
                                 <p class="paragraph">
                                     @lang('public.technology services 2')
                                 </p>
-                            </div>
+                            </div> --}}
                             <div class="item">
                                 <div class="item-wrapper">
                                     <h3 class="item-name"><a href="{{ route('web.investor-services.global_custody_direct') }}" class="link-effect">@lang('public.global custody direct')</a></h3>

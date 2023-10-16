@@ -82,7 +82,7 @@
                                 <br><br>
                                 @lang('public.corporate advisory 7')
                                 <br><br>
-                                @lang('public.corporate advisory 8')
+                                {{-- @lang('public.corporate advisory 8') --}}
                             </p>
                         </p>
                     </div>

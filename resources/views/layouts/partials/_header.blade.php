@@ -96,7 +96,7 @@ $languages = [
                                 <li><a href="{{ route('web.private-banking.private-equity.about_vanward') }}">@lang('public.menu 17')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.investment_profile') }}">@lang('public.menu 18')</a></li>
                                 <li><a href="{{ route('web.private-banking.private-equity.investment_strategy_and_transaction_types') }}">@lang('public.menu 19')</a></li>
-                                <li><a href="{{ route('web.private-banking.private-equity.select_portfolio_companies') }}">@lang('public.menu 20')</a></li>
+                                {{-- <li><a href="{{ route('web.private-banking.private-equity.select_portfolio_companies') }}">@lang('public.menu 20')</a></li> --}}
                             </ul>
                         </li>
                     </ul>

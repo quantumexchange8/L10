@@ -70,11 +70,11 @@
                         <div class="divider-s"></div>
                         <p class="paragraph">
                             @lang('public.hedge funds 1')
-                            <br><br>
+                            {{-- <br><br>
                             <a class="link-effect" href="{{ route('web.investor-services.specialist-expertise.cross-border-funds.global_service_model') }}">@lang('public.hedge funds 2')</a>
                             @lang('public.hedge funds 3')
                             <br><br>
-                            @lang('public.as of december 2021')
+                            @lang('public.as of december 2021') --}}
                         </p>
                     </div>
                 </div>

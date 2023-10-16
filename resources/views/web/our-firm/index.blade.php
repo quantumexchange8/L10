@@ -17,8 +17,6 @@
 
     ])
     @endcomponent
-    
-    
     <main>
         <section class="section-base section-color">
             <div class="container">

@@ -52,7 +52,7 @@
                     <p>What we do</p>
                 </div> --}}
                 <div class="row">
-                    <div class="col-lg-8">
+                    <div class="col-lg-13">
                         <p class="paragraph">
                             @lang('public.middle office outsourcing 1')
                         </p>

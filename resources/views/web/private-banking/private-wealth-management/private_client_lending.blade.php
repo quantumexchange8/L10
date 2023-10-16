@@ -71,29 +71,29 @@
                         <p class="paragraph">
                             @lang('public.private client lending 1')
                             <br><br>
-                            @lang('public.private client lending 2')
-                            <br><br>
-                            @lang('public.private client lending 3')
-                            <br><br>
-                            @lang('public.private client lending 4')
-                            <br><br>
-                            @lang('public.private client lending 5')
-                            <br><br>
-                            @lang('public.private client lending 6')
-                            <br><br>
-                            @lang('public.private client lending 7')
-                            <br><br>
-                            @lang('public.private client lending 8')
-                            <br><br>
-                            @lang('public.private client lending 9')
-                            <br><br>
-                            @lang('public.private client lending 10')
-                            <br><br>
-                            @lang('public.private client lending 11')
-                            <br><br>
-                            @lang('public.private client lending 12')
-                            <br><br>
-                            @lang('public.private client lending 13')
+                            &bull; @lang('public.private client lending 2')
+                            <br>
+                            &bull; @lang('public.private client lending 3')
+                            <br>
+                            &bull; @lang('public.private client lending 4')
+                            <br>
+                            &bull; @lang('public.private client lending 5')
+                            <br>
+                            &bull; @lang('public.private client lending 6')
+                            <br>
+                            &bull; @lang('public.private client lending 7')
+                            <br>
+                            &bull; @lang('public.private client lending 8')
+                            <br>
+                            &bull; @lang('public.private client lending 9')
+                            <br>
+                            &bull; @lang('public.private client lending 10')
+                            <br>
+                            &bull; @lang('public.private client lending 11')
+                            <br>
+                            &bull; @lang('public.private client lending 12')
+                            <br>
+                            &bull; @lang('public.private client lending 13')
                             <br><br>
                             @lang('public.private client lending 14')
                         </p>
