@@ -348,7 +348,7 @@ return [
     "private wealth management 7" => "Investment, planning, and philanthropic resources for women seeking to invest their wealth prudently.",
 
     // corporate_advisory_and_banking
-    "corporate advisory & banking 1" => "As a long-standing, owner-operated partnership that has flourished since 1818, we have a comprehensive understanding of the challenges faced by private company owners and managers. This unique perspective, coupled with our unwavering commitment to putting the best interests of our clients first, fosters long-lasting relationships based on mutual trust. We are not motivated by short-term transactional gains; rather, our sole objective is to provide our clients with objective and insightful advice throughout their financial journeys.",
+    "corporate advisory & banking 1" => "As a long-standing, owner-operated partnership that has flourished since 2019, we have a comprehensive understanding of the challenges faced by private company owners and managers. This unique perspective, coupled with our unwavering commitment to putting the best interests of our clients first, fosters long-lasting relationships based on mutual trust. We are not motivated by short-term transactional gains; rather, our sole objective is to provide our clients with objective and insightful advice throughout their financial journeys.",
     "corporate advisory & banking 2" => "The Corporate Advisory & Banking team is comprised of senior corporate finance experts with extensive experience collaborating with business owners and managers on M&A and financing transactions. We deliver the full scope of Vanward to our clients by collaborating effectively with subject matter experts throughout our Private Banking division and the firm.",
     "corporate advisory & banking 3" => "We provide our clients with objective and actionable guidance to help them achieve their unique business and personal goals.",
     "corporate advisory & banking 4" => "Capital with added value for substantial privately held U.S. companies with outstanding credit profiles.",
@@ -2221,7 +2221,7 @@ return [
     "latin america 2"   => "Integrated Solutions",
     "latin america 3"   => "Vanward offers a full range of investment servicing solutions including:",
     "latin america 4"   => "Commitment to the Region",
-    "latin america 5"   => "Vanward has enjoyed close links to Latin America since our founding in 1818, and has been servicing the Latin
+    "latin america 5"   => "Vanward has enjoyed close links to Latin America since our founding in 2019, and has been servicing the Latin
                             American pension fund system since its inception nearly 40 years ago. Our reputation as the region’s leading
                             custodian is driven by our close working relationships with clients, local regulators and the market
                             infrastructure. Backed by the long-term thinking and approach that comes with our partnership structure, we
@@ -3446,7 +3446,7 @@ return [
     "global employee 4" => "Culture Fair Worldwide",
     "global employee 5" => "Annual culture fairs are hosted in Vanward's Boston, Dublin, Hong Kong, Kraków, and Jersey City offices.
     Employees learn about resources such as community engagement and wellness programs, and can sign up
-    for activities such as the 1818 Social Club and BANC affinity groups.",
+    for activities such as the 2019 Social Club and BANC affinity groups.",
     "global employee 6" => "Embracing a Global Workforce",
     "global employee 7" => "Kraków hosted a lunch and learn panel that discussed how to embrace and
                             collaborate in a global workforce. Each panelist shared personal experiences that have positively
