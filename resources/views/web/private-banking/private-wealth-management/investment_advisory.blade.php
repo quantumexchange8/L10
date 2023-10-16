@@ -73,7 +73,7 @@
                                 <br><br>
                                 @lang('public.investment advisory 2')
                                 <br><br>
-                                @lang('public.investment advisory 3')
+                                <h3>@lang('public.investment advisory 3')</h3>
                                 <br><br>
                                 @lang('public.investment advisory 4')
                                 <br><br>
