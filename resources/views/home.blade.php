@@ -613,7 +613,10 @@
                 </h2>
                 <hr class="space" />
             </div>
-            
+            <div>
+                <a href=" {{ URL('contact-us') }}" class="btn btn-sm width-190 full-width-sm">Contact Us</a>
+            </div>
+           
         </section>
         {{-- <section class="section-base">
             <div class="container">
@@ -664,135 +667,7 @@
             </div>
         </section> --}}
         {{-- <section class="section-base section-overflow-top"> --}}
-        <section class="section-base">
-            <div class="container">
-                <table class="table table-grid table-border align-left boxed-area table-6-md">
-                    <tbody>
-                        <tr>
-                            <td>
-                                <div class="counter counter-horizontal counter-icon">
-                                    <i class="im-globe text-md"></i>
-                                    <div>
-                                        <h3>@lang('public.home page 27')</h3>
-                                        <div class="value">
-                                            <span style="font-size:10px;">Unit 1112, The Metropolis Tower, <br> 10 Metroplis Drive, Hung Hom, Hong Kong</span>
-                                            {{-- <span>+</span> --}}
-                                        </div>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="counter counter-horizontal counter-icon">
-                                    <i class="im-business-man text-md"></i>
-                                    <div>
-                                        <h3>@lang('public.home page 28')</h3>
-                                        <div class="value">
-                                            <a href="mailto:info@vanward.com">
-                                            <span style="font-size:10px;">info@vanward-is.com</span>
-                                            {{-- <span>+</span> --}}
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-                                <div class="counter counter-horizontal counter-icon">
-                                    <i class="im-support text-md"></i>
-                                    <div>
-                                        <h3>@lang('public.home page 29')</h3>
-                                        <div class="value">
-                                            <a href="tel:+85258088687" style="font-size:10px;">+852 5808 8687</a>
-                                        </div>
-                                        
-                                    </div>
-                                </div>
-                            </td>
-                            {{-- <td>
-                                <div class="counter counter-horizontal counter-icon">
-                                    <i class="im-support text-md"></i>
-                                    <div>
-                                        <h3>Team members</h3>
-                                        <div class="value">
-                                            <span class="text-md" data-to="30" data-speed="5000">30</span>
-                                            <span>+</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </td> --}}
-                        </tr>
-                    </tbody>
-                </table>
-                {{-- <div class="row" data-anima="fade-bottom" data-time="1000">
-                    <div class="col-lg-3">
-                        <div class="title">
-                            <h2>The big family</h2>
-                            <p>Our team</p>
-                        </div>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididu.
-                        </p>
-                        <a href="#" class="btn-text active">View the team</a>
-                    </div>
-                    <div class="col-lg-9">
-                        <div class="grid-list" data-columns="3" data-columns-sm="2" data-columns-xs="1">
-                            <div class="grid-box">
-                                <div class="grid-item">
-                                    <div class="cnt-box cnt-box-team">
-                                        <img src="http://via.placeholder.com/450x450" alt="" />
-                                        <div class="caption">
-                                            <h2>Frank De Vinci</h2>
-                                            <span>Marketing</span>
-                                            <span class="icon-links">
-                                                <a href="#" target="_blank"><i class="icon-facebook"></i></a>
-                                                <a href="#" target="_blank"><i class="icon-twitter"></i></a>
-                                                <a href="#" target="_blank"><i class="icon-instagram"></i></a>
-                                            </span>
-                                            <p>
-                                                Lorem ipsum dolor sitamet consectetur eiusmo.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid-item">
-                                    <div class="cnt-box cnt-box-team ">
-                                        <img src="http://via.placeholder.com/450x450" alt="" />
-                                        <div class="caption">
-                                            <h2>Donald Cort</h2>
-                                            <span>Social media</span>
-                                            <span class="icon-links">
-                                                <a href="#" target="_blank"><i class="icon-facebook"></i></a>
-                                                <a href="#" target="_blank"><i class="icon-twitter"></i></a>
-                                                <a href="#" target="_blank"><i class="icon-instagram"></i></a>
-                                            </span>
-                                            <p>
-                                                Lorem ipsum dolor sitamet consectetur eiusmo.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="grid-item">
-                                    <div class="cnt-box cnt-box-team">
-                                        <img src="http://via.placeholder.com/450x450" alt="" />
-                                        <div class="caption">
-                                            <h2>Alicia Sandre</h2>
-                                            <span>Engeneer</span>
-                                            <span class="icon-links">
-                                                <a href="#" target="_blank"><i class="icon-facebook"></i></a>
-                                                <a href="#" target="_blank"><i class="icon-twitter"></i></a>
-                                                <a href="#" target="_blank"><i class="icon-instagram"></i></a>
-                                            </span>
-                                            <p>
-                                                Lorem ipsum dolor sitamet consectetur eiusmo.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> --}}
-            </div>
-        </section>
+        
     </main>
     <i class="scroll-top-btn scroll-top show"></i>
 @endsection
