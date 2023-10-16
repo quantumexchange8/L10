@@ -74,34 +74,13 @@
                                 @lang('public.wealth planning 2')
                                 <br><br>
                                 @lang('public.wealth planning 3')
-                                <br><br>
-                                @lang('public.wealth planning 4')
-                                <br><br>
-                                @lang('public.wealth planning 5')
-                                <br><br>
-                                @lang('public.wealth planning 6')
-                                <br><br>
-                                @lang('public.wealth planning 7')
-                                <br><br>
-                                @lang('public.wealth planning 8')
-                                <br><br>
-                                @lang('public.wealth planning 9')
-                                <br><br>
-                                @lang('public.wealth planning 10')
-                                <br><br>
-                                @lang('public.wealth planning 11')
-                                <br><br>
-                                @lang('public.wealth planning 12')
-                                <br><br>
-                                @lang('public.wealth planning 13')
-                                <br><br>
-                                @lang('public.wealth planning 14')
-                                <br><br>
-                                @lang('public.wealth planning 15')
-                                <br><br>
-                                @lang('public.wealth planning 16')
-                                <br><br>
-                                @lang('public.wealth planning 17')
+                                <ul>
+                                    <li>@lang('public.wealth planning 4')</li>
+                                    <li>@lang('public.wealth planning 5')</li>
+                                    <li>@lang('public.wealth planning 6')</li>
+                                    <li>@lang('public.wealth planning 7')</li>
+                                    <li>@lang('public.wealth planning 8')</li>
+                                </ul>
                             </p>
                         </p>
                     </div>
