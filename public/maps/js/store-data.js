@@ -3,7 +3,7 @@ let stores = [{
         "branchName": "HONG KONG",
         "name": "HONG KONG",
         "email": "info@vanward-is.com",
-        "phoneNumber": "",
+        "phoneNumber": "+852 5808 8687",
         "coordinates": {
             "latitude": 22.309620,
             "longitude": 113.921320
