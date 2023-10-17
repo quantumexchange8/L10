@@ -937,7 +937,7 @@ return [
                                             credit, and inflation risk; investments may be worth more or less than the original cost when redeemed.",
     "taxable fixed income strategies 19" => "Companies",
     // us tips strategy
-    "us tips strategy 1" => "Since the inception of the U.S. TIPS market in 1997, Vanward has been at the forefront of U.S. Treasury
+    "us tips strategy 1" => "Since our inception in 2019, Vanward International has been at the forefront of U.S. Treasury
                             Inflation-Protected Security (TIPS) research, thought leadership, and active management. Our U.S. TIPS
                             strategy seeks to provide investors with a hedge against future inflation by maintaining predominantly U.S.
                             TIPS investments. Our investment process is focused on the long term and employs a collection of time-tested
@@ -1058,8 +1058,7 @@ return [
                     turnaround. This integrated model helps Vanward seamlessly execute on our clients' routine and complex
                     requirements. We are an industry leader in automation and straight through processing.",
     // depositary & trustee
-    "depositary & trustee 1" => "With over 25 years of experience, Vanward is a leading provider of depositary and trustee services for
-                                Luxembourg, Irish, Cayman Islands, and Hong Kong domiciled funds.
+    "depositary & trustee 1" => "With a combined industry experience of over 200 years, Vanward is a leading provider of depositary and trustee services for our clients global domiciled funds. 
                                 <br><br>
                                 We design and deliver comprehensive operating models for complex products across a broad range of asset
                                 classes and investment strategies. Working closely with our clients, we ensure that their assets are
@@ -1210,8 +1209,7 @@ return [
     "fund order & custody 1" => "Vanward Fund Order & Custody provides services to Vanward custody clients that buy and hold investment funds. This
                                 includes order processing via our proprietary online platform, Fund WorldView®.
                                 <br><br>
-                                With more than 25 years' experience servicing investment fund assets, we have developed a deep understanding
-                                of the operational and regulatory complexities surrounding this asset class. We have well-established
+                                With a combined industry experience of over 200 years instead of ‘With more than 25 years’ experience. We have well-established
                                 relationships with fund companies globally, and support all fund types including alternatives.
                                 <br><br>
                                 We differentiate on the basis of our comprehensive client-driven offering, our expertise, and quick time to
@@ -1406,7 +1404,7 @@ return [
     trading and operational needs.",
     "active fx execution 2" => "Client-focused approach to trading:",
     "active fx execution 3" => "Our trading philosophy focuses on long term relationships and delivering quick, competitive pricing to our clients.",
-    "active fx execution 4" => "We offer our clients a single point of contact via sales traders in New York, London, Tokyo and Hong Kong, which combined with a centralized trading desk, allows us to provide 24-hour seamless coverage.",
+    "active fx execution 4" => "We offer our clients a single point of contact via sales traders in London, Tokyo and Hong Kong, which combined with a centralized trading desk, allows us to provide 24-hour seamless coverage.",
     "active fx execution 5" => "We are delivery and distribution agnostic permitting clients to connect with us in a variety of ways, including directly calling a sales trader or through third party platforms such as Bloomberg, FlexTrade, FXall, or FXConnect.",
     "active fx execution 6" => "Backed by Industry Leading Expertise",
     "active fx execution 7" => "We are an industry leading market maker to our clients in major and emerging markets with expertise in the asset manager segment, as demonstrated by ranking #1 in the US Greenwich Quality Index Foreign Exchange Survey for 18 straight years.",
