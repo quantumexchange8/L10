@@ -17,7 +17,7 @@ let stores = [{
         "branchName": "IRELAND, CORK",
         "name": "IRELAND, CORK",
         "email": "irl@vanward-is.com",
-        "phoneNumber": "",
+        "phoneNumber": "+353 21480 2699",
         "coordinates": {
             "latitude": 51.8969166,
             "longitude": -8.4706552
@@ -59,7 +59,7 @@ let stores = [{
         "branchName": "LUXEMBOURG",
         "name": "LUXEMBOURG",
         "email": "lux@vanward-is.com",
-        "phoneNumber": "",
+        "phoneNumber": "+352 2794 1780",
         "coordinates": {
             "latitude": 49.8510536,
             "longitude": 6.1117625
@@ -73,7 +73,7 @@ let stores = [{
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
         "email": "it@vanward-is.com",
-        "phoneNumber": "",
+        "phoneNumber": "+39 029475 9690",
         "coordinates": {
             "latitude": 45.4818066,
             "longitude": 9.1922842
