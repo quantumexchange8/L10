@@ -324,11 +324,11 @@
                           </a>
                           <div class="dropdown-menu">
                             <ul aria-labelledby="dropdownMenuLink">
-                              <li><a class="dropdown-item" href="http://vanward-is.com/lang/en" id="myLink1">Australia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/zh" id="myLink2">China</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/ja" id="myLink3">Japan</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink4">New Zealand</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/ar" id="myLink5">United Arab Emirates</a></li>
+                              <li><a class="dropdown-item" href="http://vanwardintl.com/lang/en" id="myLink1">Australia</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/zh" id="myLink2">China</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/ja" id="myLink3">Japan</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink4">New Zealand</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/ar" id="myLink5">United Arab Emirates</a></li>
                             </ul>
                           </div>
 
@@ -344,34 +344,34 @@
                           </a>
                           <div class="dropdown-menu">
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink6">Austria</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/nl" id="myLink7">Belgium</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink8">Czech Republic (Czechia)</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/da" id="myLink9">Denmark</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/et" id="myLink10">Estonia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/fi" id="myLink11">Finland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/fr" id="myLink12">France</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink13">Germany</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink6">Austria</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/nl" id="myLink7">Belgium</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink8">Czech Republic (Czechia)</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/da" id="myLink9">Denmark</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/et" id="myLink10">Estonia</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fi" id="myLink11">Finland</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fr" id="myLink12">France</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink13">Germany</a></li>
                             </ul>
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink14">Greece</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink15">Hungary</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink16">Iceland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/it" id="myLink17">Italy</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink18">Liechtenstein</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/fr" id="myLink19">Luxembourg</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/nl" id="myLink20">Netherlands</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/no" id="myLink21">Norway</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink14">Greece</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink15">Hungary</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink16">Iceland</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/it" id="myLink17">Italy</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink18">Liechtenstein</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fr" id="myLink19">Luxembourg</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/nl" id="myLink20">Netherlands</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/no" id="myLink21">Norway</a></li>
                             </ul>
                             <ul>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink22">Poland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/pt" id="myLink23">Portugal</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink24">Slovakia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink25">Slovenia</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/es" id="myLink26">Spain</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/sv" id="myLink27">Sweden</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/de" id="myLink28">Switzerland</a></li>
-                              <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink29">United Kingdom</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink22">Poland</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/pt" id="myLink23">Portugal</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink24">Slovakia</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink25">Slovenia</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/es" id="myLink26">Spain</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/sv" id="myLink27">Sweden</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink28">Switzerland</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink29">United Kingdom</a></li>
                             </ul>
                           </div>
 
@@ -389,9 +389,9 @@
                         </a>
                         <div class="dropdown-menu">
                           <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/pt" id="myLink30">Brazil</a></li>
-                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink31">Canada</a></li>
-                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink32">United States of America</a></li>
+                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/pt" id="myLink30">Brazil</a></li>
+                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink31">Canada</a></li>
+                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink32">United States of America</a></li>
                           </ul>
                         </div>
 
@@ -407,7 +407,7 @@
                         </a>
                         <div class="dropdown-menu">
                           <ul aria-labelledby="dropdownMenuLink">
-                            <li><a class="dropdown-item" href="https://vanward-is.com/lang/en" id="myLink33">South Africa</a></li>
+                            <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink33">South Africa</a></li>
                           </ul>
                         </div>
 
@@ -689,199 +689,199 @@
             title: "Australia",
             latitude: -25.2743,
             longitude: 133.7751,
-            url: "https://vanward-is.com/lang/en"
+            url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "China",
               latitude: 35.8616,
               longitude: 104.1953,
-              url: "https://vanward-is.com/lang/zh"
+              url: "https://vanwardintl.com/lang/zh"
         },
         {
               title: "Japan",
               latitude: 36.2048,
               longitude: 138.2529,
-              url: "https://vanward-is.com/lang/ja"
+              url: "https://vanwardintl.com/lang/ja"
         },
         {
               title: "New Zealand",
               latitude: -40.9005,
               longitude: 174.8859,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "United Arab Emirates",
               latitude: 23.4240,
               longitude: 53.8478,
-              url: "https://vanward-is.com/lang/ar"
+              url: "https://vanwardintl.com/lang/ar"
         },
         {
               title: "Austria",
               latitude: 47.5162,
               longitude: 14.5500,
-              url: "https://vanward-is.com/lang/de"
+              url: "https://vanwardintl.com/lang/de"
         },
         {
               title: "Belgium",
               latitude: 50.5038,
               longitude: 4.4699,
-              url: "https://vanward-is.com/lang/nl"
+              url: "https://vanwardintl.com/lang/nl"
         },
         {
               title: "Czech Republic",
               latitude: 49.8174,
               longitude: 15.4729,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Denmark",
               latitude: 56.2639,
               longitude: 9.5017,
-              url: "https://vanward-is.com/lang/da"
+              url: "https://vanwardintl.com/lang/da"
         },
         {
               title: "Estonia",
               latitude: 58.5952,
               longitude: 25.0136,
-              url: "https://vanward-is.com/lang/et"
+              url: "https://vanwardintl.com/lang/et"
         },
         {
               title: "Finland",
               latitude: 61.9241,
               longitude: 25.7481,
-              url: "https://vanward-is.com/lang/fi"
+              url: "https://vanwardintl.com/lang/fi"
         },
         {
               title: "France",
               latitude: 46.2276,
               longitude: 2.2137,
-              url: "https://vanward-is.com/lang/fr"
+              url: "https://vanwardintl.com/lang/fr"
         },
         {
               title: "Germany",
               latitude: 51.1656,
               longitude: 10.4515,
-              url: "https://vanward-is.com/lang/de"
+              url: "https://vanwardintl.com/lang/de"
         },
         {
               title: "Greece",
               latitude: 39.0742,
               longitude: 21.8243,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Hungary",
               latitude: 47.1624,
               longitude: 19.5033,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Iceland",
               latitude: 64.9630,
               longitude: -19.0208,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Italy",
               latitude: 41.8719,
               longitude: 12.5673,
-              url: "https://vanward-is.com/lang/it"
+              url: "https://vanwardintl.com/lang/it"
         },
         {
               title: "Liechtenstein",
               latitude: 47.166,
               longitude: 9.5553,
-              url: "https://vanward-is.com/lang/de"
+              url: "https://vanwardintl.com/lang/de"
         },
         {
               title: "Luxembourg",
               latitude: 49.8152,
               longitude: 6.1295,
-              url: "https://vanward-is.com/lang/fr"
+              url: "https://vanwardintl.com/lang/fr"
         },
         {
               title: "Netherlands",
               latitude: 52.1326,
               longitude: 5.2912,
-              url: "https://vanward-is.com/lang/nl"
+              url: "https://vanwardintl.com/lang/nl"
         },
         {
               title: "Norway",
               latitude: 60.4720,
               longitude: 8.4689,
-              url: "https://vanward-is.com/lang/no"
+              url: "https://vanwardintl.com/lang/no"
         },
         {
               title: "Poland",
               latitude: 51.9194,
               longitude: 19.1451,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Portugal",
               latitude: 39.3998,
               longitude: -8.2244,
-              url: "https://vanward-is.com/lang/pt"
+              url: "https://vanwardintl.com/lang/pt"
         },
         {
               title: "Slovakia",
               latitude: 48.6690,
               longitude: 19.6990,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Slovenia",
               latitude: 46.1512,
               longitude: 14.9954,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Spain",
               latitude: 40.4636,
               longitude: -3.7492,
-              url: "https://vanward-is.com/lang/es"
+              url: "https://vanwardintl.com/lang/es"
         },
         {
               title: "Sweden",
               latitude: 60.1281,
               longitude: 18.6435,
-              url: "https://vanward-is.com/lang/sv"
+              url: "https://vanwardintl.com/lang/sv"
         },
         {
               title: "Switzerland",
               latitude: 46.8181,
               longitude: 8.2275,
-              url: "https://vanward-is.com/lang/de"
+              url: "https://vanwardintl.com/lang/de"
         },
         {
               title: "United Kingdom",
               latitude: 55.3780,
               longitude: -3.4359,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "Brazil",
               latitude: -14.2350,
               longitude: -51.9252,
-              url: "https://vanward-is.com/lang/pt"
+              url: "https://vanwardintl.com/lang/pt"
         },
         {
               title: "Canada",
               latitude: 56.1303,
               longitude: -106.3467,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "United States of America",
               latitude: 37.0902,
               longitude: -95.7128,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         },
         {
               title: "South Africa",
               latitude: -30.5594,
               longitude: 22.9375,
-              url: "https://vanward-is.com/lang/en"
+              url: "https://vanwardintl.com/lang/en"
         }
     ];
 
@@ -938,71 +938,71 @@ var homeButton = chart.children.push(am5.Button.new(root, {
 // Define a map of country codes to their respective URLs
 // var countryUrls = {
 //   // united states
-//   "US": "https://vanward-is.com/lang/en",
+//   "US": "https://vanwardintl.com/lang/en",
 //   // canada
-//   "CA": "https://vanward-is.com/lang/en",
+//   "CA": "https://vanwardintl.com/lang/en",
 //   // brazil
-//   "BR": "https://vanward-is.com/lang/pt",
+//   "BR": "https://vanwardintl.com/lang/pt",
 //   // australia
-//   "AU": "https://vanward-is.com/lang/en",
+//   "AU": "https://vanwardintl.com/lang/en",
 //   // china
-//   "CN": "https://vanward-is.com/lang/zh",
+//   "CN": "https://vanwardintl.com/lang/zh",
 //   // japan
-//   "JP": "https://vanward-is.com/lang/ja",
+//   "JP": "https://vanwardintl.com/lang/ja",
 //   // new zealand
-//   "NZ": "https://vanward-is.com/lang/en",
+//   "NZ": "https://vanwardintl.com/lang/en",
 //   // uae
-//   "AE": "https://vanward-is.com/lang/ar",
+//   "AE": "https://vanwardintl.com/lang/ar",
 //   // austria
-//   "AT": "https://vanward-is.com/lang/de",
+//   "AT": "https://vanwardintl.com/lang/de",
 //   // belgium
-//   "BE": "https://vanward-is.com/lang/nl",
+//   "BE": "https://vanwardintl.com/lang/nl",
 //   //czech republic
-//   "CZ": "https://vanward-is.com/lang/en",
+//   "CZ": "https://vanwardintl.com/lang/en",
 //   // denmark
-//   "DK": "https://vanward-is.com/lang/da",
+//   "DK": "https://vanwardintl.com/lang/da",
 //   // estonia
-//   "EE": "https://vanward-is.com/lang/et",
+//   "EE": "https://vanwardintl.com/lang/et",
 //   // finland
-//   "FI": "https://vanward-is.com/lang/fi",
+//   "FI": "https://vanwardintl.com/lang/fi",
 //   // france
-//   "FR": "https://vanward-is.com/lang/fr",
+//   "FR": "https://vanwardintl.com/lang/fr",
 //   // germany
-//   "DE": "https://vanward-is.com/lang/de",
+//   "DE": "https://vanwardintl.com/lang/de",
 //   // greece
-//   "GR": "https://vanward-is.com/lang/en",
+//   "GR": "https://vanwardintl.com/lang/en",
 //   // hungary
-//   "HU": "https://vanward-is.com/lang/en",
+//   "HU": "https://vanwardintl.com/lang/en",
 //   // iceland
-//   "IS": "https://vanward-is.com/lang/en",
+//   "IS": "https://vanwardintl.com/lang/en",
 //   // italy
-//   "IT": "https://vanward-is.com/lang/it",
+//   "IT": "https://vanwardintl.com/lang/it",
 //   // liechtenstein
-//   "LI": "https://vanward-is.com/lang/de",
+//   "LI": "https://vanwardintl.com/lang/de",
 //   // luxemborg
-//   "LU": "https://vanward-is.com/lang/fr",
+//   "LU": "https://vanwardintl.com/lang/fr",
 //   // netherlands
-//   "NL": "https://vanward-is.com/lang/nl",
+//   "NL": "https://vanwardintl.com/lang/nl",
 //   // norway
-//   "NO": "https://vanward-is.com/lang/no",
+//   "NO": "https://vanwardintl.com/lang/no",
 //   // poland
-//   "PL": "https://vanward-is.com/lang/en",
+//   "PL": "https://vanwardintl.com/lang/en",
 //   // portugal
-//   "PT": "https://vanward-is.com/lang/pt",
+//   "PT": "https://vanwardintl.com/lang/pt",
 //   // slovakia
-//   "SK": "https://vanward-is.com/lang/en",
+//   "SK": "https://vanwardintl.com/lang/en",
 //   // slovenia
-//   "SI": "https://vanward-is.com/lang/en",
+//   "SI": "https://vanwardintl.com/lang/en",
 //   // spain
-//   "ES": "https://vanward-is.com/lang/es",
+//   "ES": "https://vanwardintl.com/lang/es",
 //   // sweden
-//   "SE": "https://vanward-is.com/lang/sv",
+//   "SE": "https://vanwardintl.com/lang/sv",
 //   // switzerland
-//   "CH": "https://vanward-is.com/lang/de",
+//   "CH": "https://vanwardintl.com/lang/de",
 //   // uk
-//   "GB": "https://vanward-is.com/lang/en",
+//   "GB": "https://vanwardintl.com/lang/en",
 //   // south africa
-//   "ZA": "https://vanward-is.com/lang/en",
+//   "ZA": "https://vanwardintl.com/lang/en",
 // };
 
 // Filter the countries from the am5geodata_worldLow GeoJSON
