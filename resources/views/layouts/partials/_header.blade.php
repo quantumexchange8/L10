@@ -183,7 +183,7 @@ $languages = [
                     <a class="main-menu" href="https://app.vanward-is.com/en/accounts/login/">@lang('public.client login')</a>
                 </li> --}}
                 <li>
-                    <a class="nav" href="{{env('CRM_URL')}}/en/accounts/login/">@lang('public.client login')</a>
+                    <a class="nav" href="https://app.vanwardintl.com/en/accounts/login/">@lang('public.client login')</a>
                 </li>
             </ul>
             <div class="menu-right">
