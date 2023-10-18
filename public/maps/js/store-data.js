@@ -73,7 +73,7 @@ let stores = [{
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
         "email": "it@vanward-is.com",
-        "phoneNumber": "+39 029475 9690",
+        "phoneNumber": "+39 29475 9690",
         "coordinates": {
             "latitude": 45.4818066,
             "longitude": 9.1922842
