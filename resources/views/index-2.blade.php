@@ -73,7 +73,7 @@
       font-size: 1.1em;
     }
     .dropdown-menu {
-      background-color: #F89F3C;
+      background-color: #03BFCB;
       box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
       border: none;
       border-radius: 0;
@@ -82,8 +82,8 @@
 
     .btn-secondary {
         color: #fff;
-        background-color: #F89F3C !important;
-        border-color: #F89F3C !important;
+        background-color: #03BFCB !important;
+        border-color: #03BFCB !important;
     }
 
     @media only screen and (min-width: 992px) {
@@ -100,21 +100,21 @@
     }
     .dropdown-menu li .dropdown-item {
       color: #ffffff;
-      background-color: #F89F3C;
+      background-color: #03BFCB;
       font-size: 1em;
       padding: 0.5em 1em;
     }
     .dropdown-menu li .dropdown-item:hover {
-      background-color: #f5be7f;
+      background-color: #005067;
     }
 
     select option:checked {
-      background-color: #f5be7f !important;
+      background-color: #005067 !important;
       color: #ffffff !important;
     }
 
     select option:hover {
-      background-color: #f5be7f !important;
+      background-color: #005067 !important;
       color: #ffffff !important;
     }
 
@@ -222,55 +222,55 @@
           <div class="slider text-center" style="color: white; padding-top:20px;">
             <div class="slide">
               <h1>Welcome to Vanward International</h1>
-              <p style="color:#F89F3C;">Please select your language and country</p>
+              <p style="color:#03BFCB;">Please select your language and country</p>
             </div>
             <div class="slide">
               <h1>Bienvenue chez Vanward International</h1>
-              <p style="color:#F89F3C;">Veuillez sélectionner votre langue et votre pays</p>
+              <p style="color:#03BFCB;">Veuillez sélectionner votre langue et votre pays</p>
             </div>
             <div class="slide">
               <h1>欢迎来到 Vanward International</h1>
-              <p style="color:#F89F3C;">请选择您的语言和国家</p>
+              <p style="color:#03BFCB;">请选择您的语言和国家</p>
             </div>
             <div class="slide">
               <h1>أهلاً بك في فانوارد الدولية </h1>
-              <p style="color:#F89F3C;">يرجى تحديد اللغة والبلد الخاص بك</p>
+              <p style="color:#03BFCB;">يرجى تحديد اللغة والبلد الخاص بك</p>
             </div>
             <div class="slide">
               <h1>Willkommen bei Vanward International</h1>
-              <p style="color:#F89F3C;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
+              <p style="color:#03BFCB;">Bitte wählen Sie Ihre Sprache und Ihr Land aus</p>
             </div>
             <div class="slide">
               <h1>Welkom bij Vanward International</h1>
-              <p style="color:#F89F3C;">Selecteer alstublieft uw taal en land</p>
+              <p style="color:#03BFCB;">Selecteer alstublieft uw taal en land</p>
             </div>
             <div class="slide">
               <h1>Velkommen til Vanward International</h1>
-              <p style="color:#F89F3C;">Vennligst velg ditt språk og land</p>
+              <p style="color:#03BFCB;">Vennligst velg ditt språk og land</p>
             </div>
             <div class="slide">
               <h1>Välkommen till Vanward International</h1>
-              <p style="color:#F89F3C;">Vänligen välj ditt språk och land</p>
+              <p style="color:#03BFCB;">Vänligen välj ditt språk och land</p>
             </div>
             <div class="slide">
               <h1>Tervetuloa Vanward Internationaliin</h1>
-              <p style="color:#F89F3C;">Valitse kieli ja maa, ole hyvä</p>
+              <p style="color:#03BFCB;">Valitse kieli ja maa, ole hyvä</p>
             </div>
             <div class="slide">
               <h1>Willkomme bi Vanward International</h1>
-              <p style="color:#F89F3C;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
+              <p style="color:#03BFCB;">Bitte wählen Sie Ihre Sprache und Ihr Land us</p>
             </div>
             <div class="slide">
               <h1>Tere tulemast Vanward Internationali</h1>
-              <p style="color:#F89F3C;">Palun valige oma keel ja riik</p>
+              <p style="color:#03BFCB;">Palun valige oma keel ja riik</p>
             </div>
             <div class="slide">
               <h1>Vanward Internationalへようこそ</h1>
-              <p style="color:#F89F3C;">言語と国を選択してください</p>
+              <p style="color:#03BFCB;">言語と国を選択してください</p>
             </div>
             <div class="slide">
               <h1>Velkommen til Vanward International</h1>
-              <p style="color:#F89F3C;">Vælg venligst dit sprog og dit land</p>
+              <p style="color:#03BFCB;">Vælg venligst dit sprog og dit land</p>
             </div>
           </div>
         </div>
@@ -424,7 +424,7 @@
 
               <p style="padding: 50px;">
                 All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Vanward International Securities Limited on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Vanward International Securities Limited is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
-                Vanward International Securities Limited is licensed by the Securities and Futures Commission (SFC) of the Hong Kong  to engage with clients by Dealing in Securities regulated activity as defined in Schedule 5 of the Securities and Futures Ordinance (SFO). SFC Regulatory Number: BOC314. Vanward International Securities Limited is a Hong Kong corporation headquartered at: Unit 1112, The Metropolis Tower, 10 Metroplis Drive, Hung Hom, Hong Kong. Company Registration No: 2715718.</p>
+                Vanward International Securities Limited is licensed by the Securities and Futures Commission (SFC) of the Hong Kong  to engage with clients by Dealing in Securities regulated activity as defined in Schedule 5 of the Securities and Futures Ordinance (SFO). SFC Regulatory Number: BOC314. Vanward International Securities Limited is a Hong Kong corporation headquartered at: Unit 1112, The Metropolis Tower, 10 Metropolis Drive, Hung Hom, Hong Kong. Company Registration No: 2715718.</p>
               <p style="padding-left: 50px;">Vanward International © 2019</p>
           </div>
         </div>
@@ -645,7 +645,7 @@
                 radius: 4,
                 tooltipY: 0,
                 // fill: colorset.next(),
-                fill: am5.color("#F89F3C"),
+                fill: am5.color("#03BFCB"),
                 strokeOpacity: 0
             })
         );
@@ -656,7 +656,7 @@
                 radius: 4,
                 tooltipY: 0,
                 // fill: colorset.next(),
-                fill: am5.color("#F89F3C"),
+                fill: am5.color("#03BFCB"),
                 strokeOpacity: 0,
                 tooltipText: "{title}"
             })
