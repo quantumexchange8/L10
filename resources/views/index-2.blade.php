@@ -358,6 +358,7 @@
                               <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink14">Greece</a></li>
                               <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink15">Hungary</a></li>
                               <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink16">Iceland</a></li>
+                              <li><a class="dropdown-item" href="https://vanwardintl.com/lang/en" id="myLink30">Ireland</a></li>
                               <li><a class="dropdown-item" href="https://vanwardintl.com/lang/it" id="myLink17">Italy</a></li>
                               <li><a class="dropdown-item" href="https://vanwardintl.com/lang/de" id="myLink18">Liechtenstein</a></li>
                               <li><a class="dropdown-item" href="https://vanwardintl.com/lang/fr" id="myLink19">Luxembourg</a></li>
@@ -780,6 +781,12 @@
               title: "Iceland",
               latitude: 64.9630,
               longitude: -19.0208,
+              url: "https://vanwardintl.com/lang/en"
+        },
+        {
+              title: "Ireland",
+              latitude: 53.4129,
+              longitude: -8.2438,
               url: "https://vanwardintl.com/lang/en"
         },
         {
