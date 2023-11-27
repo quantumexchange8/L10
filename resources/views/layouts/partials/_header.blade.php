@@ -179,9 +179,7 @@ $languages = [
                 <li class="nav-label">
                     
                 </li>
-                {{-- <li class="nav-label">
-                    <a class="main-menu" href="https://app.vanward-is.com/en/accounts/login/">@lang('public.client login')</a>
-                </li> --}}
+                
                 <li>
                     <a class="nav" href="https://app.vanwardintl.com/en/accounts/login/">@lang('public.client login')</a>
                 </li>
