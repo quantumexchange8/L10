@@ -201,11 +201,37 @@
     opacity: 1;
   }
 }
+
+
+.js-cookie-consent {
+  position: fixed;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 100%;
+  z-index: 9999;
+  background-color: rgb(2, 53, 77);;
+  border-color: #fffacc;
+  border: solid 1px;
+}
+.cookie-consent__message{
+  color:#fff!Important;
+}
+
+.js-cookie-consent-agree{
+  background-color: #03BFCB; 
+  border-color: #03BFCB; 
+  padding:10px; 
+  border-radius: 8px;
+}
+
   </style>
 
     </head>
     <body style="background-color: #004767;">
-
+        @include('cookie-consent::index')
+        {{-- @include('custom-cookie-consent') --}}
         {{-- <div class="loading-bar" id="loader">
                 <img src="{{ asset('logo.gif') }}" class="loader-logo" >
                 <div class="progress"></div>
