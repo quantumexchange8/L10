@@ -121,7 +121,7 @@ $languages = [
                             </ul>
                         </li>
                         <li>
-                            <a class="header" href="https://app.vanward-is.com/en/applications/create/">@lang('public.open account')</a>
+                            <a class="header" href="https://app.vanwardintl.com/en/applications/create/">@lang('public.open account')</a>
                         </li>
                     </ul>
                 </li>
