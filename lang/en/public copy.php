@@ -892,7 +892,7 @@ return [
                                 <br><br>
                                 In today’s world, it is critical to be cautious when accessing and sharing your personal and confidential information online and in your daily interactions. The following are some important considerations to be mindful of while performing your daily business and personal routines:",
     "online security 6"     => "Vanward's website address is",
-    "online security 7"     => "All legitimate communications from Vanward will come from a vanward-is.com domain. All others should be considered suspect. If you have any questions about Vanward's website or suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship Manager or contact Vanward at any of our main locations.
+    "online security 7"     => "All legitimate communications from Vanward will come from a vanward-intl.com domain. All others should be considered suspect. If you have any questions about Vanward's website or suspect you may have received a suspicious Vanward link or Vanward email you may call your Vanward Relationship Manager or contact Vanward at any of our main locations.
                                 <br><br>
                                 Be cautious of any emails requesting personal or confidential information. Under no circumstances will Vanward ever contact you on an unsolicited basis (by telephone, email or otherwise) and request that you provide your logon credentials, electronic banking or other personal information.
                                 <br><br>
@@ -980,7 +980,7 @@ return [
                             set out in this Cookie Policy is provided in addition to and should be read alongside our
                             Privacy Policy, which can be found at',
     "cookie policy 4"    => "Websites covered by this Cookie Policy",
-    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on vanward-is.com and other websites operated by
+    "cookie policy 5"    => "<p>This Cookie Policy explains how Cookies are used on vanward-intl.com and other websites operated by
                                 us from which you are accessing this Cookie Policy (collectively referred to as the
                                 &Prime;Sites&Prime;).</p>
                             <p>The policy may be amended from time to time. When it is amended, we will let you know by

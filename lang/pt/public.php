@@ -1185,7 +1185,7 @@ transparente da atividade de investimento em toda a empresa.",
     "inforecon 2" => "Tecnologia",
     "inforecon 3" => "Mecanismo flexível e comprovado de coleta e normalização de dados, Infomediary",
     "inforecon 4" => "Plataforma robusta de software de reconciliação para processamento de dados e gerenciamento de exceções",
-    "inforecon 5" => "Relatórios abrangentes para clientes que podem ser acessados via vanward-is.com ou entregues por e-mail em vários formatos (PDF, MS Excel, CSV)",
+    "inforecon 5" => "Relatórios abrangentes para clientes que podem ser acessados via vanward-intl.com ou entregues por e-mail em vários formatos (PDF, MS Excel, CSV)",
     "inforecon 6" => "Melhores Práticas da Indústria",
     "inforecon 7" => "Reconciliação diária no nível de transação",
     "inforecon 8" => "A Vanward trabalha com os provedores de clientes para aumentar o STP a fim de maximizar a eficiência e reduzir o risco de erros e omissões",
@@ -2369,7 +2369,7 @@ títulos em todos os provedores de serviços",
                                     respeitam sua privacidade e estão comprometidas em protegê-la.",
     "privacy policy 4" => "Sites e Serviços Cobertos por Esta Política de Privacidade",
     "privacy policy 5" => "<p>Esta política de privacidade se aplica às nossas práticas de privacidade para o tratamento de informações relacionadas ao
-                            seu uso do vanward-is.com e de outros sites operados por nós, a partir dos quais você está acessando esta
+                            seu uso do vanward-intl.com e de outros sites operados por nós, a partir dos quais você está acessando esta
                             política de privacidade (coletivamente referidos como os “Sites”), bem como nossos serviços online nos
                             Sites e serviços relacionados aos nossos produtos empresariais (os “Serviços”). Também descrevemos
                             os direitos que você pode ter e como pode entrar em contato conosco sobre nossas práticas de privacidade.</p>
@@ -3508,7 +3508,7 @@ Vanward seja obrigada a reter tais dados pessoais por um período mais longo de 
                                 <br><br>
                                 No mundo atual, é fundamental ter cautela ao acessar e compartilhar suas informações pessoais e confidenciais online e em suas interações diárias. A seguir, algumas considerações importantes para se lembrar ao realizar suas atividades diárias de negócios e pessoais:",
     "online security 6"     => "O endereço do site da Vanward é",
-    "online security 7"     => "Todas as comunicações legítimas da Vanward virão de um domínio vanward-is.com. Todas as outras devem ser consideradas suspeitas. Se você tiver alguma dúvida sobre o site da Vanward ou suspeitar que possa ter recebido um link ou e-mail suspeito da Vanward, você pode ligar para o seu Gerente de Relacionamento da Vanward ou entrar em contato com a Vanward em qualquer uma de nossas principais localizações.
+    "online security 7"     => "Todas as comunicações legítimas da Vanward virão de um domínio vanward-intl.com. Todas as outras devem ser consideradas suspeitas. Se você tiver alguma dúvida sobre o site da Vanward ou suspeitar que possa ter recebido um link ou e-mail suspeito da Vanward, você pode ligar para o seu Gerente de Relacionamento da Vanward ou entrar em contato com a Vanward em qualquer uma de nossas principais localizações.
                                 <br><br>
                                 Tenha cautela com e-mails que solicitem informações pessoais ou confidenciais. Em nenhuma circunstância a Vanward entrará em contato com você de forma não solicitada (por telefone, e-mail ou de outra forma) e solicitará que você forneça suas credenciais de login, serviços bancários eletrônicos ou outras informações pessoais.
                                 <br><br>
@@ -3592,7 +3592,7 @@ Vanward seja obrigada a reter tais dados pessoais por um período mais longo de 
                             contidas nesta Política de Cookies são fornecidas além e devem ser lidas juntamente com nossa
                             Política de Privacidade, que pode ser encontrada em',
     "cookie policy 4"    => "Websites abrangidos por esta Política de Cookies",
-    "cookie policy 5"    => "<p>Esta Política de Cookies explica como os Cookies são utilizados em vanward-is.com e outros sites operados por
+    "cookie policy 5"    => "<p>Esta Política de Cookies explica como os Cookies são utilizados em vanward-intl.com e outros sites operados por
                                 nós a partir dos quais você está acessando esta Política de Cookies (coletivamente referidos como os
                                 “Sites”).</p>
                             <p>A política pode ser alterada de tempos em tempos. Quando for alterada, informaremos você publicando a

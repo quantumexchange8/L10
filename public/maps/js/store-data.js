@@ -2,7 +2,7 @@ let stores = [{
         "id": "1",
         "branchName": "HONG KONG",
         "name": "HONG KONG",
-        "email": "info@vanward-is.com",
+        "email": "info@vanward-intl.com",
         "phoneNumber": "+852 5808 8687",
         "coordinates": {
             "latitude": 22.309620,
@@ -16,7 +16,7 @@ let stores = [{
         "id": "2",
         "branchName": "IRELAND, CORK",
         "name": "IRELAND, CORK",
-        "email": "irl@vanward-is.com",
+        "email": "irl@vanward-intl.com",
         "phoneNumber": "+353 21480 2699",
         "coordinates": {
             "latitude": 51.8969166,
@@ -30,7 +30,7 @@ let stores = [{
         "id": "3",
         "branchName": "JAPAN, TOKYO",
         "name": "JAPAN, TOKYO",
-        "email": "jpn@vanward-is.com",
+        "email": "jpn@vanward-intl.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 35.6760569,
@@ -44,7 +44,7 @@ let stores = [{
         "id": "4",
         "branchName": "SINGAPORE",
         "name": "SINGAPORE",
-        "email": "sg@vanward-is.com",
+        "email": "sg@vanward-intl.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 1.2832451,
@@ -58,7 +58,7 @@ let stores = [{
         "id": "5",
         "branchName": "LUXEMBOURG",
         "name": "LUXEMBOURG",
-        "email": "lux@vanward-is.com",
+        "email": "lux@vanward-intl.com",
         "phoneNumber": "+352 2794 1780",
         "coordinates": {
             "latitude": 49.8510536,
@@ -72,7 +72,7 @@ let stores = [{
         "id": "6",
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
-        "email": "it@vanward-is.com",
+        "email": "it@vanward-intl.com",
         "phoneNumber": "+39 29475 9690",
         "coordinates": {
             "latitude": 45.4818066,
@@ -86,7 +86,7 @@ let stores = [{
         "id": "7",
         "branchName": "UK, LONDON",
         "name": "UK, LONDON",
-        "email": "ldn@vanward-is.com",
+        "email": "ldn@vanward-intl.com",
         "phoneNumber": "",
         "coordinates": {
             "latitude": 51.5133502,

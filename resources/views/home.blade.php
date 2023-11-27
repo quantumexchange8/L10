@@ -96,7 +96,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a class="header" href="https://app.vanward-is.com/en/applications/create/">@lang('public.open account')</a>
+                            <a class="header" href="https://app.vanward-intl.com/en/applications/create/">@lang('public.open account')</a>
                         </li>
                     </ul>
                 </li>
@@ -155,7 +155,7 @@
                     
                 </li>
                 <li class="nav-label">
-                    <a class="main-menu" href="https://app.vanward-is.com/en/accounts/login/">@lang('public.client login')</a>
+                    <a class="main-menu" href="https://app.vanward-intl.com/en/accounts/login/">@lang('public.client login')</a>
                 </li>
             </ul>
             <div class="menu-right">
