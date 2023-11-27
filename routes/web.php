@@ -66,7 +66,7 @@ Route::controller(PageController::class)->prefix('private-banking/private-wealth
     Route::get('/center-for-women-and-wealth', 'centerForWomenAndWealth')->name('center_for_women_and_wealth');
     Route::get('/investment-advisory', 'investmentAdvisory')->name('investment_advisory');
     Route::get('/philanthropic-advisory', 'philanthropicAdvisory')->name('philanthropic_advisory');
-    Route::get('/private-client-landing', 'privateClientLanding')->name('private_client_landing');
+    Route::get('/private-client-lending', 'privateClientLanding')->name('private_client_landing');
     Route::get('/trust-services', 'trustServices')->name('trust_services');
     Route::get('/wealth-planning', 'wealthPlanning')->name('wealth_planning');
 });
