@@ -131,7 +131,7 @@
                             <div class="blog-tag paragraph" style="color:#fff !Important;">ITALY, MILAN</div>
                             <div class="section-txt-2">
                                 <p>
-                                    Diamantino Building<br>
+                                    Torre Diamante Building<br>
                                     Via Mike Bongiorno, 13, 20124 <br>
                                     Milano MI<br>
                                     Italy<br>
