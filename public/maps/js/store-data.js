@@ -78,7 +78,7 @@ let stores = [{
             "latitude": 45.4818066,
             "longitude": 9.1922842
         },
-        "addressLines": ["Diamantino Building", "Via Mike Bongiorno, 13, 20124 Milano MI Italy"],
+        "addressLines": ["Torre Diamante Building", "Via Mike Bongiorno, 13, 20124 Milano MI Italy"],
         "country": "Italy",
         "remarks": ""
     },
