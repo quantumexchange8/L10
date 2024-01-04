@@ -54,22 +54,7 @@
         <div class="post-content">
             <div class="container">
                 <div class="extra-margin-container extra-margin-container-post">                    
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="divider-m"></div>
-                            <div class="blog-tag paragraph" style="color:#fff !Important;">Hong Kong</div>
-                            <div class="section-txt-2">
-                                <p>
-                                    The Metropolis Tower<br>
-                                    10 Metropolis Drive<br>
-                                    Hung Hom<br>
-                                    Hong Kong<br>
-                                    Email : <a class="link-effect" href="mailto: info@vanwardintl.com">info@vanwardintl.com</a>
-                                </p>
-                            </div>
-                            <div class="divider-l visible-mobile-devices"></div>
-                        </div>
-                    </div>
+                    
                     <div class="row">
                         <div class="col-md-4">
                             <div class="divider-m"></div>
