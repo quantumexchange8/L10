@@ -1,19 +1,5 @@
 let stores = [{
         "id": "1",
-        "branchName": "HONG KONG",
-        "name": "HONG KONG",
-        "email": "info@vanward-intl.com",
-        "phoneNumber": "+852 5808 8687",
-        "coordinates": {
-            "latitude": 22.309620,
-            "longitude": 113.921320
-        },
-        "addressLines": ["The Metropolis Tower", "10 Metropolis Drive Hung Hom Hong Kong"],
-        "country": "Hong Kong",
-        "remarks": ""
-    },
-    {
-        "id": "2",
         "branchName": "IRELAND, CORK",
         "name": "IRELAND, CORK",
         "email": "irl@vanward-intl.com",
@@ -27,7 +13,7 @@ let stores = [{
         "remarks": ""
     },
     {
-        "id": "3",
+        "id": "2",
         "branchName": "JAPAN, TOKYO",
         "name": "JAPAN, TOKYO",
         "email": "jpn@vanward-intl.com",
@@ -41,7 +27,7 @@ let stores = [{
         "remarks": ""
     },
     {
-        "id": "4",
+        "id": "3",
         "branchName": "SINGAPORE",
         "name": "SINGAPORE",
         "email": "sg@vanward-intl.com",
@@ -55,7 +41,7 @@ let stores = [{
         "remarks": ""
     },
     {
-        "id": "5",
+        "id": "4",
         "branchName": "LUXEMBOURG",
         "name": "LUXEMBOURG",
         "email": "lux@vanward-intl.com",
@@ -69,7 +55,7 @@ let stores = [{
         "remarks": ""
     },
     {
-        "id": "6",
+        "id": "5",
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
         "email": "it@vanward-intl.com",
@@ -83,7 +69,7 @@ let stores = [{
         "remarks": ""
     },
     {
-        "id": "7",
+        "id": "6",
         "branchName": "UK, LONDON",
         "name": "UK, LONDON",
         "email": "ldn@vanward-intl.com",

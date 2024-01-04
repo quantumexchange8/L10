@@ -186,9 +186,9 @@ $languages = [
             </ul>
             <div class="menu-right">
                 <div class="custom-area">
-                    Unit 1112, The Metropolis Tower,<br />
-                    10 Metropolis Drive, Hung Hom, Hong Kong <br/>
-                    Call us: <a href="tel:+85258088687" style="color: #fff; text-decoration: none;">(+852) 5808 8687 </a>
+                    Torre Diamante Building<br />
+                    Via Mike Bongiorno, 13, 20124 Milano MI Italy<br/>
+                    Call us: <a href="tel:+39294759690" style="color: #fff; text-decoration: none;">(+39) 29475 9690 </a>
                 </div>
                 <ul class="lan-menu">
                     <li class="dropdown">

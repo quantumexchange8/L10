@@ -29,10 +29,10 @@
                                     <div class="store-container">
                                       <div class="store-info-container">
                                         <div class="store-address">
-                                          <span>The Metropolis Tower</span>
-                                          <span>10 Metropolis Drive Hung Hom Hong Kong</span>
+                                          <span>Torre Diamante Building,</span>
+                                          <span>Via Mike Bongiorno, 13, 20124 Milano MI Italy</span>
                                         </div>
-                                        <div class="store-phone-number">+852 5808 8687</div>
+                                        <div class="store-phone-number">+39 29475 9690</div>
                                       </div>
                                       <div class="store-number-container">
                                         <div class="store-number">
