@@ -100,19 +100,6 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="divider-m"></div>
-                            <div class="blog-tag paragraph" style="color:#fff !Important;">LUXEMBOURG</div>
-                            <div class="section-txt-2">
-                                <p>
-                                    President East Building<br>
-                                    Avenue J.F. Kennedy<br>
-                                    L-1855 Luxembourg<br>
-                                    Email : <a class="link-effect" href="mailto: lux@vanwardintl.com">lux@vanwardintl.com</a>
-                                </p>
-                            </div>
-                            <div class="divider-l visible-mobile-devices"></div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="divider-m"></div>
                             <div class="blog-tag paragraph" style="color:#fff !Important;">ITALY, MILAN</div>
                             <div class="section-txt-2">
                                 <p>

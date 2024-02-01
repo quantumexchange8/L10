@@ -42,20 +42,6 @@ let stores = [{
     },
     {
         "id": "4",
-        "branchName": "LUXEMBOURG",
-        "name": "LUXEMBOURG",
-        "email": "lux@vanward-intl.com",
-        "phoneNumber": "+352 2794 1780",
-        "coordinates": {
-            "latitude": 49.8510536,
-            "longitude": 6.1117625
-        },
-        "addressLines": ["President East Building", "Avenue J.F. Kennedy L-1855 Luxembourg"],
-        "country": "Luxembourg",
-        "remarks": ""
-    },
-    {
-        "id": "5",
         "branchName": "ITALY, MILAN",
         "name": "ITALY, MILAN",
         "email": "it@vanward-intl.com",
@@ -69,7 +55,7 @@ let stores = [{
         "remarks": ""
     },
     {
-        "id": "6",
+        "id": "5",
         "branchName": "UK, LONDON",
         "name": "UK, LONDON",
         "email": "ldn@vanward-intl.com",
