@@ -453,7 +453,7 @@
               <p style="padding: 50px;">
                 All the information, news, opinions, research, and analyses on this website are provided as a reference. All the information provided by Vanward International Securities Limited on this website is subject to change from time to time and up to date. By using Online platforms there is a possibility of communication failures, hardware, software, and connection issues, measures are in place to minimize the failure and delay, and users should be responsible and aware of this. Vanward International Securities Limited is not responsible for this communication failure. The unauthorized use, of all and/or any information on this website, is strictly prohibited. <br><br>
               </p>
-              <p style="padding-left: 50px;">Vanward International © 2019</p>
+              <p style="padding-left: 50px;">Vanward International © {{ now()->year }}</p>
           </div>
         </div>
         <!-- FOOTER ENDS -->
