@@ -33,7 +33,7 @@
         <div class="container">
             <p>@lang('public.home page 26')<br><br>
                 </p>
-            <span>© 2019 Vanward International</span>
+            <span>© {{ now()->year }} Vanward International</span>
             {{-- <span><a href="#">Contact us</a> | <a href="#">Privacy policy</a></span> --}}
         </div>
     {{-- </div> --}}
